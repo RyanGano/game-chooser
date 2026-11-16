@@ -59,7 +59,7 @@
         "Card game bin",
         "Party, word & trivia"
       ],
-      "fill": 76
+      "fill": 77
     },
     {
       "id": "C3",
@@ -71,9 +71,10 @@
     {
       "id": "D1",
       "sections": [
-        "Kids"
+        "Kids",
+        "Family"
       ],
-      "fill": 47
+      "fill": 51
     },
     {
       "id": "D2",

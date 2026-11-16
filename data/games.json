@@ -3688,8 +3688,16 @@
     "description": "Swap cards to put your rack in ascending order first.",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Racko-game.jpg/500px-Racko-game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "imageCredit": "https://en.wikipedia.org/wiki/Rack-O",
+    "bggId": 917,
+    "bggVerified": true,
+    "size": [
+      10,
+      6,
+      1.5
+    ],
+    "sizeLocked": true,
     "cubby": "C2",
-    "section": "Card game bin"
+    "section": "Family"
   },
   {
     "name": "Raise the Roof",
@@ -5163,12 +5171,18 @@
     ],
     "theme": "Fantasy",
     "description": "A wizard-themed card game; details need checking.",
-    "cubby": "C2",
-    "section": "Card game bin",
     "bggId": 232829,
     "bggVerified": true,
     "image": "https://cf.geekdo-images.com/xmxUZccK_PO-Dsgd0FcdFw__itemrep@2x/img/U3vU2NyYXnyPLqto_4VsrskTbHU=/fit-in/492x600/filters:strip_icc()/pic3716016.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/232829"
+    "imageCredit": "https://boardgamegeek.com/boardgame/232829",
+    "size": [
+      10,
+      8,
+      2.5
+    ],
+    "sizeLocked": true,
+    "cubby": "D1",
+    "section": "Family"
   },
   {
     "name": "Things...",
