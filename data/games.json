@@ -1042,7 +1042,6 @@
     ],
     "theme": "Abstract",
     "description": "An abstract game; details need checking.",
-    "needsReview": true,
     "cubby": "B2",
     "section": "Family",
     "bggId": 69459,
@@ -1375,7 +1374,7 @@
     "section": "Card game bin"
   },
   {
-    "name": "Cube 2 Checkers",
+    "name": "Cube Checkers",
     "publisher": "Unknown",
     "type": "Base game",
     "minPlayers": 2,
@@ -1389,10 +1388,13 @@
       "Abstract"
     ],
     "theme": "Abstract",
-    "description": "A checkers variant; details need checking.",
-    "needsReview": true,
+    "description": "Checkers played with dice: each move can roll a die up a number, and a piece that reaches six becomes a king.",
     "cubby": "B1",
-    "section": "Two-player"
+    "section": "Two-player",
+    "bggId": 6678,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/Gp6XSHxcBQ2ktybeF0IXOw__itemrep@2x/img/6IuQiE_ggB_qbwkwh6R-CEtWnV0=/fit-in/492x600/filters:strip_icc()/pic36044.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/6678"
   },
   {
     "name": "Decrypto",
@@ -1752,7 +1754,6 @@
     ],
     "theme": "Adventure",
     "description": "Race over the island while dodging rolling fireballs.",
-    "needsReview": true,
     "cubby": "B2",
     "section": "Family",
     "bggId": 345435,
@@ -3293,7 +3294,6 @@
     ],
     "theme": "Abstract",
     "description": "Get five in a row or capture pairs of stones.",
-    "needsReview": true,
     "bggId": 1295,
     "image": "https://cf.geekdo-images.com/2aehMgvcnEh8TR-4kpAmyw__itemrep@2x/img/lM8QuFMrY9RS2D3MJXC-1YlaQf0=/fit-in/492x600/filters:strip_icc()/pic1476333.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/1295",
@@ -3303,7 +3303,8 @@
       2.7
     ],
     "cubby": "B3",
-    "section": "Family"
+    "section": "Family",
+    "bggVerified": true
   },
   {
     "name": "Phase 10",
@@ -3350,7 +3351,6 @@
     ],
     "theme": "Classic",
     "description": "A Phase 10 variant with cards that flip the game around.",
-    "needsReview": true,
     "cubby": "C2",
     "section": "Card game bin",
     "bggId": 423153,
@@ -3704,12 +3704,12 @@
     ],
     "theme": "Construction",
     "description": "A building game; details need checking.",
-    "needsReview": true,
     "bggId": 4097,
     "image": "https://cf.geekdo-images.com/XU-74YEFMJCmOdlmf9D7oA__itemrep/img/vzMPhQGMY0xAlc--32_OrV__Xdo=/fit-in/246x300/filters:strip_icc()/pic495864.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/4097",
     "cubby": "C1",
-    "section": "Family"
+    "section": "Family",
+    "bggVerified": true
   },
   {
     "name": "Rapidoodle",
@@ -4107,7 +4107,6 @@
     ],
     "theme": "Abstract",
     "description": "A tile and card game; details need checking.",
-    "needsReview": true,
     "bggId": 379110,
     "image": "https://cf.geekdo-images.com/NoW_LtElWsbciuexNetqfQ__itemrep@2x/img/IuXpn3GPLQS64uKklJ5bOt3Pkr0=/fit-in/492x600/filters:strip_icc()/pic7402245.png",
     "imageCredit": "https://boardgamegeek.com/boardgame/379110",
@@ -4117,7 +4116,8 @@
       1.6
     ],
     "cubby": "C1",
-    "section": "Family"
+    "section": "Family",
+    "bggVerified": true
   },
   {
     "name": "Shenanigrams",
@@ -4701,7 +4701,6 @@
     ],
     "theme": "Abstract",
     "description": "A tactile abstract game; details need checking.",
-    "needsReview": true,
     "bggId": 401636,
     "image": "https://cf.geekdo-images.com/yJpVLQv5HdzV-0i5F3dF5g__itemrep@2x/img/iUymbWCnAAAtMlo4-CPqRPndMhk=/fit-in/492x600/filters:strip_icc()/pic8758068.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/401636",
@@ -4711,7 +4710,8 @@
       0.9
     ],
     "cubby": "C1",
-    "section": "Family"
+    "section": "Family",
+    "bggVerified": true
   },
   {
     "name": "Take Off",
@@ -5123,7 +5123,7 @@
     "publisher": "Unknown",
     "type": "Base game",
     "minPlayers": 2,
-    "maxPlayers": 8,
+    "maxPlayers": 6,
     "minAge": 8,
     "minTime": 20,
     "maxTime": 20,
@@ -5135,13 +5135,13 @@
     ],
     "theme": "Books",
     "description": "Do Wimpy Kid challenges in 10 seconds.",
-    "needsReview": true,
     "cubby": "D1",
     "section": "Kids",
     "bggId": 153426,
     "bggVerified": true,
-    "image": "https://cf.geekdo-images.com/akNMJxWwY8xPQ3TUR89bbA__itemrep@2x/img/zzBkhTLX1B23JZKdQ3uxy159YoQ=/fit-in/492x600/filters:strip_icc()/pic1893180.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/153426"
+    "image": "https://cf.geekdo-images.com/pEiU_jkvHPXV_M9yFlq0rg__itemrep@2x/img/xTWd294sLgbXCXBagN34kz6WbFI=/fit-in/492x600/filters:strip_icc()/pic6031650.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgameversion/554764",
+    "imageLocked": true
   },
   {
     "name": "The Wizard Always Wins",
@@ -5160,7 +5160,6 @@
     ],
     "theme": "Fantasy",
     "description": "A wizard-themed card game; details need checking.",
-    "needsReview": true,
     "cubby": "C2",
     "section": "Card game bin",
     "bggId": 232829,
