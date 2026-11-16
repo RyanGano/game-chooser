@@ -36,7 +36,10 @@ const isExtra = (g) => g.type === "Expansion" || g.type === "Accessory";
 const isCoop = (g) => g.genres.includes("Cooperative");
 const playersText = (g) => (g.minPlayers === g.maxPlayers ? `${g.minPlayers}` : `${g.minPlayers}–${g.maxPlayers}`);
 const timeText = (g) => (!g.maxTime ? "—" : g.minTime === g.maxTime ? `${g.maxTime} min` : `${g.minTime}–${g.maxTime} min`);
-const uniq = (xs) => [...new Set(xs)].sort((a, b) => a.localeCompare(b));
+// Alphabetize like a library: ignore a leading "The", "A" or "An".
+const sortKey = (s) => s.replace(/^(the|an?)\s+/i, "");
+const byTitle = (a, b) => sortKey(a).localeCompare(sortKey(b));
+const uniq = (xs) => [...new Set(xs)].sort(byTitle);
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 
 // Publisher strings like "Eggertspiele / Pegasus Spiele" count for both publishers.
@@ -58,14 +61,14 @@ const GROUPERS = {
 };
 
 const SORTS = {
-  name: (a, b) => a.name.localeCompare(b.name),
+  name: (a, b) => byTitle(a.name, b.name),
   time: (a, b) => (a.maxTime || 0) - (b.maxTime || 0),
   "time-desc": (a, b) => (b.maxTime || 0) - (a.maxTime || 0),
   age: (a, b) => a.minAge - b.minAge,
   difficulty: (a, b) => DIFFICULTIES.indexOf(a.difficulty) - DIFFICULTIES.indexOf(b.difficulty),
   "difficulty-desc": (a, b) => DIFFICULTIES.indexOf(b.difficulty) - DIFFICULTIES.indexOf(a.difficulty),
   "players-desc": (a, b) => b.maxPlayers - a.maxPlayers,
-  publisher: (a, b) => a.publisher.localeCompare(b.publisher),
+  publisher: (a, b) => byTitle(a.publisher, b.publisher),
 };
 
 // Placeholder cover: a stable color per game so the shelf still looks like a shelf.
@@ -112,7 +115,7 @@ function shelfMapHtml(list, idx) {
   for (const g of list) if (g.cubby) (inCubby.get(g.cubby) ?? inCubby.set(g.cubby, []).get(g.cubby)).push(g);
   const secIdx = (g) => shelf.sections.findIndex((x) => x.name === g.section);
   const order = (g) => [secIdx(g), g.box ?? (g.expands ?? g.name), g.expands ? 1 : 0, g.name];
-  const cmp = (a, b) => { const x = order(a), y = order(b); return x[0] - y[0] || x[1].localeCompare(y[1]) || x[2] - y[2] || x[3].localeCompare(y[3]); };
+  const cmp = (a, b) => { const x = order(a), y = order(b); return x[0] - y[0] || byTitle(x[1], y[1]) || x[2] - y[2] || byTitle(x[3], y[3]); };
   const cells = shelf.plan.cubbies.map((c) => {
     const items = (inCubby.get(c.id) ?? []).sort(cmp);
     return `<section class="cubby${items.length ? "" : " dim"}">
@@ -202,7 +205,7 @@ function render() {
   }
   const groups = new Map();
   for (const g of visible) for (const k of by.keys(g)) (groups.get(k) ?? groups.set(k, []).get(k)).push(g);
-  const order = by.order ?? [...groups.keys()].sort((a, b) => a.localeCompare(b));
+  const order = by.order ?? [...groups.keys()].sort(byTitle);
   res.innerHTML =
     (by.note ? `<p class="count">${by.note}</p>` : "") +
     order
