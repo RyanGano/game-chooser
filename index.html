@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Chooser</title>
+  <meta name="description" content="Our board game shelf: filter by players, age, length, difficulty and more.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎲</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="title-row">
+      <h1>🎲 Game Chooser</h1>
+      <p class="count" id="count" aria-live="polite"></p>
+    </div>
+    <div class="search-row">
+      <input id="search" type="search" placeholder="Search games, publishers, themes…" aria-label="Search games">
+      <button id="random" class="btn" type="button" title="Pick a random game from the current list">🎯 Pick one for me</button>
+    </div>
+
+    <details class="filters" id="filters" open>
+      <summary>Filters</summary>
+      <div class="filter-grid">
+        <label>Players
+          <select id="f-players">
+            <option value="">Any</option>
+          </select>
+        </label>
+        <label>Youngest player
+          <select id="f-age">
+            <option value="">Any age</option>
+          </select>
+        </label>
+        <label>Time available
+          <select id="f-time">
+            <option value="">Any length</option>
+            <option value="15">15 min or less</option>
+            <option value="30">30 min or less</option>
+            <option value="45">45 min or less</option>
+            <option value="60">1 hour or less</option>
+            <option value="90">1½ hours or less</option>
+            <option value="120">2 hours or less</option>
+          </select>
+        </label>
+        <label>Difficulty
+          <select id="f-difficulty"><option value="">Any</option></select>
+        </label>
+        <label>Style
+          <select id="f-style"><option value="">Any</option></select>
+        </label>
+        <label>Genre
+          <select id="f-genre"><option value="">Any</option></select>
+        </label>
+        <label>Theme
+          <select id="f-theme"><option value="">Any</option></select>
+        </label>
+        <label>Publisher
+          <select id="f-publisher"><option value="">Any</option></select>
+        </label>
+      </div>
+      <div class="filter-footer">
+        <label class="check"><input id="f-expansions" type="checkbox"> Show expansions &amp; accessories</label>
+        <label class="check"><input id="f-coop" type="checkbox"> Cooperative only</label>
+        <button id="reset" class="link" type="button">Clear filters</button>
+      </div>
+    </details>
+
+    <div class="view-row">
+      <label>Group by
+        <select id="group">
+          <option value="">Nothing (A–Z)</option>
+          <option value="players">Number of players</option>
+          <option value="age">Recommended age</option>
+          <option value="time">Game length</option>
+          <option value="difficulty">Difficulty</option>
+          <option value="style">Style</option>
+          <option value="genre">Genre</option>
+          <option value="theme">Theme</option>
+          <option value="publisher">Publisher</option>
+          <option value="type">Type</option>
+        </select>
+      </label>
+      <label>Sort by
+        <select id="sort">
+          <option value="name">Name</option>
+          <option value="time">Shortest first</option>
+          <option value="time-desc">Longest first</option>
+          <option value="age">Youngest age first</option>
+          <option value="difficulty">Easiest first</option>
+          <option value="difficulty-desc">Hardest first</option>
+          <option value="players-desc">Most players</option>
+          <option value="publisher">Publisher</option>
+        </select>
+      </label>
+    </div>
+  </header>
+
+  <main id="results"></main>
+
+  <dialog id="detail" aria-labelledby="d-name">
+    <form method="dialog" class="close-row"><button class="close" aria-label="Close">✕</button></form>
+    <div id="detail-body"></div>
+  </dialog>
+
+  <footer class="foot">
+    Covers from Wikipedia and BoardGameGeek, used to identify each game.
+    <a href="https://github.com/RyanGano/game-chooser#adding-a-game">How to add a game</a>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

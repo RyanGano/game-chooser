@@ -1,0 +1,4341 @@
+[
+  {
+    "name": "30 Second Mysteries",
+    "publisher": "University Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Deduction",
+      "Trivia"
+    ],
+    "theme": "Mystery",
+    "description": "Quick-fire mini mysteries solved from clues read aloud."
+  },
+  {
+    "name": "7 Wonders",
+    "publisher": "Repos Production",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Strategy",
+      "Drafting",
+      "Civilization"
+    ],
+    "theme": "Ancient",
+    "description": "Draft cards over three ages to build an ancient civilization and its wonder.",
+    "bggId": 316377,
+    "image": "https://cf.geekdo-images.com/Naw8y8J_s-8cvq1GoTON6w__itemrep@2x/img/1UZAht0YyLjr2_fNtKVna44Nt4g=/fit-in/492x600/filters:strip_icc()/pic7416519.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/316377"
+  },
+  {
+    "name": "Air, Land & Sea",
+    "publisher": "Arcane Wonders",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 14,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Strategy",
+      "Bluffing"
+    ],
+    "theme": "War",
+    "description": "A tight two-player battle of cards across three theaters of war.",
+    "bggId": 247367,
+    "image": "https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__itemrep@2x/img/Xs3WCZBBd9j6D7DsvkDCqPFAeRg=/fit-in/492x600/filters:strip_icc()/pic4387681.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/247367"
+  },
+  {
+    "name": "Alchemists",
+    "publisher": "Czech Games Edition",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 13,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Deduction",
+      "Worker placement"
+    ],
+    "theme": "Fantasy",
+    "description": "Deduce ingredient properties with an app and publish theories before rivals.",
+    "bggId": 161970,
+    "image": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__itemrep@2x/img/5UnoFJgxVfBTnADzVkimqOY_LuU=/fit-in/492x600/filters:strip_icc()/pic2241156.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/161970"
+  },
+  {
+    "name": "Antiquity Quest",
+    "publisher": "Grandpa Beck's Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Set collection"
+    ],
+    "theme": "Archaeology",
+    "description": "Dig up artifacts and race to complete collections."
+  },
+  {
+    "name": "Apples to Apples",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "Match noun cards to a judge's adjective; funniest or best match wins.",
+    "bggId": 74,
+    "image": "https://cf.geekdo-images.com/JqqzoF_nph__MSn3swLYZg__itemrep/img/MyHdOdG87Lu-s9EvqHJnCb8TYt0=/fit-in/246x300/filters:strip_icc()/pic9888605.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/74"
+  },
+  {
+    "name": "Axis & Allies",
+    "publisher": "Avalon Hill",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 12,
+    "minTime": 180,
+    "maxTime": 360,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "War",
+      "Strategy",
+      "Area control"
+    ],
+    "theme": "World War II",
+    "description": "Command the major powers of World War II in an epic strategy campaign.",
+    "bggId": 98,
+    "image": "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/98"
+  },
+  {
+    "name": "Azul",
+    "publisher": "Next Move Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Abstract",
+      "Strategy",
+      "Tile placement"
+    ],
+    "theme": "Art & Design",
+    "description": "Draft colorful tiles to decorate a palace wall with patterns.",
+    "bggId": 230802,
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep@2x/img/PH6uta5QGxUHg7aZ609yifJQrhY=/fit-in/492x600/filters:strip_icc()/pic6973671.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/230802"
+  },
+  {
+    "name": "Azul: Crystal Mosaic",
+    "publisher": "Next Move Games",
+    "type": "Expansion",
+    "expands": "Azul",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Abstract",
+      "Tile placement"
+    ],
+    "theme": "Art & Design",
+    "description": "Expansion adding crystal-mosaic player boards and a new tile overlay.",
+    "bggId": 294345,
+    "image": "https://cf.geekdo-images.com/bwrDcuyGu29R4G5Vtr9cOg__itemrep@2x/img/oGg5DQelPIBMnCy-54X6qVjKwGI=/fit-in/492x600/filters:strip_icc()/pic7274243.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/294345"
+  },
+  {
+    "name": "Back to the Future: Dice Through Time",
+    "publisher": "Ravensburger",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Cooperative",
+      "Dice"
+    ],
+    "theme": "Movies",
+    "description": "Work together across time periods to fix the timeline before it collapses."
+  },
+  {
+    "name": "Backseat Drawing Junior",
+    "publisher": "Out of the Box Publishing",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "minAge": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing",
+      "Kids"
+    ],
+    "theme": "Everyday",
+    "description": "One player describes a picture while a teammate draws it blind."
+  },
+  {
+    "name": "Balderdash",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Bluffing",
+      "Word"
+    ],
+    "theme": "Everyday",
+    "description": "Invent fake definitions for obscure words and fool other players.",
+    "bggId": 163,
+    "image": "https://cf.geekdo-images.com/hXNqiCcLt9AJzcqBSsyKiQ__itemrep@2x/img/o25uRg_NvckidQagjfDa4fJYUPE=/fit-in/492x600/filters:strip_icc()/pic5121000.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/163"
+  },
+  {
+    "name": "Bamboozled: The Bluffing Dice Game",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Bluffing",
+      "Dice"
+    ],
+    "theme": "Abstract",
+    "description": "A bluffing dice game of hidden rolls and bold claims.",
+    "needsReview": true
+  },
+  {
+    "name": "Bananagrams",
+    "publisher": "Bananagrams, Inc.",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minAge": 7,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Real-time"
+    ],
+    "theme": "Words",
+    "description": "Race to build your own crossword grid from letter tiles.",
+    "bggId": 27225,
+    "image": "https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__itemrep/img/X_jDNQ5uwOuTvWckl-KVidGD3uI=/fit-in/246x300/filters:strip_icc()/pic2463443.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/27225"
+  },
+  {
+    "name": "Bang!",
+    "publisher": "dV Giochi",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 7,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Social deduction",
+      "Bluffing"
+    ],
+    "theme": "Western",
+    "description": "Sheriff, deputies, outlaws and a renegade shoot it out in the Wild West.",
+    "bggId": 3955,
+    "image": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep@2x/img/y8voqbS1PSXTwdM-hIhQYDNACls=/fit-in/492x600/filters:strip_icc()/pic1170986.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/3955"
+  },
+  {
+    "name": "Beat the Parents",
+    "publisher": "Spin Master",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "Family",
+    "description": "Kids versus parents in a trivia showdown with questions aimed at each side."
+  },
+  {
+    "name": "Black Box: Guildhall",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Set collection",
+      "Strategy"
+    ],
+    "theme": "Medieval",
+    "description": "Build sets of professions whose powers let you steal, trade and score."
+  },
+  {
+    "name": "Black Box: Maximum Throwdown: Overload",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Dexterity",
+      "Party"
+    ],
+    "theme": "Fighting",
+    "description": "Throw cards onto the table to cover opponents and trigger powers."
+  },
+  {
+    "name": "Black Box: Seventh Hero",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Shedding",
+      "Family"
+    ],
+    "theme": "Fantasy",
+    "description": "A fast shedding card game where seven heroes battle to get rid of their hands."
+  },
+  {
+    "name": "Black Box: Trains",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Deck-building",
+      "Route building"
+    ],
+    "theme": "Trains",
+    "description": "Deck-building meets route building on a railway map."
+  },
+  {
+    "name": "Blackout: Hong Kong",
+    "publisher": "Eggertspiele / Pegasus Spiele",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Deck-building",
+      "Hand management"
+    ],
+    "theme": "City",
+    "description": "Help Hong Kong recover after a blackout by recruiting specialists and completing objectives."
+  },
+  {
+    "name": "Blockbuster",
+    "publisher": "Big Potato Games",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Acting"
+    ],
+    "theme": "Movies",
+    "description": "Teams name, quote and act out movies in a race against the clock."
+  },
+  {
+    "name": "Blockers!",
+    "publisher": "Briarpatch",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract",
+      "Strategy"
+    ],
+    "theme": "Abstract",
+    "description": "Place pieces to claim space while blocking your opponents.",
+    "needsReview": true
+  },
+  {
+    "name": "Bounce-Off Rock N Rollz",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 7,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Dexterity",
+    "genres": [
+      "Dexterity",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Bounce balls into the grid to match patterns before your opponent."
+  },
+  {
+    "name": "BuyWord",
+    "publisher": "Face 2 Face Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Economic"
+    ],
+    "theme": "Words",
+    "description": "Buy letter tiles, then sell the words you make for profit.",
+    "bggId": 8920,
+    "image": "https://cf.geekdo-images.com/vQXVu83jkarLrPzHovgqYQ__itemrep/img/qVfFdj1_AwMoso0Ri7hBps6vdd0=/fit-in/246x300/filters:strip_icc()/pic1046512.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/8920"
+  },
+  {
+    "name": "Bye, Felicia!",
+    "publisher": "Big G Creative",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Pop culture",
+    "description": "A party game of sending players packing with sass.",
+    "needsReview": true
+  },
+  {
+    "name": "Carcassonne Big Box",
+    "publisher": "Z-Man Games",
+    "type": "Collection",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 7,
+    "minTime": 35,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Tile placement",
+      "Family",
+      "Strategy"
+    ],
+    "theme": "Medieval",
+    "description": "Carcassonne plus several expansions in one box."
+  },
+  {
+    "name": "Carcassonne: Abbey & Mayor",
+    "publisher": "Z-Man Games",
+    "type": "Expansion",
+    "expands": "Carcassonne Big Box",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Tile placement"
+    ],
+    "theme": "Medieval",
+    "description": "Expansion adding abbeys, mayors, barns and wagons."
+  },
+  {
+    "name": "Carcassonne: Amazonas",
+    "publisher": "Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 35,
+    "maxTime": 35,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Tile placement",
+      "Racing"
+    ],
+    "theme": "Jungle",
+    "description": "A standalone Carcassonne along the Amazon river with boat racing."
+  },
+  {
+    "name": "Carcassonne: Mists over Carcassonne",
+    "publisher": "Hans im Glueck / Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Tile placement",
+      "Cooperative"
+    ],
+    "theme": "Ghosts",
+    "description": "A cooperative Carcassonne where players fight back spreading ghosts."
+  },
+  {
+    "name": "Carcassonne: The Tower",
+    "publisher": "Z-Man Games",
+    "type": "Expansion",
+    "expands": "Carcassonne Big Box",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Tile placement"
+    ],
+    "theme": "Medieval",
+    "description": "Expansion adding a tower that captures opponents' followers.",
+    "imageLocked": true
+  },
+  {
+    "name": "Cascadia",
+    "publisher": "Flatout Games / AEG",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Tile placement",
+      "Puzzle"
+    ],
+    "theme": "Nature & Animals",
+    "description": "Build Pacific Northwest habitats and place wildlife in scoring patterns.",
+    "bggId": 295947,
+    "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep@2x/img/jluk2bo_VuQ6kgX2bH9gFI9j0AM=/fit-in/492x600/filters:strip_icc()/pic5100691.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/295947"
+  },
+  {
+    "name": "Cash 'n Guns (Second Edition)",
+    "publisher": "Repos Production",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Bluffing"
+    ],
+    "theme": "Crime",
+    "description": "Gangsters point foam guns at each other to split the loot.",
+    "bggId": 155362,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/b4qSA5fvVJe9QQOKPCMoNA__itemrep@2x/img/XxyPICM2Nc56B9775dmm2LiWy1Y=/fit-in/492x600/filters:strip_icc()/pic2907864.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/155362"
+  },
+  {
+    "name": "Cat in the Box",
+    "publisher": "Bezier Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 13,
+    "minTime": 30,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Trick-taking"
+    ],
+    "theme": "Science",
+    "description": "A trick-taking game where card colors aren't decided until you play them.",
+    "bggId": 345972,
+    "image": "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__itemrep@2x/img/4U7JMQfYSoAiiEPXfeOM7kCbT-E=/fit-in/492x600/filters:strip_icc()/pic6731829.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/345972"
+  },
+  {
+    "name": "Catan",
+    "publisher": "Catan Studio",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Trading",
+      "Area control"
+    ],
+    "theme": "Settlement",
+    "description": "Gather and trade resources to build roads, settlements and cities.",
+    "bggId": 13,
+    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep@2x/img/81lS9PRn2JwyE4br1l7Z5fgSyFo=/fit-in/492x600/filters:strip_icc()/pic9156909.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/13"
+  },
+  {
+    "name": "Catan Junior",
+    "publisher": "Catan Studio",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Kids",
+      "Family",
+      "Trading"
+    ],
+    "theme": "Pirates",
+    "description": "A kids' Catan where young pirates build hideouts across islands.",
+    "bggId": 184842,
+    "image": "https://cf.geekdo-images.com/3N4eCvJFqoygqP9qxMq5ZA__itemrep@2x/img/vOyl5bIje2dmLFlWfeKsuAjftGI=/fit-in/492x600/filters:strip_icc()/pic2836284.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/184842"
+  },
+  {
+    "name": "Chain Game",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "theme": "Abstract",
+    "description": "A puzzle game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Circulo",
+    "publisher": "University Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract"
+    ],
+    "theme": "Abstract",
+    "description": "An abstract game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Clue",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Deduction",
+      "Family"
+    ],
+    "theme": "Mystery",
+    "description": "Work out who did it, with what, and where in the classic murder mystery.",
+    "image": "https://cf.geekdo-images.com/wNcbhLJGGjakYjjm1gV_kQ__itemrep@2x/img/3q2noy-bZN1m8iuIVDcTdLGGlXM=/fit-in/492x600/filters:strip_icc()/pic7563466.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1294",
+    "bggId": 1294
+  },
+  {
+    "name": "Code Master: Programming Logic Game",
+    "publisher": "ThinkFun",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "minAge": 8,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Educational",
+      "Solo"
+    ],
+    "theme": "Programming",
+    "description": "Solo logic puzzles that teach programming concepts."
+  },
+  {
+    "name": "Codenames",
+    "publisher": "Czech Games Edition",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Word",
+      "Deduction"
+    ],
+    "theme": "Spies",
+    "description": "Spymasters give one-word clues to help their team find secret agents.",
+    "bggId": 178900,
+    "image": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__itemrep@2x/img/aunQPNKfQbrb3ok4ayEhC4osqkc=/fit-in/492x600/filters:strip_icc()/pic8907965.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/178900"
+  },
+  {
+    "name": "Codenames: Duet",
+    "publisher": "Czech Games Edition",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 11,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Cooperative",
+      "Word",
+      "Deduction"
+    ],
+    "theme": "Spies",
+    "description": "A cooperative two-player Codenames.",
+    "bggId": 224037,
+    "image": "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__itemrep@2x/img/gH053_0BOdX8ts2eOc9gtczzEJo=/fit-in/492x600/filters:strip_icc()/pic8911183.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/224037"
+  },
+  {
+    "name": "Codenames: Pictures",
+    "publisher": "Czech Games Edition",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Deduction"
+    ],
+    "theme": "Spies",
+    "description": "Codenames played with picture cards instead of words.",
+    "bggId": 198773,
+    "image": "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__itemrep@2x/img/SxlcXyp9fybVicfy3dadUbNTc3M=/fit-in/492x600/filters:strip_icc()/pic9206059.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/198773"
+  },
+  {
+    "name": "Color Brain: Disney Edition",
+    "publisher": "Big Potato Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "Disney",
+    "description": "Answer Disney questions with color cards."
+  },
+  {
+    "name": "Compatibility",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party"
+    ],
+    "theme": "Everyday",
+    "description": "Partners try to pick the same picture cards for each prompt.",
+    "needsReview": true
+  },
+  {
+    "name": "Concentration",
+    "publisher": "Endless Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Memory",
+      "Puzzle"
+    ],
+    "theme": "TV",
+    "description": "Match prizes and solve rebus puzzles, based on the TV show.",
+    "imageLocked": true
+  },
+  {
+    "name": "Coup",
+    "publisher": "Indie Boards & Cards",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 14,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Bluffing",
+      "Social deduction"
+    ],
+    "theme": "Dystopia",
+    "description": "Bluff about your hidden roles to eliminate everyone else's influence.",
+    "bggId": 131357,
+    "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__itemrep/img/QRw3T5XGsrRs-QKCSpzwE7nFqOg=/fit-in/246x300/filters:strip_icc()/pic2016054.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/131357"
+  },
+  {
+    "name": "Cranium",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 16,
+    "minAge": 13,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Trivia",
+      "Drawing",
+      "Acting"
+    ],
+    "theme": "Everyday",
+    "description": "Teams sketch, sculpt, act and answer trivia to race around the board.",
+    "bggId": 891,
+    "image": "https://cf.geekdo-images.com/-RAQw4eCx3i__6ctz6-N9A__itemrep@2x/img/2J8Wy5tui7SlxSfzqHR0xfVwWzo=/fit-in/492x600/filters:strip_icc()/pic4994220.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/891"
+  },
+  {
+    "name": "Cranium Booster Box 1",
+    "publisher": "Cranium / Hasbro",
+    "type": "Expansion",
+    "expands": "Cranium",
+    "minPlayers": 4,
+    "maxPlayers": 16,
+    "minAge": 13,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Trivia"
+    ],
+    "theme": "Everyday",
+    "description": "Extra cards for Cranium.",
+    "bggId": 6854,
+    "image": "https://cf.geekdo-images.com/KMxnlpzVD_WkthJ2eFL7CQ__itemrep/img/5C_BYojt4GA5fFoymUQDtCP-HPo=/fit-in/246x300/filters:strip_icc()/pic65206.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/6854"
+  },
+  {
+    "name": "Crazy 8s",
+    "publisher": "Traditional",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minAge": 6,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Shedding",
+      "Family"
+    ],
+    "theme": "Classic",
+    "description": "The classic shedding game: match suit or number, eights are wild.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Crazy_Eights.jpg/500px-Crazy_Eights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "https://en.wikipedia.org/wiki/Crazy_Eights"
+  },
+  {
+    "name": "Cube 2 Checkers",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 6,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract"
+    ],
+    "theme": "Abstract",
+    "description": "A checkers variant; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Decrypto",
+    "publisher": "IELLO",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Word",
+      "Deduction"
+    ],
+    "theme": "Spies",
+    "description": "Teams send coded messages and try to intercept the other team's.",
+    "bggId": 225694,
+    "image": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep@2x/img/PLfYCe9BTsXbYJvTSh57L-zgDe0=/fit-in/492x600/filters:strip_icc()/pic3759421.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/225694"
+  },
+  {
+    "name": "Dixit",
+    "publisher": "Libellud",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Storytelling"
+    ],
+    "theme": "Art & Design",
+    "description": "Give a clue about a dreamlike picture: not too obvious, not too obscure.",
+    "bggId": 39856,
+    "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep@2x/img/KLwExlTzRJJWirlhiyev9WV_pXQ=/fit-in/492x600/filters:strip_icc()/pic6738336.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/39856"
+  },
+  {
+    "name": "Dominion",
+    "publisher": "Rio Grande Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 13,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Deck-building",
+      "Strategy"
+    ],
+    "theme": "Medieval",
+    "description": "The original deck-builder: buy cards to grow your kingdom.",
+    "bggId": 36218,
+    "image": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep@2x/img/6pTUe8e0xuNPTFgNMYabr7zg4ks=/fit-in/492x600/filters:strip_icc()/pic394356.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/36218"
+  },
+  {
+    "name": "Dominion: Empires",
+    "publisher": "Rio Grande Games",
+    "type": "Expansion",
+    "expands": "Dominion",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 14,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Deck-building"
+    ],
+    "theme": "Ancient",
+    "description": "Expansion with debt, split piles and landmarks.",
+    "image": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__itemrep@2x/img/Py-0GPrKuD9_P7fKI0Coly7AKKg=/fit-in/492x600/filters:strip_icc()/pic2868179.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/192951",
+    "bggId": 192951
+  },
+  {
+    "name": "DOS",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Shedding"
+    ],
+    "theme": "Abstract",
+    "description": "From the makers of UNO: match numbers in pairs to clear the center row.",
+    "bggId": 246701,
+    "image": "https://cf.geekdo-images.com/yglLYxKLFHdSVakjUaChpQ__itemrep@2x/img/6cFh5RIqUV32gdaZ3xxO6hpteY8=/fit-in/492x600/filters:strip_icc()/pic4652900.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/246701"
+  },
+  {
+    "name": "Draw Something",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing"
+    ],
+    "theme": "Everyday",
+    "description": "Drawing and guessing game based on the mobile app.",
+    "needsReview": true
+  },
+  {
+    "name": "Dutch Blitz",
+    "publisher": "Dutch Blitz Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Real-time",
+      "Family"
+    ],
+    "theme": "Farm",
+    "description": "A frantic real-time race to play numbered cards onto shared piles.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Homeschoolers_playing_Dutch_Blitz_at_picnic_gathering.jpg/500px-Homeschoolers_playing_Dutch_Blitz_at_picnic_gathering.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "https://en.wikipedia.org/wiki/Dutch_Blitz"
+  },
+  {
+    "name": "Echoes",
+    "publisher": "Ravensburger",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minAge": 14,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Audio",
+    "genres": [
+      "Cooperative",
+      "Deduction",
+      "Audio"
+    ],
+    "theme": "Mystery",
+    "description": "Use an app to listen to audio clues and piece a mystery together."
+  },
+  {
+    "name": "Escape: The Curse of the Temple Big Box",
+    "publisher": "Queen Games",
+    "type": "Collection",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Cooperative",
+      "Real-time",
+      "Dice"
+    ],
+    "theme": "Adventure",
+    "description": "Roll dice frantically to escape a cursed temple in 10 minutes, with expansions.",
+    "bggId": 113294,
+    "image": "https://cf.geekdo-images.com/m6269wyfWVa7gZp3oXKx6A__itemrep@2x/img/3hivgYeWGRGiRHUqtQ7eI6w9Ayo=/fit-in/492x600/filters:strip_icc()/pic3328521.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/113294"
+  },
+  {
+    "name": "Exploding Kittens",
+    "publisher": "Exploding Kittens",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 7,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Party",
+      "Push-your-luck",
+      "Take-that"
+    ],
+    "theme": "Humor",
+    "description": "Don't draw the exploding kitten, or have a defuse card ready.",
+    "bggId": 172225,
+    "image": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/172225"
+  },
+  {
+    "name": "Family Challenge",
+    "publisher": "Spin Master",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "Family",
+    "description": "Family challenges and trivia for kids and adults.",
+    "needsReview": true
+  },
+  {
+    "name": "Family Feud",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Trivia"
+    ],
+    "theme": "TV",
+    "description": "Guess the most popular survey answers, like the TV show.",
+    "needsReview": true
+  },
+  {
+    "name": "Fire Tower",
+    "publisher": "Runaway Parade Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Take-that"
+    ],
+    "theme": "Nature & Animals",
+    "description": "Spread a forest fire toward rival lookout towers before they reach yours."
+  },
+  {
+    "name": "Fireball Island: Race to Adventure",
+    "publisher": "Restoration Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 7,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Dexterity",
+    "genres": [
+      "Dexterity",
+      "Family",
+      "Racing"
+    ],
+    "theme": "Adventure",
+    "description": "Race over the island while dodging rolling fireballs.",
+    "needsReview": true
+  },
+  {
+    "name": "Five Crowns",
+    "publisher": "SET Enterprises",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Rummy",
+      "Family"
+    ],
+    "theme": "Classic",
+    "description": "A five-suited rummy game where the wild card changes every round."
+  },
+  {
+    "name": "Flip 7",
+    "publisher": "The Op Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 18,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Push-your-luck",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Flip cards to score but bust on a duplicate number.",
+    "bggId": 420087,
+    "image": "https://cf.geekdo-images.com/YrQxEB9Ef0kQorRApzG5vQ__itemrep@2x/img/L_9BNzwp1B3BMbwbFhO5OGCAm5Y=/fit-in/492x600/filters:strip_icc()/pic8780246.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/420087"
+  },
+  {
+    "name": "Fluxx",
+    "publisher": "Looney Labs",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 5,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Humor",
+      "Take-that"
+    ],
+    "theme": "Humor",
+    "description": "A card game where the rules and win conditions keep changing.",
+    "image": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__itemrep@2x/img/GtRrj2JGZ8qi-6ViVE6zxK9rR44=/fit-in/492x600/filters:strip_icc()/pic2405641.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/258",
+    "bggId": 258
+  },
+  {
+    "name": "Forbidden Desert",
+    "publisher": "Gamewright",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Cooperative"
+    ],
+    "theme": "Adventure",
+    "description": "Find a flying machine buried in shifting desert sands before the sun and storm win.",
+    "bggId": 136063,
+    "image": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__itemrep@2x/img/5D1obbKU5ZSyqwFyFk1nOOU40lw=/fit-in/492x600/filters:strip_icc()/pic1528722.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/136063"
+  },
+  {
+    "name": "Forbidden Island",
+    "publisher": "Gamewright",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Family"
+    ],
+    "theme": "Adventure",
+    "description": "Recover four treasures from a sinking island and fly away together.",
+    "bggId": 65244,
+    "image": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__itemrep@2x/img/WZqvQguwQfQgUPUnrsj2gOqhfOI=/fit-in/492x600/filters:strip_icc()/pic646458.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/65244"
+  },
+  {
+    "name": "Formula D",
+    "publisher": "Asmodee",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Racing",
+      "Dice"
+    ],
+    "theme": "Racing",
+    "description": "Shift gears and roll different dice to race Formula 1-style cars.",
+    "bggId": 173,
+    "image": "https://cf.geekdo-images.com/S6Jrqf7MeqiueJI1uuqgcw__itemrep@2x/img/UGfvsPodpkR_WKtVMXW0JSThGgg=/fit-in/492x600/filters:strip_icc()/pic168167.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/173"
+  },
+  {
+    "name": "Fort",
+    "publisher": "Leder Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Deck-building"
+    ],
+    "theme": "Kids",
+    "description": "Build the coolest backyard fort by recruiting friends to your deck.",
+    "bggId": 296912,
+    "image": "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__itemrep@2x/img/m9t5Lg2xO-99cij9qauwKEr1FJQ=/fit-in/492x600/filters:strip_icc()/pic5241325.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/296912"
+  },
+  {
+    "name": "Fortune and Glory: Rise of the Crimson Hand",
+    "publisher": "Flying Frog Productions",
+    "type": "Expansion",
+    "expands": "Fortune and Glory: The Cliffhanger Game",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 90,
+    "maxTime": 180,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Adventure"
+    ],
+    "theme": "Pulp adventure",
+    "description": "Expansion adding the Crimson Hand cult and new heroes."
+  },
+  {
+    "name": "Fortune and Glory: The Cliffhanger Game",
+    "publisher": "Flying Frog Productions",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 90,
+    "maxTime": 180,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Adventure",
+      "Dice",
+      "Cooperative"
+    ],
+    "theme": "Pulp adventure",
+    "description": "1930s pulp adventurers hunt artifacts around the world while fighting villains."
+  },
+  {
+    "name": "Fortune and Glory: Treasure Hunters",
+    "publisher": "Flying Frog Productions",
+    "type": "Expansion",
+    "expands": "Fortune and Glory: The Cliffhanger Game",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 90,
+    "maxTime": 180,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Adventure"
+    ],
+    "theme": "Pulp adventure",
+    "description": "Expansion adding new heroes for Fortune and Glory."
+  },
+  {
+    "name": "Funglish",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Party"
+    ],
+    "theme": "Words",
+    "description": "Describe a word using only adjective tiles laid out on a board."
+  },
+  {
+    "name": "Galactic Destiny",
+    "publisher": "Golden Laurel Entertainment",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Strategy"
+    ],
+    "theme": "Space",
+    "description": "A space strategy game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Galaxy Trucker",
+    "publisher": "Czech Games Edition",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Real-time",
+      "Tile placement"
+    ],
+    "theme": "Space",
+    "description": "Race to build a spaceship from junk tiles, then survive the trip.",
+    "bggId": 31481,
+    "image": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__itemrep@2x/img/7In0HG1dXOR2vnopTWjXnG-BqM4=/fit-in/492x600/filters:strip_icc()/pic3926631.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/31481"
+  },
+  {
+    "name": "Giant Dice Games",
+    "publisher": "Game Development Group",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 6,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Dice",
+      "Family"
+    ],
+    "theme": "Outdoors",
+    "description": "Oversized dice with classic dice games for lawn or living room."
+  },
+  {
+    "name": "Giants Moving Tiny Furniture",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Dexterity",
+    "genres": [
+      "Dexterity",
+      "Party"
+    ],
+    "theme": "Humor",
+    "description": "A dexterity party game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Gotcha!",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party"
+    ],
+    "theme": "Everyday",
+    "description": "A party game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Gravwell: Escape from the 9th Dimension",
+    "publisher": "Cryptozoic Entertainment",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Racing",
+      "Simultaneous selection"
+    ],
+    "theme": "Space",
+    "description": "Use gravity to pull your ship out of a black hole first.",
+    "bggId": 142992,
+    "image": "https://cf.geekdo-images.com/3SZ3nWQTVHNlXLgk0fl4Tg__itemrep@2x/img/LyDsBLepvYNqwm7JQPB4Hwnfj2g=/fit-in/492x600/filters:strip_icc()/pic2237646.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/142992"
+  },
+  {
+    "name": "Hive",
+    "publisher": "Gen42 Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 9,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Abstract",
+      "Strategy"
+    ],
+    "theme": "Nature & Animals",
+    "description": "Surround the enemy queen bee with insect tiles; no board needed.",
+    "bggId": 2655,
+    "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__itemrep@2x/img/jFKFWTUOBXK1P-C527R3yWpIF7Y=/fit-in/492x600/filters:strip_icc()/pic791151.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2655"
+  },
+  {
+    "name": "Hoity Toity",
+    "publisher": "Uberplay",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Bluffing",
+      "Set collection"
+    ],
+    "theme": "Collecting",
+    "description": "Eccentric collectors bluff, steal and show off antiques.",
+    "bggId": 120,
+    "image": "https://cf.geekdo-images.com/hOby2j2vNp7CJSySwmczyA__itemrep@2x/img/SW7m5k9-cs7KYFYxwFicJssf9tM=/fit-in/492x600/filters:strip_icc()/pic38466.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/120"
+  },
+  {
+    "name": "Hues and Cues",
+    "publisher": "The Op Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party"
+    ],
+    "theme": "Art & Design",
+    "description": "Give one- and two-word clues to guide players to a color on a big grid.",
+    "bggId": 302520,
+    "image": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__itemrep@2x/img/T7HPxeqQKsCJzNrb5gxNA-mDD2I=/fit-in/492x600/filters:strip_icc()/pic5390676.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/302520"
+  },
+  {
+    "name": "I've Never...",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minAge": 17,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "A party game of confessions and things you've never done.",
+    "needsReview": true
+  },
+  {
+    "name": "Jishaku",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Dexterity",
+    "genres": [
+      "Dexterity"
+    ],
+    "theme": "Abstract",
+    "description": "Place magnetic stones without letting them snap together.",
+    "needsReview": true
+  },
+  {
+    "name": "Jungo",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "A family game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Jurassic Park: Danger! Adventure Strategy Game",
+    "publisher": "Ravensburger",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 10,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Hidden movement"
+    ],
+    "theme": "Dinosaurs",
+    "description": "Survivors try to escape the island while one player controls the dinosaurs."
+  },
+  {
+    "name": "Killer Bunnies and the Quest for the Magic Carrot",
+    "publisher": "Playroom Entertainment",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Humor",
+      "Take-that"
+    ],
+    "theme": "Humor",
+    "description": "Keep your bunnies alive and collect carrots, one of which is magic.",
+    "bggId": 3699,
+    "image": "https://cf.geekdo-images.com/D5riwsF99qUKZfvflF48dQ__itemrep@2x/img/EgAu4970jMQd2zLV76Mnh9VaKsQ=/fit-in/492x600/filters:strip_icc()/pic207282.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/3699"
+  },
+  {
+    "name": "King of Tokyo",
+    "publisher": "IELLO",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Dice",
+      "Push-your-luck",
+      "Family"
+    ],
+    "theme": "Monsters",
+    "description": "Giant monsters roll dice to smash each other and rule Tokyo.",
+    "bggId": 70323,
+    "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__itemrep@2x/img/3e4Rf5u2trvxizg5sqJIzCCp9MM=/fit-in/492x600/filters:strip_icc()/pic3043734.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/70323"
+  },
+  {
+    "name": "Lanterns: The Harvest Festival",
+    "publisher": "Renegade Game Studios",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Tile placement",
+      "Set collection"
+    ],
+    "theme": "Asia",
+    "description": "Float lantern tiles on a lake and collect colored lanterns to dedicate.",
+    "bggId": 160851,
+    "image": "https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__itemrep@2x/img/Vqj0qAzjTXiTsA5LWlsFXl0C7iE=/fit-in/492x600/filters:strip_icc()/pic2372790.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/160851"
+  },
+  {
+    "name": "Last Word",
+    "publisher": "Buffalo Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Party",
+      "Real-time"
+    ],
+    "theme": "Words",
+    "description": "Shout answers that fit a category; be last when the timer buzzes."
+  },
+  {
+    "name": "Legendary: A Marvel Deck Building Game",
+    "publisher": "Upper Deck",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 14,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Deck-building",
+      "Cooperative"
+    ],
+    "theme": "Superheroes",
+    "description": "Recruit Marvel heroes to your deck and fight a mastermind's villains.",
+    "bggId": 129437,
+    "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__itemrep@2x/img/nUOzYght6sPIyRnIpnoZz4q9cOM=/fit-in/492x600/filters:strip_icc()/pic1430769.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/129437"
+  },
+  {
+    "name": "Longhorn",
+    "publisher": "Blue Orange Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Strategy",
+      "Abstract"
+    ],
+    "theme": "Western",
+    "description": "Two rustlers collect cattle across a frontier grid of tiles."
+  },
+  {
+    "name": "Lords of Waterdeep",
+    "publisher": "Wizards of the Coast",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Worker placement",
+      "Strategy"
+    ],
+    "theme": "Fantasy",
+    "description": "Secret lords recruit adventurers to complete quests in a fantasy city.",
+    "bggId": 110327,
+    "image": "https://cf.geekdo-images.com/DFZlakC9Lv8cB5Co5z3meA__itemrep@2x/img/CKoTiWLREXulRFW04hVs7E6zUDI=/fit-in/492x600/filters:strip_icc()/pic9230112.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/110327"
+  },
+  {
+    "name": "Love Letter",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Deduction",
+      "Bluffing"
+    ],
+    "theme": "Royalty",
+    "description": "Get your letter to the princess using a tiny deck of 16 cards.",
+    "bggId": 129622,
+    "image": "https://cf.geekdo-images.com/JT_06u5Eung6jueDM3kvpA__itemrep@2x/img/LmCUkfKI3M0s0W2MTlxaB35mgXM=/fit-in/492x600/filters:strip_icc()/pic9868049.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/129622"
+  },
+  {
+    "name": "Mad Scientist",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Science",
+    "description": "A family game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Mancala",
+    "publisher": "Traditional",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 5,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract",
+      "Classic"
+    ],
+    "theme": "Classic",
+    "description": "The ancient game of sowing stones around a board of pits.",
+    "bggId": 2448,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__itemrep@2x/img/ggLxTuYI0kZVuZ5Uow-VM9BQylI=/fit-in/492x600/filters:strip_icc()/pic302117.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2448"
+  },
+  {
+    "name": "Marvel Dice Throne",
+    "publisher": "The Op Games / Roxley",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Dice",
+      "Fighting"
+    ],
+    "theme": "Superheroes",
+    "description": "Marvel heroes battle with unique dice and ability boards."
+  },
+  {
+    "name": "Megaland",
+    "publisher": "Red Raven Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Push-your-luck",
+      "Engine building"
+    ],
+    "theme": "Fantasy",
+    "description": "Venture into monster lands for treasure and build up your town."
+  },
+  {
+    "name": "Memory Challenge: Super Mario Edition",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 3,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Memory",
+      "Kids"
+    ],
+    "theme": "Video games",
+    "description": "Match pairs of Super Mario cards.",
+    "needsReview": true
+  },
+  {
+    "name": "MicroMacro: Crime City",
+    "publisher": "Edition Spielwiese / Pegasus Spiele",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Cooperative",
+      "Deduction"
+    ],
+    "theme": "Mystery",
+    "description": "Solve crimes by searching a giant black-and-white city map.",
+    "bggId": 318977,
+    "image": "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__itemrep@2x/img/_sHEwUDFzOu_tL0OexjhVMhKlMA=/fit-in/492x600/filters:strip_icc()/pic7632081.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/318977"
+  },
+  {
+    "name": "MicroMacro: Crime City – Full House",
+    "publisher": "Pegasus Spiele",
+    "type": "Standalone",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Cooperative",
+      "Deduction"
+    ],
+    "theme": "Mystery",
+    "description": "A standalone MicroMacro with a new city map and 16 more cases."
+  },
+  {
+    "name": "MIND MGMT: The Psychic Espionage Game",
+    "publisher": "Off the Page Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 13,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Hidden movement",
+      "Deduction"
+    ],
+    "theme": "Spies",
+    "description": "Recruiters hide from a team of rogue agents in a hidden-movement chase."
+  },
+  {
+    "name": "Minecraft Card Game?",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Set collection"
+    ],
+    "theme": "Video games",
+    "description": "Mine resources and craft items, Minecraft style."
+  },
+  {
+    "name": "Monopoly Gamer",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Economic",
+      "Family"
+    ],
+    "theme": "Video games",
+    "description": "Monopoly with Mario characters, power-ups and boss battles.",
+    "bggId": 230408,
+    "image": "https://cf.geekdo-images.com/ZNX8p1k9r0d5QMcpKp64NQ__itemrep/img/L3qjRfC4S2hOJmIgexBYs6wDEM8=/fit-in/246x300/filters:strip_icc()/pic3925506.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/230408"
+  },
+  {
+    "name": "Monopoly Millionaire",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Economic",
+      "Family"
+    ],
+    "theme": "Business",
+    "description": "First player to reach a million dollars wins."
+  },
+  {
+    "name": "Munchkin",
+    "publisher": "Steve Jackson Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Humor",
+      "Take-that"
+    ],
+    "theme": "Fantasy",
+    "description": "Kill monsters, steal treasure and stab your friends in a parody dungeon crawl.",
+    "bggId": 1927,
+    "image": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__itemrep/img/2MRtjy32fdzTBDCvUk73dA-ZtJk=/fit-in/246x300/filters:strip_icc()/pic1871016.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1927"
+  },
+  {
+    "name": "My City",
+    "publisher": "Kosmos",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Legacy",
+      "Tile placement",
+      "Puzzle"
+    ],
+    "theme": "City",
+    "description": "A legacy polyomino game where your city develops over 24 episodes.",
+    "bggId": 295486,
+    "image": "https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__itemrep@2x/img/Q_eRfZ_Lbgl-oDJ0nEpU8PDCzPs=/fit-in/492x600/filters:strip_icc()/pic7443423.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/295486"
+  },
+  {
+    "name": "Name 5",
+    "publisher": "Endless Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Trivia"
+    ],
+    "theme": "Everyday",
+    "description": "Name five things in a category before time runs out."
+  },
+  {
+    "name": "New York 1901",
+    "publisher": "Blue Orange Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Tile placement",
+      "Strategy"
+    ],
+    "theme": "City",
+    "description": "Claim lots and build skyscrapers in early-1900s Manhattan."
+  },
+  {
+    "name": "No Thanks!",
+    "publisher": "Amigo Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Push-your-luck",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Take the card or pay a chip to pass; low score wins.",
+    "bggId": 12942,
+    "image": "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__itemrep@2x/img/4m6jJpVmh3hdoERiyHfwZ5WH9eU=/fit-in/492x600/filters:strip_icc()/pic9005058.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/12942"
+  },
+  {
+    "name": "Nuns on the Run",
+    "publisher": "Mayfair Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Hidden movement",
+      "Bluffing"
+    ],
+    "theme": "Humor",
+    "description": "Novices sneak around the convent at night while the abbess and prioress patrol.",
+    "bggId": 65515,
+    "image": "https://cf.geekdo-images.com/ElzQsdH-hryJQnIJ7gld1w__itemrep@2x/img/OkkyhkLicyOJ9I1fJJPjUmOGC20=/fit-in/492x600/filters:strip_icc()/pic649087.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/65515"
+  },
+  {
+    "name": "Pandemic",
+    "publisher": "Z-Man Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Strategy"
+    ],
+    "theme": "Medical",
+    "description": "Specialists race around the world to cure four spreading diseases.",
+    "bggId": 30549,
+    "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep@2x/img/qnS9n-lo85ht2reXk7MsdbgeQfM=/fit-in/492x600/filters:strip_icc()/pic1534148.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/30549"
+  },
+  {
+    "name": "Pandemic Legacy: Season 1",
+    "publisher": "Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 13,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Legacy"
+    ],
+    "theme": "Medical",
+    "description": "A year-long Pandemic campaign where the game changes permanently.",
+    "bggId": 161936,
+    "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__itemrep@2x/img/MjhzWks7Vu-ZhEOtwQYrzSfmoYk=/fit-in/492x600/filters:strip_icc()/pic2452831.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/161936"
+  },
+  {
+    "name": "Pandemic Legacy: Season 2",
+    "publisher": "Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 14,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Legacy"
+    ],
+    "theme": "Post-apocalyptic",
+    "description": "Rebuild a world 71 years after Season 1's plague.",
+    "bggId": 221107,
+    "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__itemrep@2x/img/_jhQRs10WE5Tj6BpDtjljv_X9cg=/fit-in/492x600/filters:strip_icc()/pic3763549.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/221107"
+  },
+  {
+    "name": "Pandemic: In the Lab",
+    "publisher": "Z-Man Games",
+    "type": "Expansion",
+    "expands": "Pandemic",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Cooperative"
+    ],
+    "theme": "Medical",
+    "description": "Expansion that adds a lab to research cures.",
+    "bggId": 137136,
+    "image": "https://cf.geekdo-images.com/qxXkIuPd5XOgmvNamT89ew__itemrep/img/T5a96flgS8qAzcUR9_e56Cj1ufg=/fit-in/246x300/filters:strip_icc()/pic1632485.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/137136"
+  },
+  {
+    "name": "Pandemic: Rapid Response",
+    "publisher": "Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Cooperative",
+      "Real-time",
+      "Dice"
+    ],
+    "theme": "Medical",
+    "description": "A real-time co-op where you fly supplies to cities in crisis.",
+    "bggId": 280789,
+    "image": "https://cf.geekdo-images.com/iJl9vUgXHrldbYAhFG9u9A__itemrep@2x/img/Y83LC3MhOJxwMhH_xHX4ZsMZkaw=/fit-in/492x600/filters:strip_icc()/pic4766250.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/280789"
+  },
+  {
+    "name": "Pandemic: The Cure",
+    "publisher": "Z-Man Games",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Cooperative",
+      "Dice",
+      "Push-your-luck"
+    ],
+    "theme": "Medical",
+    "description": "The Pandemic experience distilled into a dice game.",
+    "bggId": 150658,
+    "image": "https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__itemrep@2x/img/MsAX1D6g_P4twdSSR0yhEbveqxA=/fit-in/492x600/filters:strip_icc()/pic2225998.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/150658"
+  },
+  {
+    "name": "Pentago",
+    "publisher": "Mindtwister",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 8,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract"
+    ],
+    "theme": "Abstract",
+    "description": "Five in a row, but you twist a quadrant of the board each turn.",
+    "bggId": 19841,
+    "image": "https://cf.geekdo-images.com/FGZuDiLwPb8yHQR8Uvc__g__itemrep@2x/img/DsmAlfe9HdA4ULZrPQmFVx1gaR0=/fit-in/492x600/filters:strip_icc()/pic6813468.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/19841"
+  },
+  {
+    "name": "Pente",
+    "publisher": "Winning Moves Games?",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract",
+      "Classic"
+    ],
+    "theme": "Abstract",
+    "description": "Get five in a row or capture pairs of stones.",
+    "needsReview": true,
+    "bggId": 1295,
+    "image": "https://cf.geekdo-images.com/2aehMgvcnEh8TR-4kpAmyw__itemrep@2x/img/lM8QuFMrY9RS2D3MJXC-1YlaQf0=/fit-in/492x600/filters:strip_icc()/pic1476333.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1295"
+  },
+  {
+    "name": "Phase 10",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 7,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Rummy",
+      "Family"
+    ],
+    "theme": "Classic",
+    "description": "A rummy-style race through ten phases of sets and runs.",
+    "bggId": 1258,
+    "image": "https://cf.geekdo-images.com/jvHGs95ShI8VEhDBdxKs6w__itemrep@2x/img/1Z_qDwQgLXar5I9zP4SF-K_XPgM=/fit-in/492x600/filters:strip_icc()/pic7621070.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1258"
+  },
+  {
+    "name": "Phase 10 Flip",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 7,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Rummy",
+      "Family"
+    ],
+    "theme": "Classic",
+    "description": "A Phase 10 variant with cards that flip the game around.",
+    "needsReview": true
+  },
+  {
+    "name": "Pictionary",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing"
+    ],
+    "theme": "Everyday",
+    "description": "Teams sketch clues for their partners to guess against the timer.",
+    "bggId": 2281,
+    "image": "https://cf.geekdo-images.com/YfUxodD7JSqYitxvjXB69Q__itemrep/img/PnzmdMfc0JUCGitv6C0lYuPvopA=/fit-in/246x300/filters:strip_icc()/pic5147022.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2281"
+  },
+  {
+    "name": "Pictopia: Disney Edition",
+    "publisher": "The Op Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "Disney",
+    "description": "Picture-based Disney trivia for the whole family."
+  },
+  {
+    "name": "Poetry for Neanderthals",
+    "publisher": "Exploding Kittens",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "minAge": 7,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Word",
+      "Humor"
+    ],
+    "theme": "Prehistoric",
+    "description": "Describe words using only one-syllable words, or get hit with a foam club.",
+    "image": "https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__itemrep@2x/img/ZMP01CdDcqveHJ_34WjgLysGQcY=/fit-in/492x600/filters:strip_icc()/pic5702797.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/312786",
+    "bggId": 312786
+  },
+  {
+    "name": "Pointing Fingers",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "Everyone points at who best fits each prompt."
+  },
+  {
+    "name": "Pop for Sight Words",
+    "publisher": "Learning Resources",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Educational",
+      "Kids"
+    ],
+    "theme": "Food",
+    "description": "Read sight words off popcorn pieces; don't pull a POP!"
+  },
+  {
+    "name": "Power Grid: Factory Manager",
+    "publisher": "Rio Grande Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Economic",
+      "Strategy"
+    ],
+    "theme": "Industry",
+    "description": "Buy machines and manage energy costs to make your factory profitable.",
+    "bggId": 44163,
+    "image": "https://cf.geekdo-images.com/NcoUbr7MEB_rOzAE9J9BOg__itemrep@2x/img/1vc0ICMJBh1iTtoFr8czijcLr6E=/fit-in/492x600/filters:strip_icc()/pic577313.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/44163"
+  },
+  {
+    "name": "Q-bitz",
+    "publisher": "MindWare",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Puzzle",
+      "Real-time"
+    ],
+    "theme": "Abstract",
+    "description": "Race to rebuild patterns with patterned cubes."
+  },
+  {
+    "name": "Quarriors!",
+    "publisher": "WizKids",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 14,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Dice-building",
+      "Dice"
+    ],
+    "theme": "Fantasy",
+    "description": "Capture creature dice and build up your dice bag.",
+    "bggId": 91536,
+    "image": "https://cf.geekdo-images.com/12Bgvi0MpA10redngwI5MA__itemrep@2x/img/soaf5fdDSVwTEGtTj8TdNdlQYBY=/fit-in/492x600/filters:strip_icc()/pic1604985.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/91536"
+  },
+  {
+    "name": "Quarriors!: Quest of the Qladiator",
+    "publisher": "WizKids",
+    "type": "Expansion",
+    "expands": "Quarriors!",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 14,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Dice-building"
+    ],
+    "theme": "Fantasy",
+    "description": "Expansion adding new creatures and spells.",
+    "bggId": 128709,
+    "image": "https://cf.geekdo-images.com/lQAxKGj6sgNqGvl2D9FvrA__itemrep@2x/img/oFBX_ai-GdGegqsU9OcVbE8wE9U=/fit-in/492x600/filters:strip_icc()/pic1481045.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/128709"
+  },
+  {
+    "name": "Qwirkle",
+    "publisher": "MindWare",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Abstract",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Build lines of matching colors or shapes, like Scrabble with symbols.",
+    "bggId": 25669,
+    "image": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep@2x/img/mbKpr3pmVc6cXJ9S1em53Kd1wKA=/fit-in/492x600/filters:strip_icc()/pic309353.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/25669"
+  },
+  {
+    "name": "Qwixx Deluxe",
+    "publisher": "Gamewright",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Roll & write",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "A quick roll-and-write where everyone uses every roll.",
+    "bggId": 131260,
+    "image": "https://cf.geekdo-images.com/aOt-bT9nDzZdWl0dUqLy4w__itemrep@2x/img/tsURR9tKtabEFqibSyRCom7I_pU=/fit-in/492x600/filters:strip_icc()/pic1950487.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/131260"
+  },
+  {
+    "name": "Rack-O",
+    "publisher": "Winning Moves Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Classic",
+    "description": "Swap cards to put your rack in ascending order first.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Racko-game.jpg/500px-Racko-game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "imageCredit": "https://en.wikipedia.org/wiki/Rack-O"
+  },
+  {
+    "name": "Raise the Roof",
+    "publisher": "Henard Industries",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Construction",
+    "description": "A building game; details need checking.",
+    "needsReview": true,
+    "bggId": 4097,
+    "image": "https://cf.geekdo-images.com/XU-74YEFMJCmOdlmf9D7oA__itemrep/img/vzMPhQGMY0xAlc--32_OrV__Xdo=/fit-in/246x300/filters:strip_icc()/pic495864.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/4097"
+  },
+  {
+    "name": "Rapidoodle",
+    "publisher": "Spin Master",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing",
+      "Real-time"
+    ],
+    "theme": "Everyday",
+    "description": "Fast drawing challenges against the clock.",
+    "needsReview": true
+  },
+  {
+    "name": "Red7",
+    "publisher": "Asmadi Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 9,
+    "minTime": 5,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Abstract",
+      "Strategy"
+    ],
+    "theme": "Abstract",
+    "description": "Each turn change the rule to the one you're winning.",
+    "bggId": 161417,
+    "image": "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__itemrep/img/icEGhh-mOuq4HxHEmDBKWMeGBLc=/fit-in/246x300/filters:strip_icc()/pic2247258.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/161417"
+  },
+  {
+    "name": "Reef (Second Edition)",
+    "publisher": "Next Move Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract",
+      "Puzzle"
+    ],
+    "theme": "Ocean",
+    "description": "Build a coral reef in 3D patterns to score."
+  },
+  {
+    "name": "Reptiles",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Nature & Animals",
+    "description": "A reptile-themed game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Reverse Charades",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Acting"
+    ],
+    "theme": "Everyday",
+    "description": "The whole team acts while one player guesses.",
+    "needsReview": true
+  },
+  {
+    "name": "Risk",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 120,
+    "maxTime": 240,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "War",
+      "Area control",
+      "Dice"
+    ],
+    "theme": "War",
+    "description": "Conquer the world one territory at a time.",
+    "bggId": 181,
+    "image": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__itemrep@2x/img/ukgjDD8MPf6qub_hYYp4z3PTHlw=/fit-in/492x600/filters:strip_icc()/pic4916782.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/181"
+  },
+  {
+    "name": "Roll Through the Ages",
+    "publisher": "Gryphon Games / Eagle-Gryphon Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Roll & write",
+      "Civilization",
+      "Dice"
+    ],
+    "theme": "Ancient",
+    "description": "Roll dice to grow a Bronze Age civilization and build monuments.",
+    "bggId": 37380,
+    "image": "https://cf.geekdo-images.com/VoLyy7ScO6aAU9Neo7KCiA__itemrep@2x/img/c6x2OMvWfOjLbTOYvSwz8kPkoh0=/fit-in/492x600/filters:strip_icc()/pic986758.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/37380"
+  },
+  {
+    "name": "Rummikub",
+    "publisher": "Pressman",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Rummy",
+      "Abstract"
+    ],
+    "theme": "Classic",
+    "description": "Play numbered tiles in sets and runs, rearranging the table as you go.",
+    "bggId": 811,
+    "image": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__itemrep@2x/img/wZP0PzwP-ovQzOMTPNkTtmvxjYo=/fit-in/492x600/filters:strip_icc()/pic2286966.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/811"
+  },
+  {
+    "name": "Santorini",
+    "publisher": "Roxley",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract",
+      "Strategy"
+    ],
+    "theme": "Greek mythology",
+    "description": "Build towers and climb to the third level with help from Greek gods.",
+    "bggId": 9963,
+    "image": "https://cf.geekdo-images.com/ZjP5gU9SCluEARbZnYtb_A__itemrep/img/u3jwn1rN7FQK2jtzD3_9FNbwpGQ=/fit-in/246x300/filters:strip_icc()/pic42278.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/9963"
+  },
+  {
+    "name": "Scattergories",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Party",
+      "Word"
+    ],
+    "theme": "Words",
+    "description": "Name things in categories that start with the rolled letter and avoid duplicates.",
+    "bggId": 2381,
+    "image": "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__itemrep@2x/img/2IzmpOzkQM5CfUrAu5-cDcAZ_vQ=/fit-in/492x600/filters:strip_icc()/pic4994410.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2381"
+  },
+  {
+    "name": "Scrabble Deluxe Edition",
+    "publisher": "Milton Bradley / Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": "Medium",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Classic",
+      "Strategy"
+    ],
+    "theme": "Words",
+    "description": "The classic crossword game on a rotating deluxe board.",
+    "bggId": 320,
+    "image": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep@2x/img/vcGsi6l6XMyjIGctlmK9TVd6pQQ=/fit-in/492x600/filters:strip_icc()/pic404651.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/320"
+  },
+  {
+    "name": "Scrigami",
+    "publisher": "Fat Brain Toys",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "theme": "Abstract",
+    "description": "A spatial puzzle game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Search Party: Chaos at the Park",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Kids",
+      "Family"
+    ],
+    "theme": "Outdoors",
+    "description": "A search-and-find game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Sequence Dice",
+    "publisher": "Jax",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 7,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Family",
+      "Abstract"
+    ],
+    "theme": "Abstract",
+    "description": "Roll dice to claim spots and make a five-in-a-row sequence."
+  },
+  {
+    "name": "SetUp",
+    "publisher": "Bezier Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 25,
+    "difficulty": "Easy",
+    "style": "Tile",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "A tile and card game; details need checking.",
+    "needsReview": true,
+    "bggId": 379110,
+    "image": "https://cf.geekdo-images.com/NoW_LtElWsbciuexNetqfQ__itemrep@2x/img/IuXpn3GPLQS64uKklJ5bOt3Pkr0=/fit-in/492x600/filters:strip_icc()/pic7402245.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/379110"
+  },
+  {
+    "name": "Shenanigrams",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word"
+    ],
+    "theme": "Words",
+    "description": "A word game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Sheriff of Nottingham",
+    "publisher": "Arcane Wonders",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 14,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Bluffing",
+      "Negotiation"
+    ],
+    "theme": "Medieval",
+    "description": "Smuggle contraband past the sheriff with bribes and straight faces.",
+    "bggId": 157969,
+    "image": "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__itemrep@2x/img/0cqC8CqGw9xJl3yV7Ws6KTCQGEM=/fit-in/492x600/filters:strip_icc()/pic2075830.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/157969"
+  },
+  {
+    "name": "Skribble Head",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing"
+    ],
+    "theme": "Everyday",
+    "description": "A drawing party game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Skull King",
+    "publisher": "Grandpa Beck's Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Trick-taking",
+      "Bidding"
+    ],
+    "theme": "Pirates",
+    "description": "A pirate trick-taking game where you bid exactly how many tricks you'll win.",
+    "bggId": 150145,
+    "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep@2x/img/u282aOGplMokEqS8ID7MuYwjnNs=/fit-in/492x600/filters:strip_icc()/pic8689185.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/150145"
+  },
+  {
+    "name": "Sky Team",
+    "publisher": "Scorpion Masque",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 12,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Cooperative",
+      "Dice placement"
+    ],
+    "theme": "Aviation",
+    "description": "Pilot and co-pilot land a plane together without talking.",
+    "bggId": 373106,
+    "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__itemrep@2x/img/mt1Bbzau--DiUdGCcaPVyHcXHe0=/fit-in/492x600/filters:strip_icc()/pic7398904.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/373106"
+  },
+  {
+    "name": "Skyjo",
+    "publisher": "Magilano",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Flip and swap cards to get the lowest score.",
+    "bggId": 204135,
+    "image": "https://cf.geekdo-images.com/NMNeoJY6aU6C2EJz67YEfA__itemrep@2x/img/20BOisNKi9A7FIAUrCO6NyIDJrc=/fit-in/492x600/filters:strip_icc()/pic4559127.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/204135"
+  },
+  {
+    "name": "Slapzi",
+    "publisher": "Carma Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Party",
+      "Real-time"
+    ],
+    "theme": "Everyday",
+    "description": "Race to slap a picture card that matches the clue."
+  },
+  {
+    "name": "Smash Up",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 12,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Take-that",
+      "Area control"
+    ],
+    "theme": "Mashup",
+    "description": "Shuffle two factions together, like Ninja Pirates, and conquer bases.",
+    "bggId": 122522,
+    "image": "https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__itemrep@2x/img/a2Mz7r6axJ7Rzf4Ha_MnTBcYuJ0=/fit-in/492x600/filters:strip_icc()/pic1269874.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/122522"
+  },
+  {
+    "name": "Snake Oil",
+    "publisher": "Out of the Box Publishing",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Western",
+    "description": "Pitch ridiculous products made from two word cards to a customer.",
+    "bggId": 113289,
+    "image": "https://cf.geekdo-images.com/XSUSI_i20qf3-n07nbfnRg__itemrep@2x/img/Ha9s_Zx1yxT4EFyhh_xNSVQNVyE=/fit-in/492x600/filters:strip_icc()/pic5075755.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/113289"
+  },
+  {
+    "name": "Solid Wood Cribbage",
+    "publisher": "Traditional",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Classic"
+    ],
+    "theme": "Classic",
+    "description": "The classic card game with a pegging board."
+  },
+  {
+    "name": "Sorry!",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Family",
+      "Racing",
+      "Take-that"
+    ],
+    "theme": "Classic",
+    "description": "Race your pawns home and bump opponents back to start.",
+    "bggId": 2407,
+    "image": "https://cf.geekdo-images.com/zV33y_kLzvOuGz1_r1DWNA__itemrep/img/zWzu8glsg3surHUT6_xxaEI1pRQ=/fit-in/246x300/filters:strip_icc()/pic8204421.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2407"
+  },
+  {
+    "name": "Speculation",
+    "publisher": "Queen Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Economic"
+    ],
+    "theme": "Business",
+    "description": "A stock speculation game; details need checking.",
+    "needsReview": true,
+    "bggId": 63141,
+    "image": "https://cf.geekdo-images.com/BzJ5GlNDqMWGtInwG35-Sw__itemrep@2x/img/EOXcpfBekIOXq-1VFdpj92rL2kY=/fit-in/492x600/filters:strip_icc()/pic6245525.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/63141"
+  },
+  {
+    "name": "Splendor",
+    "publisher": "Space Cowboys",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Engine building",
+      "Set collection"
+    ],
+    "theme": "Renaissance",
+    "description": "Collect gems to buy cards that make buying more cards cheaper.",
+    "bggId": 148228,
+    "image": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__itemrep@2x/img/qDjpnPQ6u7oROPU9dS3c_opVIFc=/fit-in/492x600/filters:strip_icc()/pic8234167.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/148228"
+  },
+  {
+    "name": "Spy Alley",
+    "publisher": "Spy Alley Partners",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Deduction",
+      "Bluffing"
+    ],
+    "theme": "Spies",
+    "description": "Hide your nationality while working out everyone else's.",
+    "bggId": 1986,
+    "image": "https://cf.geekdo-images.com/Xd4oi8RxW9p5xPYiRxQl0w__itemrep@2x/img/CfuBE88bufXd8uvN4z6CyA3DnUo=/fit-in/492x600/filters:strip_icc()/pic5151907.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1986"
+  },
+  {
+    "name": "Spyfall",
+    "publisher": "Cryptozoic Entertainment",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 13,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Social deduction",
+      "Party"
+    ],
+    "theme": "Spies",
+    "description": "Everyone knows the location except the spy; ask questions to find them.",
+    "bggId": 166384,
+    "image": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__itemrep@2x/img/HlnXRv8NnxohDUCpKAT26avDMCg=/fit-in/492x600/filters:strip_icc()/pic2453926.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/166384"
+  },
+  {
+    "name": "Squint",
+    "publisher": "Out of the Box Publishing",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party"
+    ],
+    "theme": "Everyday",
+    "description": "Build pictures from shape cards for teammates to guess."
+  },
+  {
+    "name": "Star Fluxx",
+    "publisher": "Looney Labs",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 10,
+    "maxTime": 40,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Humor",
+      "Take-that"
+    ],
+    "theme": "Space",
+    "description": "Fluxx in space, with ever-changing rules and sci-fi spoofs.",
+    "bggId": 102104,
+    "image": "https://cf.geekdo-images.com/4rafBr5oDBZVSzN7ije3ZA__itemrep/img/HE6MZ4WgnS-62VWITvFg7aio-Us=/fit-in/246x300/filters:strip_icc()/pic1059779.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/102104"
+  },
+  {
+    "name": "Summer Camp",
+    "publisher": "Buffalo Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Deck-building",
+      "Racing"
+    ],
+    "theme": "Summer camp",
+    "description": "Race through camp activities by building your deck."
+  },
+  {
+    "name": "Surprise Slides: Disney Frozen",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Kids"
+    ],
+    "theme": "Disney",
+    "description": "A preschool game of sliding characters and surprises."
+  },
+  {
+    "name": "Sushi Go!",
+    "publisher": "Gamewright",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Drafting",
+      "Set collection",
+      "Family"
+    ],
+    "theme": "Food",
+    "description": "Pass hands of sushi cards and collect the best combos.",
+    "bggId": 133473,
+    "image": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__itemrep@2x/img/_-D1tAyUWTc7vRaezai6r2ddn4Q=/fit-in/492x600/filters:strip_icc()/pic1900075.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/133473"
+  },
+  {
+    "name": "Taboo: Disney",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Party",
+      "Word"
+    ],
+    "theme": "Disney",
+    "description": "Get your team to guess Disney words without saying the forbidden ones."
+  },
+  {
+    "name": "Tacta",
+    "publisher": "Fat Brain Toys",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 6,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Abstract"
+    ],
+    "theme": "Abstract",
+    "description": "A tactile abstract game; details need checking.",
+    "needsReview": true,
+    "bggId": 401636,
+    "image": "https://cf.geekdo-images.com/yJpVLQv5HdzV-0i5F3dF5g__itemrep@2x/img/iUymbWCnAAAtMlo4-CPqRPndMhk=/fit-in/492x600/filters:strip_icc()/pic8758068.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/401636"
+  },
+  {
+    "name": "Take Off",
+    "publisher": "Resource Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Racing",
+      "Educational"
+    ],
+    "theme": "Travel",
+    "description": "Fly planes around a world map and learn geography on the way."
+  },
+  {
+    "name": "Tapple",
+    "publisher": "The Op Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Word",
+    "genres": [
+      "Word",
+      "Party",
+      "Real-time"
+    ],
+    "theme": "Words",
+    "description": "Name something in the category, tap the letter and pass before time's up.",
+    "bggId": 129556,
+    "image": "https://cf.geekdo-images.com/ug2wHUhS3E-LA_lmLQYyNQ__itemrep/img/4puV1UqcFO4DbAJo1DztHsCXGPU=/fit-in/246x300/filters:strip_icc()/pic6650117.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/129556"
+  },
+  {
+    "name": "Telestrations: 12 Player Party Pack",
+    "publisher": "The Op Games",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Drawing",
+    "genres": [
+      "Party",
+      "Drawing",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "Telephone with drawings: sketch, guess, sketch the guess.",
+    "bggId": 46213,
+    "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__itemrep@2x/img/1T9camGtDYgE8Ev65-WdxJENM7I=/fit-in/492x600/filters:strip_icc()/pic8855812.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/46213",
+    "bggVerified": true
+  },
+  {
+    "name": "Terraforming Mars",
+    "publisher": "Stronghold Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 12,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": "Hard",
+    "style": "Board",
+    "genres": [
+      "Engine building",
+      "Strategy"
+    ],
+    "theme": "Space",
+    "description": "Corporations compete to make Mars habitable.",
+    "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep@2x/img/4MA5xzO_pYlyq6hadbgf16utc28=/fit-in/492x600/filters:strip_icc()/pic3536616.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/167791",
+    "bggId": 167791
+  },
+  {
+    "name": "The Crew: The Quest for Planet Nine",
+    "publisher": "Kosmos",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Cooperative",
+      "Trick-taking"
+    ],
+    "theme": "Space",
+    "description": "A cooperative trick-taking campaign of 50 missions to find Planet Nine.",
+    "bggId": 284083,
+    "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep@2x/img/1ZTS88m5qgAXS-EN3F_4e07zwEc=/fit-in/492x600/filters:strip_icc()/pic5687013.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/284083"
+  },
+  {
+    "name": "The Duke",
+    "publisher": "Catalyst Game Labs",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minAge": 13,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Tile",
+    "genres": [
+      "Abstract",
+      "Strategy"
+    ],
+    "theme": "Medieval",
+    "description": "Chess-like tactics where each tile flips to a new movement pattern.",
+    "bggId": 36235,
+    "image": "https://cf.geekdo-images.com/dDFcB5lodNZxzxfWsTJtUg__itemrep@2x/img/7xm-v7FZ6QZtl5P_d0EBgB8Xht8=/fit-in/492x600/filters:strip_icc()/pic1688903.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/36235"
+  },
+  {
+    "name": "The Farming Game",
+    "publisher": "Weekend Farmer",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Economic",
+      "Roll & move"
+    ],
+    "theme": "Farm",
+    "description": "Run a farm through good harvests, bad weather and bank loans.",
+    "bggId": 5195,
+    "image": "https://cf.geekdo-images.com/p5PjmZlurxXqsOytageh2A__itemrep/img/9QihKdJobvtbdzB4cJInY41NJBo=/fit-in/246x300/filters:strip_icc()/pic336557.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/5195"
+  },
+  {
+    "name": "The Game",
+    "publisher": "Pandasaurus Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Cooperative"
+    ],
+    "theme": "Abstract",
+    "description": "Get all 98 cards onto four piles together with only limited talking.",
+    "bggId": 173090,
+    "image": "https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__itemrep@2x/img/yTl5sdBkhgUTpAewWd2_wwKiYSo=/fit-in/492x600/filters:strip_icc()/pic4203279.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/173090"
+  },
+  {
+    "name": "The Gender Gap",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Party"
+    ],
+    "theme": "Everyday",
+    "description": "Battle-of-the-sexes trivia.",
+    "needsReview": true
+  },
+  {
+    "name": "The Magical World of Disney Trivia",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "Disney",
+    "description": "Disney trivia.",
+    "needsReview": true
+  },
+  {
+    "name": "The Mind",
+    "publisher": "Pandasaurus Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Cooperative"
+    ],
+    "theme": "Abstract",
+    "description": "Play cards in ascending order together without talking.",
+    "bggId": 244992,
+    "image": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep@2x/img/MDdwMpfjxTZ8qKniSeChQRtQLEA=/fit-in/492x600/filters:strip_icc()/pic3979766.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/244992"
+  },
+  {
+    "name": "The Oregon Trail Card Game",
+    "publisher": "Pressman",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Cooperative",
+      "Humor"
+    ],
+    "theme": "Pioneer",
+    "description": "Make it to Oregon together without dying of dysentery."
+  },
+  {
+    "name": "The Original Tiny Hands Challenge Game",
+    "publisher": "Big G Creative",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Dexterity",
+      "Humor"
+    ],
+    "theme": "Humor",
+    "description": "Do everyday challenges while wearing tiny hands."
+  },
+  {
+    "name": "The Original Wizard Card Game",
+    "publisher": "US Games Systems",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Card",
+    "genres": [
+      "Trick-taking"
+    ],
+    "theme": "Fantasy",
+    "description": "Bid exactly how many tricks you'll take each round.",
+    "bggId": 1465,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/ygVQlepjPxyg7IizSCM_Tw__itemrep/img/-B_jX6C9fieqybdOUVcGWA1-zck=/fit-in/246x300/filters:strip_icc()/pic5948.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1465"
+  },
+  {
+    "name": "The Resistance",
+    "publisher": "Indie Boards & Cards",
+    "type": "Base game",
+    "minPlayers": 5,
+    "maxPlayers": 10,
+    "minAge": 13,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Social deduction",
+      "Bluffing"
+    ],
+    "theme": "Dystopia",
+    "description": "Rebels must find the spies among them before missions fail.",
+    "bggId": 41114,
+    "image": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__itemrep@2x/img/5qEOS48H-iQzqqK5NUv4Up90gvs=/fit-in/492x600/filters:strip_icc()/pic2576459.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/41114"
+  },
+  {
+    "name": "The Wimpy Kid: 10-Second Challenge",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Kids"
+    ],
+    "theme": "Books",
+    "description": "Do Wimpy Kid challenges in 10 seconds.",
+    "needsReview": true
+  },
+  {
+    "name": "The Wizard Always Wins",
+    "publisher": "Big G Creative",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Take-that"
+    ],
+    "theme": "Fantasy",
+    "description": "A wizard-themed card game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Things...",
+    "publisher": "PlayMonster",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "Write anonymous answers to prompts, then guess who wrote what."
+  },
+  {
+    "name": "Ticket to Ride",
+    "publisher": "Days of Wonder",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Route building",
+      "Set collection",
+      "Family"
+    ],
+    "theme": "Trains",
+    "description": "Collect train cards to claim railway routes across North America.",
+    "bggId": 9209,
+    "image": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__itemrep@2x/img/nAI08lHzxwXX2mVrNcBms4FEO_o=/fit-in/492x600/filters:strip_icc()/pic8937637.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/9209"
+  },
+  {
+    "name": "Ticket to Ride Europe",
+    "publisher": "Days of Wonder",
+    "type": "Standalone",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Route building",
+      "Set collection",
+      "Family"
+    ],
+    "theme": "Trains",
+    "description": "Ticket to Ride across Europe, with tunnels, ferries and stations.",
+    "bggId": 14996,
+    "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__itemrep@2x/img/ToRwgLtATqigq9Wp31CBYFao6WU=/fit-in/492x600/filters:strip_icc()/pic9580918.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/14996"
+  },
+  {
+    "name": "Timeline",
+    "publisher": "Asmodee",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Trivia",
+      "Family"
+    ],
+    "theme": "History",
+    "description": "Put historical events in the right order on the timeline.",
+    "bggId": 128664,
+    "image": "https://cf.geekdo-images.com/T8QVWsAG7GwZxsBIxElTTg__itemrep@2x/img/neL4qdBKUwI_6ZPPZQVQe-nFHnQ=/fit-in/492x600/filters:strip_icc()/pic9273469.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/128664"
+  },
+  {
+    "name": "Tiny Towns",
+    "publisher": "Alderac Entertainment Group (AEG)",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minAge": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Puzzle",
+      "Spatial"
+    ],
+    "theme": "Fantasy",
+    "description": "Place resources on a grid in patterns to build a little town.",
+    "bggId": 265736,
+    "image": "https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__itemrep@2x/img/3mUXQjTkzPaYTYFpI5yjUZbc7V0=/fit-in/492x600/filters:strip_icc()/pic4460401.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/265736"
+  },
+  {
+    "name": "Tokaido",
+    "publisher": "Funforge",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Set collection",
+      "Family"
+    ],
+    "theme": "Asia",
+    "description": "Travel the East Sea Road in Japan, collecting experiences on the way.",
+    "bggId": 123540,
+    "image": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__itemrep@2x/img/8BFe8-LvAWpEGPeFIVKbMxc996E=/fit-in/492x600/filters:strip_icc()/pic8758132.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/123540"
+  },
+  {
+    "name": "Trio",
+    "publisher": "Cocktail Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 7,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Memory",
+      "Deduction",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Reveal cards from hands and the table to find sets of three.",
+    "bggId": 352515,
+    "image": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__itemrep@2x/img/CtQURwrJhsJzATLyqTRSLc5n5mU=/fit-in/492x600/filters:strip_icc()/pic7605785.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/352515"
+  },
+  {
+    "name": "Trivial Pursuit: DVD Choice",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": "Easy",
+    "style": "Trivia",
+    "genres": [
+      "Trivia"
+    ],
+    "theme": "Pop culture",
+    "description": "Trivial Pursuit with DVD video questions."
+  },
+  {
+    "name": "Ultra Tiny Epic Galaxies",
+    "publisher": "Gamelyn Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minAge": 14,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Medium",
+    "style": "Dice",
+    "genres": [
+      "Dice",
+      "Roll & write"
+    ],
+    "theme": "Space",
+    "description": "A pocket roll-and-write version of Tiny Epic Galaxies."
+  },
+  {
+    "name": "UNO",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Shedding"
+    ],
+    "theme": "Classic",
+    "description": "Match color or number and shout UNO with one card left.",
+    "bggId": 2223,
+    "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2223"
+  },
+  {
+    "name": "UNO All Wild!",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Shedding"
+    ],
+    "theme": "Classic",
+    "description": "UNO where every card is wild."
+  },
+  {
+    "name": "UNO Flip!",
+    "publisher": "Mattel Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Family",
+      "Shedding"
+    ],
+    "theme": "Classic",
+    "description": "Double-sided UNO with a harsher Dark side.",
+    "bggId": 271460,
+    "image": "https://cf.geekdo-images.com/8IO6sl0jN5IylDDRAOK8GQ__itemrep@2x/img/tDrEkjeg1pCe7yaslz8f1_AybVo=/fit-in/492x600/filters:strip_icc()/pic8214042.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/271460"
+  },
+  {
+    "name": "VisualEyes",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Puzzle"
+    ],
+    "theme": "Everyday",
+    "description": "Solve visual word puzzles from pictures.",
+    "needsReview": true
+  },
+  {
+    "name": "We Didn't Playtest This at All",
+    "publisher": "Asmadi Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minAge": 12,
+    "minTime": 1,
+    "maxTime": 10,
+    "difficulty": "Easy",
+    "style": "Card",
+    "genres": [
+      "Humor",
+      "Take-that"
+    ],
+    "theme": "Humor",
+    "description": "Chaotic five-minute games full of absurd ways to win and lose.",
+    "bggId": 31016,
+    "image": "https://cf.geekdo-images.com/vD1XOwfbUZr67sRgHdrncQ__itemrep@2x/img/rT8QmdECf1FMZE0K6C6Dm1T4M8Q=/fit-in/492x600/filters:strip_icc()/pic7299902.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/31016"
+  },
+  {
+    "name": "What Do You Meme?",
+    "publisher": "What Do You Meme?",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 20,
+    "minAge": 17,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor",
+      "Adult"
+    ],
+    "theme": "Pop culture",
+    "description": "Match caption cards to meme photos. Adult content.",
+    "bggId": 226610,
+    "image": "https://cf.geekdo-images.com/5Pmk8PrpMHPMg0hG8fJz9w__itemrep/img/WJkMfOO1Wp7vfmHgkrz7Te6j_78=/fit-in/246x300/filters:strip_icc()/pic3749720.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/226610"
+  },
+  {
+    "name": "What Do You Meme? Family",
+    "publisher": "What Do You Meme?",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 20,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Pop culture",
+    "description": "The kid-friendly version of What Do You Meme?"
+  },
+  {
+    "name": "What Do You Meme? Fresh Memes",
+    "publisher": "What Do You Meme?",
+    "type": "Expansion",
+    "expands": "What Do You Meme?",
+    "minPlayers": 3,
+    "maxPlayers": 20,
+    "minAge": 17,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Pop culture",
+    "description": "Expansion with new meme photo cards.",
+    "bggId": 244592,
+    "image": "https://cf.geekdo-images.com/mH_pVlQzDsFZLWgmFq7x0w__itemrep/img/ZeoROWLSIThqzusXtteSakLzDmY=/fit-in/246x300/filters:strip_icc()/pic4128369.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/244592"
+  },
+  {
+    "name": "Where in the World Is Carmen Sandiego?",
+    "publisher": "University Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Deduction",
+      "Educational"
+    ],
+    "theme": "Travel",
+    "description": "Follow clues around the world to track down Carmen Sandiego."
+  },
+  {
+    "name": "Whitewater",
+    "publisher": "Funfair Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Board",
+    "genres": [
+      "Racing"
+    ],
+    "theme": "Outdoors",
+    "description": "A river-rafting race game; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Wink",
+    "publisher": "Unknown",
+    "type": "Base game",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minAge": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Social deduction"
+    ],
+    "theme": "Everyday",
+    "description": "A party game of secret winks; details need checking.",
+    "needsReview": true
+  },
+  {
+    "name": "Wits & Wagers",
+    "publisher": "North Star Games",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minAge": 10,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Trivia"
+    ],
+    "theme": "Everyday",
+    "description": "Guess numbers in trivia, then bet on whose answer is closest.",
+    "bggId": 20100,
+    "image": "https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep@2x/img/bll1i79AWjKEAwd6QU-5KXj69bo=/fit-in/492x600/filters:strip_icc()/pic2558555.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/20100"
+  },
+  {
+    "name": "Wonky",
+    "publisher": "USAopoly / The Op Games",
+    "type": "Base game",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minAge": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": "Easy",
+    "style": "Dexterity",
+    "genres": [
+      "Dexterity",
+      "Family"
+    ],
+    "theme": "Abstract",
+    "description": "Stack wonky blocks according to your cards without toppling the tower."
+  },
+  {
+    "name": "Would You Rather?",
+    "publisher": "Spin Master",
+    "type": "Base game",
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minAge": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Party",
+    "genres": [
+      "Party",
+      "Humor"
+    ],
+    "theme": "Everyday",
+    "description": "Pick between two ridiculous options and argue your case."
+  },
+  {
+    "name": "Yahtzee",
+    "publisher": "Hasbro",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 10,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": "Easy",
+    "style": "Dice",
+    "genres": [
+      "Dice",
+      "Push-your-luck",
+      "Classic"
+    ],
+    "theme": "Classic",
+    "description": "Roll five dice for straights, full houses and Yahtzees.",
+    "bggId": 2243,
+    "image": "https://cf.geekdo-images.com/dp-pJkUemCjhrwi9QItrPA__itemrep@2x/img/Yp66t1uvpr8lBELen49M2oJbuog=/fit-in/492x600/filters:strip_icc()/pic378237.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2243"
+  },
+  {
+    "name": "Zombicide",
+    "publisher": "Cool Mini or Not / Guillotine Games",
+    "type": "Base game",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minAge": 13,
+    "minTime": 60,
+    "maxTime": 180,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Miniatures"
+    ],
+    "theme": "Zombies",
+    "description": "Survivors fight zombie hordes together on modular city tiles.",
+    "bggId": 113924,
+    "image": "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/113924"
+  },
+  {
+    "name": "Zombicide Zombie Core Paint Set",
+    "publisher": "The Army Painter / Cool Mini or Not",
+    "type": "Accessory",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "minAge": 13,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": "Medium",
+    "style": "Accessory",
+    "genres": [
+      "Painting"
+    ],
+    "theme": "Zombies",
+    "description": "Paints for the Zombicide miniatures."
+  },
+  {
+    "name": "Zombicide: Toxic City Mall",
+    "publisher": "Cool Mini or Not / Guillotine Games",
+    "type": "Expansion",
+    "expands": "Zombicide",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minAge": 13,
+    "minTime": 60,
+    "maxTime": 180,
+    "difficulty": "Medium",
+    "style": "Board",
+    "genres": [
+      "Cooperative",
+      "Miniatures"
+    ],
+    "theme": "Zombies",
+    "description": "Expansion set in a mall overrun by toxic zombies."
+  }
+]
