@@ -1,0 +1,94 @@
+{
+  "cubbies": [
+    {
+      "id": "A1",
+      "sections": [
+        "Grown-ups only",
+        "Strategy & campaigns"
+      ],
+      "fill": 74
+    },
+    {
+      "id": "A2",
+      "sections": [
+        "Strategy & campaigns"
+      ],
+      "fill": 73
+    },
+    {
+      "id": "A3",
+      "sections": [
+        "Strategy & campaigns",
+        "Co-op"
+      ],
+      "fill": 75
+    },
+    {
+      "id": "B1",
+      "sections": [
+        "Co-op",
+        "Two-player",
+        "Family"
+      ],
+      "fill": 75
+    },
+    {
+      "id": "B2",
+      "sections": [
+        "Family"
+      ],
+      "fill": 76
+    },
+    {
+      "id": "B3",
+      "sections": [
+        "Family"
+      ],
+      "fill": 77
+    },
+    {
+      "id": "C1",
+      "sections": [
+        "Family"
+      ],
+      "fill": 76
+    },
+    {
+      "id": "C2",
+      "sections": [
+        "Family",
+        "Card game bin",
+        "Party, word & trivia"
+      ],
+      "fill": 77
+    },
+    {
+      "id": "C3",
+      "sections": [
+        "Party, word & trivia"
+      ],
+      "fill": 71
+    },
+    {
+      "id": "D1",
+      "sections": [
+        "Kids"
+      ],
+      "fill": 47
+    },
+    {
+      "id": "D2",
+      "sections": [
+        "Party, word & trivia"
+      ],
+      "fill": 77
+    },
+    {
+      "id": "D3",
+      "sections": [
+        "Party, word & trivia"
+      ],
+      "fill": 62
+    }
+  ]
+}

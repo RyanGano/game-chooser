@@ -18,7 +18,14 @@
     "description": "Quick-fire mini mysteries solved from clues read aloud.",
     "bggId": 8133,
     "image": "https://cf.geekdo-images.com/GEmo3KP_67P1PA5A_Z2NzQ__itemrep/img/nxL3zRfhAUcHaJqzLMi5mcrVoHA=/fit-in/246x300/filters:strip_icc()/pic41006.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/8133"
+    "imageCredit": "https://boardgamegeek.com/boardgame/8133",
+    "size": [
+      14.5,
+      10,
+      3
+    ],
+    "cubby": "C2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "7 Wonders",
@@ -40,7 +47,14 @@
     "description": "Draft cards over three ages to build an ancient civilization and its wonder.",
     "bggId": 316377,
     "image": "https://cf.geekdo-images.com/Naw8y8J_s-8cvq1GoTON6w__itemrep@2x/img/1UZAht0YyLjr2_fNtKVna44Nt4g=/fit-in/492x600/filters:strip_icc()/pic7416519.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/316377"
+    "imageCredit": "https://boardgamegeek.com/boardgame/316377",
+    "size": [
+      11.7,
+      11.7,
+      3
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Air, Land & Sea",
@@ -61,7 +75,14 @@
     "description": "A tight two-player battle of cards across three theaters of war.",
     "bggId": 247367,
     "image": "https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__itemrep@2x/img/Xs3WCZBBd9j6D7DsvkDCqPFAeRg=/fit-in/492x600/filters:strip_icc()/pic4387681.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/247367"
+    "imageCredit": "https://boardgamegeek.com/boardgame/247367",
+    "size": [
+      6.3,
+      4.5,
+      1.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Alchemists",
@@ -83,7 +104,14 @@
     "description": "Deduce ingredient properties with an app and publish theories before rivals.",
     "bggId": 161970,
     "image": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__itemrep@2x/img/5UnoFJgxVfBTnADzVkimqOY_LuU=/fit-in/492x600/filters:strip_icc()/pic2241156.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/161970"
+    "imageCredit": "https://boardgamegeek.com/boardgame/161970",
+    "size": [
+      11.8,
+      11.8,
+      2.9
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Antiquity Quest",
@@ -104,7 +132,14 @@
     "description": "Dig up artifacts and race to complete collections.",
     "bggId": 286559,
     "image": "https://cf.geekdo-images.com/MQmKh6w6d5vHIg0j9CBDPg__itemrep@2x/img/iNxUivIESy3H2Uc4SUFaiQGnjBU=/fit-in/492x600/filters:strip_icc()/pic6490317.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/286559"
+    "imageCredit": "https://boardgamegeek.com/boardgame/286559",
+    "size": [
+      8.3,
+      5.5,
+      1.5
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Apples to Apples",
@@ -125,7 +160,14 @@
     "description": "Match noun cards to a judge's adjective; funniest or best match wins.",
     "bggId": 74,
     "image": "https://cf.geekdo-images.com/JqqzoF_nph__MSn3swLYZg__itemrep/img/MyHdOdG87Lu-s9EvqHJnCb8TYt0=/fit-in/246x300/filters:strip_icc()/pic9888605.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/74"
+    "imageCredit": "https://boardgamegeek.com/boardgame/74",
+    "size": [
+      6,
+      3.8,
+      2.4
+    ],
+    "cubby": "C2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Axis & Allies",
@@ -147,7 +189,14 @@
     "description": "Command the major powers of World War II in an epic strategy campaign.",
     "bggId": 98,
     "image": "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/98"
+    "imageCredit": "https://boardgamegeek.com/boardgame/98",
+    "size": [
+      20,
+      12,
+      4
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Azul",
@@ -169,7 +218,14 @@
     "description": "Draft colorful tiles to decorate a palace wall with patterns.",
     "bggId": 230802,
     "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep@2x/img/PH6uta5QGxUHg7aZ609yifJQrhY=/fit-in/492x600/filters:strip_icc()/pic6973671.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/230802"
+    "imageCredit": "https://boardgamegeek.com/boardgame/230802",
+    "size": [
+      7.9,
+      5.9,
+      2
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Azul: Crystal Mosaic",
@@ -191,7 +247,14 @@
     "description": "Expansion adding crystal-mosaic player boards and a new tile overlay.",
     "bggId": 294345,
     "image": "https://cf.geekdo-images.com/bwrDcuyGu29R4G5Vtr9cOg__itemrep@2x/img/oGg5DQelPIBMnCy-54X6qVjKwGI=/fit-in/492x600/filters:strip_icc()/pic7274243.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/294345"
+    "imageCredit": "https://boardgamegeek.com/boardgame/294345",
+    "size": [
+      10.2,
+      10.2,
+      1.1
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Back to the Future: Dice Through Time",
@@ -212,7 +275,14 @@
     "description": "Work together across time periods to fix the timeline before it collapses.",
     "bggId": 292564,
     "image": "https://cf.geekdo-images.com/CCSUukhDz8EQVJaPoAU4hg__itemrep@2x/img/y0mNSQTG8wZXiCe_9ABRLbE5SZQ=/fit-in/492x600/filters:strip_icc()/pic5265652.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/292564"
+    "imageCredit": "https://boardgamegeek.com/boardgame/292564",
+    "size": [
+      10.5,
+      10.5,
+      2.6
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Backseat Drawing Junior",
@@ -234,7 +304,14 @@
     "description": "One player describes a picture while a teammate draws it blind.",
     "bggId": 41332,
     "image": "https://cf.geekdo-images.com/po6yyc3n6qDYNO_j95TTGg__itemrep@2x/img/FKIhNfiDpHq2XrjDoAYDnTCxx5k=/fit-in/492x600/filters:strip_icc()/pic1229357.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/41332"
+    "imageCredit": "https://boardgamegeek.com/boardgame/41332",
+    "size": [
+      10.2,
+      8.5,
+      2.8
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Balderdash",
@@ -256,7 +333,14 @@
     "description": "Invent fake definitions for obscure words and fool other players.",
     "bggId": 163,
     "image": "https://cf.geekdo-images.com/hXNqiCcLt9AJzcqBSsyKiQ__itemrep@2x/img/o25uRg_NvckidQagjfDa4fJYUPE=/fit-in/492x600/filters:strip_icc()/pic5121000.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/163"
+    "imageCredit": "https://boardgamegeek.com/boardgame/163",
+    "size": [
+      12.4,
+      8.1,
+      4
+    ],
+    "cubby": "C2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Bamboozled: The Bluffing Dice Game",
@@ -277,7 +361,14 @@
     "description": "A bluffing dice game of hidden rolls and bold claims.",
     "bggId": 277154,
     "image": "https://cf.geekdo-images.com/y15leiCYYEglfTYguukN-w__itemrep@2x/img/j5G6ScP58PkomWACz9S5986SQt4=/fit-in/492x600/filters:strip_icc()/pic7632578.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/277154"
+    "imageCredit": "https://boardgamegeek.com/boardgame/277154",
+    "size": [
+      7,
+      4.5,
+      1.5
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Bananagrams",
@@ -298,7 +389,14 @@
     "description": "Race to build your own crossword grid from letter tiles.",
     "bggId": 27225,
     "image": "https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__itemrep/img/X_jDNQ5uwOuTvWckl-KVidGD3uI=/fit-in/246x300/filters:strip_icc()/pic2463443.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/27225"
+    "imageCredit": "https://boardgamegeek.com/boardgame/27225",
+    "size": [
+      3,
+      3,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Bang!",
@@ -319,7 +417,14 @@
     "description": "Sheriff, deputies, outlaws and a renegade shoot it out in the Wild West.",
     "bggId": 3955,
     "image": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__itemrep@2x/img/y8voqbS1PSXTwdM-hIhQYDNACls=/fit-in/492x600/filters:strip_icc()/pic1170986.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/3955"
+    "imageCredit": "https://boardgamegeek.com/boardgame/3955",
+    "size": [
+      5,
+      3,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Beat the Parents",
@@ -340,7 +445,14 @@
     "description": "Kids versus parents in a trivia showdown with questions aimed at each side.",
     "bggId": 20422,
     "image": "https://cf.geekdo-images.com/BBTS1IJxjbaTZFGOpBIZeQ__itemrep@2x/img/JyDLe353yiPLC1oTt0fsLPFLVhQ=/fit-in/492x600/filters:strip_icc()/pic101278.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/20422"
+    "imageCredit": "https://boardgamegeek.com/boardgame/20422",
+    "size": [
+      11.6,
+      10.6,
+      2
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Black Box: Guildhall",
@@ -362,7 +474,14 @@
     "box": "AEG Black Box",
     "bggId": 169814,
     "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Black Box: Maximum Throwdown: Overload",
@@ -384,7 +503,14 @@
     "box": "AEG Black Box",
     "bggId": 169814,
     "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Black Box: Seventh Hero",
@@ -406,7 +532,14 @@
     "box": "AEG Black Box",
     "bggId": 169814,
     "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Black Box: Trains",
@@ -428,7 +561,14 @@
     "box": "AEG Black Box",
     "bggId": 169814,
     "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Blackout: Hong Kong",
@@ -450,7 +590,14 @@
     "description": "Help Hong Kong recover after a blackout by recruiting specialists and completing objectives.",
     "bggId": 262215,
     "image": "https://cf.geekdo-images.com/jOLEKfuTY4gLszR1h-0Bfw__itemrep@2x/img/Hkd-XjKbFnl6LCAfkCzCFWVj_eI=/fit-in/492x600/filters:strip_icc()/pic4338675.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/262215"
+    "imageCredit": "https://boardgamegeek.com/boardgame/262215",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Blockbuster",
@@ -468,7 +615,9 @@
       "Acting"
     ],
     "theme": "Movies",
-    "description": "Teams name, quote and act out movies in a race against the clock."
+    "description": "Teams name, quote and act out movies in a race against the clock.",
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Blockers!",
@@ -489,7 +638,14 @@
     "description": "Place pieces to claim space while blocking your opponents.",
     "bggId": 29073,
     "image": "https://cf.geekdo-images.com/kI3AWrpfHbWgb8PQjTMakw__itemrep@2x/img/Xr_DO5GJK8jUqNNGPJW8rPR33G8=/fit-in/492x600/filters:strip_icc()/pic9865792.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/29073"
+    "imageCredit": "https://boardgamegeek.com/boardgame/29073",
+    "size": [
+      10.8,
+      6.8,
+      2.8
+    ],
+    "cubby": "B1",
+    "section": "Family"
   },
   {
     "name": "Bounce-Off Rock N Rollz",
@@ -510,7 +666,14 @@
     "description": "Bounce balls into the grid to match patterns before your opponent.",
     "bggId": 214276,
     "image": "https://cf.geekdo-images.com/P4JzWM1DxFU07uOPA1dvfA__itemrep@2x/img/3q374HfSHLyL-DCLn47urB-JsVc=/fit-in/492x600/filters:strip_icc()/pic3344670.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/214276"
+    "imageCredit": "https://boardgamegeek.com/boardgame/214276",
+    "size": [
+      10.5,
+      10.5,
+      2
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "BuyWord",
@@ -531,7 +694,14 @@
     "description": "Buy letter tiles, then sell the words you make for profit.",
     "bggId": 8920,
     "image": "https://cf.geekdo-images.com/vQXVu83jkarLrPzHovgqYQ__itemrep/img/qVfFdj1_AwMoso0Ri7hBps6vdd0=/fit-in/246x300/filters:strip_icc()/pic1046512.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/8920"
+    "imageCredit": "https://boardgamegeek.com/boardgame/8920",
+    "size": [
+      10.2,
+      10.2,
+      2.2
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Bye, Felicia!",
@@ -552,7 +722,9 @@
     "description": "A party game of sending players packing with sass.",
     "bggId": 313100,
     "image": "https://cf.geekdo-images.com/B3ymzCeNVSKDqE2IgImibw__itemrep@2x/img/427ufIfuRGc4zpXMxEmDh9mGAfg=/fit-in/492x600/filters:strip_icc()/pic5501803.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/313100"
+    "imageCredit": "https://boardgamegeek.com/boardgame/313100",
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Carcassonne Big Box",
@@ -574,7 +746,14 @@
     "description": "Carcassonne plus several expansions in one box.",
     "bggId": 364405,
     "image": "https://cf.geekdo-images.com/8SxKbbsrNO9lo6y4HACwNQ__itemrep@2x/img/AHNKKwIGL7hExJ5Gf1am9lzznDs=/fit-in/492x600/filters:strip_icc()/pic7319375.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/364405"
+    "imageCredit": "https://boardgamegeek.com/boardgame/364405",
+    "size": [
+      17,
+      12,
+      4
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Carcassonne: Abbey & Mayor",
@@ -592,7 +771,9 @@
       "Tile placement"
     ],
     "theme": "Medieval",
-    "description": "Expansion adding abbeys, mayors, barns and wagons."
+    "description": "Expansion adding abbeys, mayors, barns and wagons.",
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Carcassonne: Amazonas",
@@ -610,7 +791,9 @@
       "Racing"
     ],
     "theme": "Jungle",
-    "description": "A standalone Carcassonne along the Amazon river with boat racing."
+    "description": "A standalone Carcassonne along the Amazon river with boat racing.",
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Carcassonne: Mists over Carcassonne",
@@ -631,7 +814,14 @@
     "description": "A cooperative Carcassonne where players fight back spreading ghosts.",
     "bggId": 358124,
     "image": "https://cf.geekdo-images.com/yRFr7i5heyw9pIcuJ50jFw__itemrep@2x/img/Z5V4bao5MPGMABpCPxWtvU8_ZEI=/fit-in/492x600/filters:strip_icc()/pic7336367.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/358124"
+    "imageCredit": "https://boardgamegeek.com/boardgame/358124",
+    "size": [
+      10.8,
+      7.5,
+      2.4
+    ],
+    "cubby": "A3",
+    "section": "Co-op"
   },
   {
     "name": "Carcassonne: The Tower",
@@ -653,7 +843,14 @@
     "imageLocked": true,
     "bggId": 21385,
     "image": "https://cf.geekdo-images.com/4yn-h8juUIMaY7WtYGx5ew__itemrep@2x/img/LXFU5C10VSHvhTYUIRoF5m4N9T4=/fit-in/492x600/filters:strip_icc()/pic9210966.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/21385"
+    "imageCredit": "https://boardgamegeek.com/boardgame/21385",
+    "size": [
+      6.8,
+      4.8,
+      1.8
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Cascadia",
@@ -674,7 +871,14 @@
     "description": "Build Pacific Northwest habitats and place wildlife in scoring patterns.",
     "bggId": 295947,
     "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep@2x/img/jluk2bo_VuQ6kgX2bH9gFI9j0AM=/fit-in/492x600/filters:strip_icc()/pic5100691.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/295947"
+    "imageCredit": "https://boardgamegeek.com/boardgame/295947",
+    "size": [
+      9.4,
+      9.4,
+      2.8
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Cash 'n Guns (Second Edition)",
@@ -696,7 +900,14 @@
     "bggId": 155362,
     "bggVerified": true,
     "image": "https://cf.geekdo-images.com/b4qSA5fvVJe9QQOKPCMoNA__itemrep@2x/img/XxyPICM2Nc56B9775dmm2LiWy1Y=/fit-in/492x600/filters:strip_icc()/pic2907864.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/155362"
+    "imageCredit": "https://boardgamegeek.com/boardgame/155362",
+    "size": [
+      10.8,
+      10.8,
+      2.2
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Cat in the Box",
@@ -716,7 +927,14 @@
     "description": "A trick-taking game where card colors aren't decided until you play them.",
     "bggId": 345972,
     "image": "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__itemrep@2x/img/4U7JMQfYSoAiiEPXfeOM7kCbT-E=/fit-in/492x600/filters:strip_icc()/pic6731829.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/345972"
+    "imageCredit": "https://boardgamegeek.com/boardgame/345972",
+    "size": [
+      7.1,
+      5.1,
+      1.6
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Catan",
@@ -738,7 +956,14 @@
     "description": "Gather and trade resources to build roads, settlements and cities.",
     "bggId": 13,
     "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep@2x/img/81lS9PRn2JwyE4br1l7Z5fgSyFo=/fit-in/492x600/filters:strip_icc()/pic9156909.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/13"
+    "imageCredit": "https://boardgamegeek.com/boardgame/13",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Catan Junior",
@@ -760,7 +985,14 @@
     "description": "A kids' Catan where young pirates build hideouts across islands.",
     "bggId": 184842,
     "image": "https://cf.geekdo-images.com/3N4eCvJFqoygqP9qxMq5ZA__itemrep@2x/img/vOyl5bIje2dmLFlWfeKsuAjftGI=/fit-in/492x600/filters:strip_icc()/pic2836284.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/184842"
+    "imageCredit": "https://boardgamegeek.com/boardgame/184842",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Chain Game",
@@ -778,7 +1010,9 @@
     ],
     "theme": "Abstract",
     "description": "A puzzle game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Circulo",
@@ -796,7 +1030,9 @@
     ],
     "theme": "Abstract",
     "description": "An abstract game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Clue",
@@ -817,7 +1053,14 @@
     "description": "Work out who did it, with what, and where in the classic murder mystery.",
     "image": "https://cf.geekdo-images.com/wNcbhLJGGjakYjjm1gV_kQ__itemrep@2x/img/3q2noy-bZN1m8iuIVDcTdLGGlXM=/fit-in/492x600/filters:strip_icc()/pic7563466.png",
     "imageCredit": "https://boardgamegeek.com/boardgame/1294",
-    "bggId": 1294
+    "bggId": 1294,
+    "size": [
+      16,
+      10.6,
+      2.2
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Code Master: Programming Logic Game",
@@ -836,7 +1079,9 @@
       "Solo"
     ],
     "theme": "Programming",
-    "description": "Solo logic puzzles that teach programming concepts."
+    "description": "Solo logic puzzles that teach programming concepts.",
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Codenames",
@@ -858,7 +1103,14 @@
     "description": "Spymasters give one-word clues to help their team find secret agents.",
     "bggId": 178900,
     "image": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__itemrep@2x/img/aunQPNKfQbrb3ok4ayEhC4osqkc=/fit-in/492x600/filters:strip_icc()/pic8907965.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/178900"
+    "imageCredit": "https://boardgamegeek.com/boardgame/178900",
+    "size": [
+      9.1,
+      6.3,
+      1.6
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Codenames: Duet",
@@ -880,7 +1132,14 @@
     "description": "A cooperative two-player Codenames.",
     "bggId": 224037,
     "image": "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__itemrep@2x/img/gH053_0BOdX8ts2eOc9gtczzEJo=/fit-in/492x600/filters:strip_icc()/pic8911183.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/224037"
+    "imageCredit": "https://boardgamegeek.com/boardgame/224037",
+    "size": [
+      12.6,
+      9.1,
+      2.8
+    ],
+    "cubby": "A3",
+    "section": "Co-op"
   },
   {
     "name": "Codenames: Pictures",
@@ -901,7 +1160,14 @@
     "description": "Codenames played with picture cards instead of words.",
     "bggId": 198773,
     "image": "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__itemrep@2x/img/SxlcXyp9fybVicfy3dadUbNTc3M=/fit-in/492x600/filters:strip_icc()/pic9206059.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/198773"
+    "imageCredit": "https://boardgamegeek.com/boardgame/198773",
+    "size": [
+      9.1,
+      6.3,
+      2
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Color Brain: Disney Edition",
@@ -919,7 +1185,9 @@
       "Family"
     ],
     "theme": "Disney",
-    "description": "Answer Disney questions with color cards."
+    "description": "Answer Disney questions with color cards.",
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Compatibility",
@@ -939,7 +1207,14 @@
     "description": "Partners try to pick the same picture cards for each prompt.",
     "bggId": 2604,
     "image": "https://cf.geekdo-images.com/zYE_qfgGOPHH9cKY_OY4fA__itemrep/img/osrrJiZzmBSSmSJZTon-T5MtVkA=/fit-in/246x300/filters:strip_icc()/pic336536.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2604"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2604",
+    "size": [
+      10.6,
+      8.7,
+      2.8
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Concentration",
@@ -961,7 +1236,14 @@
     "imageLocked": true,
     "bggId": 6798,
     "image": "https://cf.geekdo-images.com/YXjewBKkxVctxlhEIOhrtQ__itemrep@2x/img/3SxvLNEtQZsIc-vRENdyqmpCPA4=/fit-in/492x600/filters:strip_icc()/pic55050.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/6798"
+    "imageCredit": "https://boardgamegeek.com/boardgame/6798",
+    "size": [
+      13.8,
+      9.4,
+      2.4
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Coup",
@@ -982,7 +1264,14 @@
     "description": "Bluff about your hidden roles to eliminate everyone else's influence.",
     "bggId": 131357,
     "image": "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__itemrep/img/QRw3T5XGsrRs-QKCSpzwE7nFqOg=/fit-in/246x300/filters:strip_icc()/pic2016054.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/131357"
+    "imageCredit": "https://boardgamegeek.com/boardgame/131357",
+    "size": [
+      8.9,
+      6.9,
+      2.9
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Cranium",
@@ -1005,7 +1294,14 @@
     "description": "Teams sketch, sculpt, act and answer trivia to race around the board.",
     "bggId": 891,
     "image": "https://cf.geekdo-images.com/-RAQw4eCx3i__6ctz6-N9A__itemrep@2x/img/2J8Wy5tui7SlxSfzqHR0xfVwWzo=/fit-in/492x600/filters:strip_icc()/pic4994220.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/891"
+    "imageCredit": "https://boardgamegeek.com/boardgame/891",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Cranium Booster Box 1",
@@ -1027,7 +1323,14 @@
     "description": "Extra cards for Cranium.",
     "bggId": 6854,
     "image": "https://cf.geekdo-images.com/KMxnlpzVD_WkthJ2eFL7CQ__itemrep/img/5C_BYojt4GA5fFoymUQDtCP-HPo=/fit-in/246x300/filters:strip_icc()/pic65206.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/6854"
+    "imageCredit": "https://boardgamegeek.com/boardgame/6854",
+    "size": [
+      10.5,
+      5.3,
+      3
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Crazy 8s",
@@ -1047,7 +1350,9 @@
     "theme": "Classic",
     "description": "The classic shedding game: match suit or number, eights are wild.",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Crazy_Eights.jpg/500px-Crazy_Eights.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "imageCredit": "https://en.wikipedia.org/wiki/Crazy_Eights"
+    "imageCredit": "https://en.wikipedia.org/wiki/Crazy_Eights",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Cube 2 Checkers",
@@ -1065,7 +1370,9 @@
     ],
     "theme": "Abstract",
     "description": "A checkers variant; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "Decrypto",
@@ -1087,7 +1394,14 @@
     "description": "Teams send coded messages and try to intercept the other team's.",
     "bggId": 225694,
     "image": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep@2x/img/PLfYCe9BTsXbYJvTSh57L-zgDe0=/fit-in/492x600/filters:strip_icc()/pic3759421.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/225694"
+    "imageCredit": "https://boardgamegeek.com/boardgame/225694",
+    "size": [
+      9.1,
+      6.3,
+      2
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Dixit",
@@ -1108,7 +1422,14 @@
     "description": "Give a clue about a dreamlike picture: not too obvious, not too obscure.",
     "bggId": 39856,
     "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__itemrep@2x/img/KLwExlTzRJJWirlhiyev9WV_pXQ=/fit-in/492x600/filters:strip_icc()/pic6738336.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/39856"
+    "imageCredit": "https://boardgamegeek.com/boardgame/39856",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Dominion",
@@ -1129,7 +1450,14 @@
     "description": "The original deck-builder: buy cards to grow your kingdom.",
     "bggId": 36218,
     "image": "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__itemrep@2x/img/6pTUe8e0xuNPTFgNMYabr7zg4ks=/fit-in/492x600/filters:strip_icc()/pic394356.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/36218"
+    "imageCredit": "https://boardgamegeek.com/boardgame/36218",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Dominion: Empires",
@@ -1150,7 +1478,14 @@
     "description": "Expansion with debt, split piles and landmarks.",
     "image": "https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__itemrep@2x/img/Py-0GPrKuD9_P7fKI0Coly7AKKg=/fit-in/492x600/filters:strip_icc()/pic2868179.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/192951",
-    "bggId": 192951
+    "bggId": 192951,
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "DOS",
@@ -1171,7 +1506,14 @@
     "description": "From the makers of UNO: match numbers in pairs to clear the center row.",
     "bggId": 246701,
     "image": "https://cf.geekdo-images.com/yglLYxKLFHdSVakjUaChpQ__itemrep@2x/img/6cFh5RIqUV32gdaZ3xxO6hpteY8=/fit-in/492x600/filters:strip_icc()/pic4652900.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/246701"
+    "imageCredit": "https://boardgamegeek.com/boardgame/246701",
+    "size": [
+      5.8,
+      3.6,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Draw Something",
@@ -1190,7 +1532,9 @@
     ],
     "theme": "Everyday",
     "description": "Drawing and guessing game based on the mobile app.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Dutch Blitz",
@@ -1210,7 +1554,9 @@
     "theme": "Farm",
     "description": "A frantic real-time race to play numbered cards onto shared piles.",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Homeschoolers_playing_Dutch_Blitz_at_picnic_gathering.jpg/500px-Homeschoolers_playing_Dutch_Blitz_at_picnic_gathering.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "imageCredit": "https://en.wikipedia.org/wiki/Dutch_Blitz"
+    "imageCredit": "https://en.wikipedia.org/wiki/Dutch_Blitz",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Echoes",
@@ -1229,7 +1575,9 @@
       "Audio"
     ],
     "theme": "Mystery",
-    "description": "Use an app to listen to audio clues and piece a mystery together."
+    "description": "Use an app to listen to audio clues and piece a mystery together.",
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Escape: The Curse of the Temple Big Box",
@@ -1251,7 +1599,14 @@
     "description": "Roll dice frantically to escape a cursed temple in 10 minutes, with expansions.",
     "bggId": 113294,
     "image": "https://cf.geekdo-images.com/m6269wyfWVa7gZp3oXKx6A__itemrep@2x/img/3hivgYeWGRGiRHUqtQ7eI6w9Ayo=/fit-in/492x600/filters:strip_icc()/pic3328521.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/113294"
+    "imageCredit": "https://boardgamegeek.com/boardgame/113294",
+    "size": [
+      11.8,
+      11.5,
+      3
+    ],
+    "cubby": "A3",
+    "section": "Co-op"
   },
   {
     "name": "Exploding Kittens",
@@ -1273,7 +1628,14 @@
     "description": "Don't draw the exploding kitten, or have a defuse card ready.",
     "bggId": 172225,
     "image": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/172225"
+    "imageCredit": "https://boardgamegeek.com/boardgame/172225",
+    "size": [
+      6.4,
+      4.4,
+      1.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Family Challenge",
@@ -1292,7 +1654,9 @@
     ],
     "theme": "Family",
     "description": "Family challenges and trivia for kids and adults.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Family Feud",
@@ -1313,7 +1677,14 @@
     "description": "Guess the most popular survey answers, like the TV show.",
     "bggId": 5312,
     "image": "https://cf.geekdo-images.com/jgfERm7A2dM56xvFxcVeoQ__itemrep@2x/img/9AfoM9NN2ii6MQdwqiXN0SfpSpk=/fit-in/492x600/filters:strip_icc()/pic9594826.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/5312"
+    "imageCredit": "https://boardgamegeek.com/boardgame/5312",
+    "size": [
+      10.6,
+      10.6,
+      2.4
+    ],
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Fire Tower",
@@ -1334,7 +1705,14 @@
     "description": "Spread a forest fire toward rival lookout towers before they reach yours.",
     "bggId": 226605,
     "image": "https://cf.geekdo-images.com/smRx-veml48bWTsDJFzisQ__itemrep@2x/img/pmssdv6NAx0ogGqsHdzdkwdgEaY=/fit-in/492x600/filters:strip_icc()/pic4081152.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/226605"
+    "imageCredit": "https://boardgamegeek.com/boardgame/226605",
+    "size": [
+      9.5,
+      9.5,
+      2
+    ],
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Fireball Island: Race to Adventure",
@@ -1354,7 +1732,9 @@
     ],
     "theme": "Adventure",
     "description": "Race over the island while dodging rolling fireballs.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B2",
+    "section": "Family"
   },
   {
     "name": "Five Crowns",
@@ -1375,7 +1755,14 @@
     "description": "A five-suited rummy game where the wild card changes every round.",
     "bggId": 1472,
     "image": "https://cf.geekdo-images.com/sPc6K1gC--QrGHkdCmD8MQ__itemrep@2x/img/JoH9cV64cmfiyiUDJEFQtVUGikk=/fit-in/492x600/filters:strip_icc()/pic2869930.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1472"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1472",
+    "size": [
+      7,
+      5,
+      1.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Flip 7",
@@ -1396,7 +1783,14 @@
     "description": "Flip cards to score but bust on a duplicate number.",
     "bggId": 420087,
     "image": "https://cf.geekdo-images.com/YrQxEB9Ef0kQorRApzG5vQ__itemrep@2x/img/L_9BNzwp1B3BMbwbFhO5OGCAm5Y=/fit-in/492x600/filters:strip_icc()/pic8780246.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/420087"
+    "imageCredit": "https://boardgamegeek.com/boardgame/420087",
+    "size": [
+      4.7,
+      3.6,
+      0.9
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Fluxx",
@@ -1417,7 +1811,14 @@
     "description": "A card game where the rules and win conditions keep changing.",
     "image": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__itemrep@2x/img/GtRrj2JGZ8qi-6ViVE6zxK9rR44=/fit-in/492x600/filters:strip_icc()/pic2405641.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/258",
-    "bggId": 258
+    "bggId": 258,
+    "size": [
+      3.5,
+      2.3,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Forbidden Desert",
@@ -1437,7 +1838,14 @@
     "description": "Find a flying machine buried in shifting desert sands before the sun and storm win.",
     "bggId": 136063,
     "image": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__itemrep@2x/img/5D1obbKU5ZSyqwFyFk1nOOU40lw=/fit-in/492x600/filters:strip_icc()/pic1528722.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/136063"
+    "imageCredit": "https://boardgamegeek.com/boardgame/136063",
+    "size": [
+      8.3,
+      8.3,
+      3
+    ],
+    "cubby": "A3",
+    "section": "Co-op"
   },
   {
     "name": "Forbidden Island",
@@ -1458,7 +1866,15 @@
     "description": "Recover four treasures from a sinking island and fly away together.",
     "bggId": 65244,
     "image": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__itemrep@2x/img/WZqvQguwQfQgUPUnrsj2gOqhfOI=/fit-in/492x600/filters:strip_icc()/pic646458.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/65244"
+    "imageCredit": "https://boardgamegeek.com/boardgame/65244",
+    "size": [
+      8.5,
+      6.5,
+      3.3
+    ],
+    "sizeLocked": true,
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Formula D",
@@ -1479,7 +1895,14 @@
     "description": "Shift gears and roll different dice to race Formula 1-style cars.",
     "bggId": 173,
     "image": "https://cf.geekdo-images.com/S6Jrqf7MeqiueJI1uuqgcw__itemrep@2x/img/UGfvsPodpkR_WKtVMXW0JSThGgg=/fit-in/492x600/filters:strip_icc()/pic168167.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/173"
+    "imageCredit": "https://boardgamegeek.com/boardgame/173",
+    "size": [
+      16.9,
+      12,
+      2
+    ],
+    "cubby": "A1",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Fort",
@@ -1499,7 +1922,14 @@
     "description": "Build the coolest backyard fort by recruiting friends to your deck.",
     "bggId": 296912,
     "image": "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__itemrep@2x/img/m9t5Lg2xO-99cij9qauwKEr1FJQ=/fit-in/492x600/filters:strip_icc()/pic5241325.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/296912"
+    "imageCredit": "https://boardgamegeek.com/boardgame/296912",
+    "size": [
+      8.9,
+      5.7,
+      2.2
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Fortune and Glory: Rise of the Crimson Hand",
@@ -1517,7 +1947,9 @@
       "Adventure"
     ],
     "theme": "Pulp adventure",
-    "description": "Expansion adding the Crimson Hand cult and new heroes."
+    "description": "Expansion adding the Crimson Hand cult and new heroes.",
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Fortune and Glory: The Cliffhanger Game",
@@ -1539,7 +1971,14 @@
     "description": "1930s pulp adventurers hunt artifacts around the world while fighting villains.",
     "bggId": 95103,
     "image": "https://cf.geekdo-images.com/ZTonaNNH9zTKfqNVYPVq6Q__itemrep@2x/img/o0X_j_lE2ud6nPCq6YOPG7T5rZk=/fit-in/492x600/filters:strip_icc()/pic946736.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/95103"
+    "imageCredit": "https://boardgamegeek.com/boardgame/95103",
+    "size": [
+      23.4,
+      11.5,
+      4
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Fortune and Glory: Treasure Hunters",
@@ -1560,7 +1999,14 @@
     "description": "Expansion adding new heroes for Fortune and Glory.",
     "bggId": 140150,
     "image": "https://cf.geekdo-images.com/e6NBSpTwvWg5iNFpgn1mmA__itemrep@2x/img/gH7yrkzQBTKhcQlupwvSKlgBgW8=/fit-in/492x600/filters:strip_icc()/pic1678397.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/140150"
+    "imageCredit": "https://boardgamegeek.com/boardgame/140150",
+    "size": [
+      12,
+      7.5,
+      3
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Funglish",
@@ -1581,7 +2027,14 @@
     "description": "Describe a word using only adjective tiles laid out on a board.",
     "bggId": 62709,
     "image": "https://cf.geekdo-images.com/K9ahLIoxHImU7__gyKE8rA__itemrep@2x/img/ul-u6xspNIdSengwTNX6tPsGWUk=/fit-in/492x600/filters:strip_icc()/pic1836808.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/62709"
+    "imageCredit": "https://boardgamegeek.com/boardgame/62709",
+    "size": [
+      12,
+      12,
+      4
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Galactic Destiny",
@@ -1601,7 +2054,14 @@
     "description": "A space strategy game; details need checking.",
     "bggId": 25937,
     "image": "https://cf.geekdo-images.com/MEuWcKXcbb87TxYZUwIQeg__itemrep/img/pM8qckrxK_XQaL-dn-GGDIfezYw=/fit-in/246x300/filters:strip_icc()/pic185541.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/25937"
+    "imageCredit": "https://boardgamegeek.com/boardgame/25937",
+    "size": [
+      12.5,
+      12.5,
+      4
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Galaxy Trucker",
@@ -1622,7 +2082,14 @@
     "description": "Race to build a spaceship from junk tiles, then survive the trip.",
     "bggId": 31481,
     "image": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__itemrep@2x/img/7In0HG1dXOR2vnopTWjXnG-BqM4=/fit-in/492x600/filters:strip_icc()/pic3926631.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/31481"
+    "imageCredit": "https://boardgamegeek.com/boardgame/31481",
+    "size": [
+      12.6,
+      9,
+      2.8
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Giant Dice Games",
@@ -1640,7 +2107,9 @@
       "Family"
     ],
     "theme": "Outdoors",
-    "description": "Oversized dice with classic dice games for lawn or living room."
+    "description": "Oversized dice with classic dice games for lawn or living room.",
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Giants Moving Tiny Furniture",
@@ -1661,7 +2130,14 @@
     "description": "A dexterity party game; details need checking.",
     "bggId": 452411,
     "image": "https://cf.geekdo-images.com/rGdYEKT7LPjj-iLly2rhhw__itemrep@2x/img/sAHe26nPo-EjrqiHad8Rdw5PaCY=/fit-in/492x600/filters:strip_icc()/pic9049840.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/452411"
+    "imageCredit": "https://boardgamegeek.com/boardgame/452411",
+    "size": [
+      9,
+      7,
+      3.1
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Gotcha!",
@@ -1679,7 +2155,9 @@
     ],
     "theme": "Everyday",
     "description": "A party game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Gravwell: Escape from the 9th Dimension",
@@ -1700,7 +2178,14 @@
     "description": "Use gravity to pull your ship out of a black hole first.",
     "bggId": 142992,
     "image": "https://cf.geekdo-images.com/3SZ3nWQTVHNlXLgk0fl4Tg__itemrep@2x/img/LyDsBLepvYNqwm7JQPB4Hwnfj2g=/fit-in/492x600/filters:strip_icc()/pic2237646.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/142992"
+    "imageCredit": "https://boardgamegeek.com/boardgame/142992",
+    "size": [
+      9.5,
+      9.5,
+      3
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Hive",
@@ -1721,7 +2206,14 @@
     "description": "Surround the enemy queen bee with insect tiles; no board needed.",
     "bggId": 2655,
     "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__itemrep@2x/img/jFKFWTUOBXK1P-C527R3yWpIF7Y=/fit-in/492x600/filters:strip_icc()/pic791151.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2655"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2655",
+    "size": [
+      6.1,
+      4.5,
+      2
+    ],
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "Hoity Toity",
@@ -1742,7 +2234,14 @@
     "description": "Eccentric collectors bluff, steal and show off antiques.",
     "bggId": 120,
     "image": "https://cf.geekdo-images.com/hOby2j2vNp7CJSySwmczyA__itemrep@2x/img/SW7m5k9-cs7KYFYxwFicJssf9tM=/fit-in/492x600/filters:strip_icc()/pic38466.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/120"
+    "imageCredit": "https://boardgamegeek.com/boardgame/120",
+    "size": [
+      11.5,
+      8.4,
+      2.1
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Hues and Cues",
@@ -1762,7 +2261,14 @@
     "description": "Give one- and two-word clues to guide players to a color on a big grid.",
     "bggId": 302520,
     "image": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__itemrep@2x/img/T7HPxeqQKsCJzNrb5gxNA-mDD2I=/fit-in/492x600/filters:strip_icc()/pic5390676.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/302520"
+    "imageCredit": "https://boardgamegeek.com/boardgame/302520",
+    "size": [
+      10,
+      10,
+      2.5
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "I've Never...",
@@ -1781,7 +2287,9 @@
     ],
     "theme": "Everyday",
     "description": "A party game of confessions and things you've never done.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "A1",
+    "section": "Grown-ups only"
   },
   {
     "name": "Jishaku",
@@ -1801,7 +2309,14 @@
     "description": "Place magnetic stones without letting them snap together.",
     "bggId": 36783,
     "image": "https://cf.geekdo-images.com/6F0dZd6fkvV03GMH73XvIw__itemrep@2x/img/fomicR-g9gp3u8Yy8PkMRnDuBEY=/fit-in/492x600/filters:strip_icc()/pic2523095.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/36783"
+    "imageCredit": "https://boardgamegeek.com/boardgame/36783",
+    "size": [
+      10.1,
+      8,
+      2.1
+    ],
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "Jungo",
@@ -1819,7 +2334,9 @@
     ],
     "theme": "Abstract",
     "description": "A family game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Jurassic Park: Danger! Adventure Strategy Game",
@@ -1840,7 +2357,14 @@
     "description": "Survivors try to escape the island while one player controls the dinosaurs.",
     "bggId": 245431,
     "image": "https://cf.geekdo-images.com/VoTupoMFrFa0mcMRXDBv1Q__itemrep@2x/img/2e_GSExbH1kK-p-7eEIttCYmZ5w=/fit-in/492x600/filters:strip_icc()/pic4192157.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/245431"
+    "imageCredit": "https://boardgamegeek.com/boardgame/245431",
+    "size": [
+      10.5,
+      10.5,
+      2.6
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Killer Bunnies and the Quest for the Magic Carrot",
@@ -1861,7 +2385,14 @@
     "description": "Keep your bunnies alive and collect carrots, one of which is magic.",
     "bggId": 3699,
     "image": "https://cf.geekdo-images.com/D5riwsF99qUKZfvflF48dQ__itemrep@2x/img/EgAu4970jMQd2zLV76Mnh9VaKsQ=/fit-in/492x600/filters:strip_icc()/pic207282.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/3699"
+    "imageCredit": "https://boardgamegeek.com/boardgame/3699",
+    "size": [
+      10.5,
+      10.5,
+      2.8
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "King of Tokyo",
@@ -1883,7 +2414,14 @@
     "description": "Giant monsters roll dice to smash each other and rule Tokyo.",
     "bggId": 70323,
     "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__itemrep@2x/img/3e4Rf5u2trvxizg5sqJIzCCp9MM=/fit-in/492x600/filters:strip_icc()/pic3043734.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/70323"
+    "imageCredit": "https://boardgamegeek.com/boardgame/70323",
+    "size": [
+      10,
+      10,
+      2.8
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Lanterns: The Harvest Festival",
@@ -1904,7 +2442,14 @@
     "description": "Float lantern tiles on a lake and collect colored lanterns to dedicate.",
     "bggId": 160851,
     "image": "https://cf.geekdo-images.com/JmY4nVWwW98qEn0NRbKdTw__itemrep@2x/img/Vqj0qAzjTXiTsA5LWlsFXl0C7iE=/fit-in/492x600/filters:strip_icc()/pic2372790.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/160851"
+    "imageCredit": "https://boardgamegeek.com/boardgame/160851",
+    "size": [
+      10,
+      7,
+      3
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Last Word",
@@ -1926,7 +2471,14 @@
     "description": "Shout answers that fit a category; be last when the timer buzzes.",
     "bggId": 17709,
     "image": "https://cf.geekdo-images.com/wR1ZYgA3DAlyeXkBh0yZdA__itemrep@2x/img/lLwfI-HKs_T1cEPfRD5jKRB6tiY=/fit-in/492x600/filters:strip_icc()/pic1673714.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/17709"
+    "imageCredit": "https://boardgamegeek.com/boardgame/17709",
+    "size": [
+      10.6,
+      8,
+      2.8
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Legendary: A Marvel Deck Building Game",
@@ -1947,7 +2499,14 @@
     "description": "Recruit Marvel heroes to your deck and fight a mastermind's villains.",
     "bggId": 129437,
     "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__itemrep@2x/img/nUOzYght6sPIyRnIpnoZz4q9cOM=/fit-in/492x600/filters:strip_icc()/pic1430769.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/129437"
+    "imageCredit": "https://boardgamegeek.com/boardgame/129437",
+    "size": [
+      11.5,
+      11.5,
+      4
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Longhorn",
@@ -1965,7 +2524,9 @@
       "Abstract"
     ],
     "theme": "Western",
-    "description": "Two rustlers collect cattle across a frontier grid of tiles."
+    "description": "Two rustlers collect cattle across a frontier grid of tiles.",
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "Lords of Waterdeep",
@@ -1986,7 +2547,14 @@
     "description": "Secret lords recruit adventurers to complete quests in a fantasy city.",
     "bggId": 110327,
     "image": "https://cf.geekdo-images.com/DFZlakC9Lv8cB5Co5z3meA__itemrep@2x/img/CKoTiWLREXulRFW04hVs7E6zUDI=/fit-in/492x600/filters:strip_icc()/pic9230112.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/110327"
+    "imageCredit": "https://boardgamegeek.com/boardgame/110327",
+    "size": [
+      14,
+      11,
+      3
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Love Letter",
@@ -2007,7 +2575,14 @@
     "description": "Get your letter to the princess using a tiny deck of 16 cards.",
     "bggId": 129622,
     "image": "https://cf.geekdo-images.com/JT_06u5Eung6jueDM3kvpA__itemrep@2x/img/LmCUkfKI3M0s0W2MTlxaB35mgXM=/fit-in/492x600/filters:strip_icc()/pic9868049.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/129622"
+    "imageCredit": "https://boardgamegeek.com/boardgame/129622",
+    "size": [
+      7.5,
+      4.7,
+      1.3
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Mad Scientist",
@@ -2025,7 +2600,9 @@
     ],
     "theme": "Science",
     "description": "A family game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Mancala",
@@ -2047,7 +2624,14 @@
     "bggId": 2448,
     "bggVerified": true,
     "image": "https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__itemrep@2x/img/ggLxTuYI0kZVuZ5Uow-VM9BQylI=/fit-in/492x600/filters:strip_icc()/pic302117.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2448"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2448",
+    "size": [
+      15.6,
+      10.7,
+      1.6
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Marvel Dice Throne",
@@ -2068,7 +2652,14 @@
     "description": "Marvel heroes battle with unique dice and ability boards.",
     "bggId": 348406,
     "image": "https://cf.geekdo-images.com/LEkxd7ts6JwMvNBkz6Eavw__itemrep@2x/img/GhOXM0QcB1tPv-VRqaYdeCau8qA=/fit-in/492x600/filters:strip_icc()/pic6796048.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/348406"
+    "imageCredit": "https://boardgamegeek.com/boardgame/348406",
+    "size": [
+      12.3,
+      10.5,
+      6
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Megaland",
@@ -2089,7 +2680,14 @@
     "description": "Venture into monster lands for treasure and build up your town.",
     "bggId": 251293,
     "image": "https://cf.geekdo-images.com/246rJgxtKzCuVTmsAfn62g__itemrep@2x/img/HUwqLRrQP273oLl72ezDKEopWL8=/fit-in/492x600/filters:strip_icc()/pic4171243.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/251293"
+    "imageCredit": "https://boardgamegeek.com/boardgame/251293",
+    "size": [
+      10,
+      10,
+      3
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Memory Challenge: Super Mario Edition",
@@ -2108,7 +2706,9 @@
     ],
     "theme": "Video games",
     "description": "Match pairs of Super Mario cards.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "MicroMacro: Crime City",
@@ -2129,7 +2729,14 @@
     "description": "Solve crimes by searching a giant black-and-white city map.",
     "bggId": 318977,
     "image": "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__itemrep@2x/img/_sHEwUDFzOu_tL0OexjhVMhKlMA=/fit-in/492x600/filters:strip_icc()/pic7632081.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/318977"
+    "imageCredit": "https://boardgamegeek.com/boardgame/318977",
+    "size": [
+      10.7,
+      7.4,
+      1.4
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "MicroMacro: Crime City – Full House",
@@ -2150,7 +2757,14 @@
     "description": "A standalone MicroMacro with a new city map and 16 more cases.",
     "bggId": 338834,
     "image": "https://cf.geekdo-images.com/bNuZIssobDbFYaLbgMofgw__itemrep@2x/img/2Qb7x36faxVBK8cJpUKXyhSdu1Y=/fit-in/492x600/filters:strip_icc()/pic6242068.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/338834"
+    "imageCredit": "https://boardgamegeek.com/boardgame/338834",
+    "size": [
+      10.8,
+      7.5,
+      1.5
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "MIND MGMT: The Psychic Espionage Game",
@@ -2171,7 +2785,14 @@
     "description": "Recruiters hide from a team of rogue agents in a hidden-movement chase.",
     "bggId": 284653,
     "image": "https://cf.geekdo-images.com/hYP-VIJGRFR8yB78-UN7Rg__itemrep@2x/img/EHtJm8RZJ11inTHs1rGH7ZnLqmE=/fit-in/492x600/filters:strip_icc()/pic5154610.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/284653"
+    "imageCredit": "https://boardgamegeek.com/boardgame/284653",
+    "size": [
+      13.7,
+      9.6,
+      4.1
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Minecraft Card Game?",
@@ -2192,7 +2813,14 @@
     "description": "Mine resources and craft items, Minecraft style.",
     "bggId": 186265,
     "image": "https://cf.geekdo-images.com/yDrZGTKs5DARpDbEsB7GlQ__itemrep@2x/img/8P4FLl5hIRtqP1V4zWn_f-nji5Y=/fit-in/492x600/filters:strip_icc()/pic2713068.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/186265"
+    "imageCredit": "https://boardgamegeek.com/boardgame/186265",
+    "size": [
+      8,
+      4.3,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Monopoly Gamer",
@@ -2213,7 +2841,14 @@
     "description": "Monopoly with Mario characters, power-ups and boss battles.",
     "bggId": 230408,
     "image": "https://cf.geekdo-images.com/ZNX8p1k9r0d5QMcpKp64NQ__itemrep/img/L3qjRfC4S2hOJmIgexBYs6wDEM8=/fit-in/246x300/filters:strip_icc()/pic3925506.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/230408"
+    "imageCredit": "https://boardgamegeek.com/boardgame/230408",
+    "size": [
+      15.8,
+      10.5,
+      1.6
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Monopoly Millionaire",
@@ -2234,7 +2869,14 @@
     "description": "First player to reach a million dollars wins.",
     "bggId": 130240,
     "image": "https://cf.geekdo-images.com/VD50JQfjfx1JjkGnSEACaw__itemrep/img/aXPJmHUEkI11TXTQ5wme1sktPYE=/fit-in/246x300/filters:strip_icc()/pic1416585.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/130240"
+    "imageCredit": "https://boardgamegeek.com/boardgame/130240",
+    "size": [
+      15.8,
+      10.6,
+      2
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Munchkin",
@@ -2255,7 +2897,14 @@
     "description": "Kill monsters, steal treasure and stab your friends in a parody dungeon crawl.",
     "bggId": 1927,
     "image": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__itemrep/img/2MRtjy32fdzTBDCvUk73dA-ZtJk=/fit-in/246x300/filters:strip_icc()/pic1871016.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1927"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1927",
+    "size": [
+      10.5,
+      10.5,
+      2
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "My City",
@@ -2277,7 +2926,14 @@
     "description": "A legacy polyomino game where your city develops over 24 episodes.",
     "bggId": 295486,
     "image": "https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__itemrep@2x/img/Q_eRfZ_Lbgl-oDJ0nEpU8PDCzPs=/fit-in/492x600/filters:strip_icc()/pic7443423.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/295486"
+    "imageCredit": "https://boardgamegeek.com/boardgame/295486",
+    "size": [
+      11.6,
+      11.6,
+      2.8
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Name 5",
@@ -2295,7 +2951,9 @@
       "Trivia"
     ],
     "theme": "Everyday",
-    "description": "Name five things in a category before time runs out."
+    "description": "Name five things in a category before time runs out.",
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "New York 1901",
@@ -2316,7 +2974,14 @@
     "description": "Claim lots and build skyscrapers in early-1900s Manhattan.",
     "bggId": 174660,
     "image": "https://cf.geekdo-images.com/HTdnmBGtjaS2hgn9IEta9g__itemrep@2x/img/-TFOJXuQT5nLtJeAjqwJgr1T8pA=/fit-in/492x600/filters:strip_icc()/pic2515532.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/174660"
+    "imageCredit": "https://boardgamegeek.com/boardgame/174660",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "No Thanks!",
@@ -2337,7 +3002,14 @@
     "description": "Take the card or pay a chip to pass; low score wins.",
     "bggId": 12942,
     "image": "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__itemrep@2x/img/4m6jJpVmh3hdoERiyHfwZ5WH9eU=/fit-in/492x600/filters:strip_icc()/pic9005058.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/12942"
+    "imageCredit": "https://boardgamegeek.com/boardgame/12942",
+    "size": [
+      4.7,
+      3.5,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Nuns on the Run",
@@ -2358,7 +3030,14 @@
     "description": "Novices sneak around the convent at night while the abbess and prioress patrol.",
     "bggId": 65515,
     "image": "https://cf.geekdo-images.com/ElzQsdH-hryJQnIJ7gld1w__itemrep@2x/img/OkkyhkLicyOJ9I1fJJPjUmOGC20=/fit-in/492x600/filters:strip_icc()/pic649087.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/65515"
+    "imageCredit": "https://boardgamegeek.com/boardgame/65515",
+    "size": [
+      11,
+      7.5,
+      3
+    ],
+    "cubby": "A2",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Pandemic",
@@ -2379,7 +3058,14 @@
     "description": "Specialists race around the world to cure four spreading diseases.",
     "bggId": 30549,
     "image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__itemrep@2x/img/qnS9n-lo85ht2reXk7MsdbgeQfM=/fit-in/492x600/filters:strip_icc()/pic1534148.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/30549"
+    "imageCredit": "https://boardgamegeek.com/boardgame/30549",
+    "size": [
+      14,
+      9.4,
+      2.6
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Pandemic Legacy: Season 1",
@@ -2400,7 +3086,14 @@
     "description": "A year-long Pandemic campaign where the game changes permanently.",
     "bggId": 161936,
     "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__itemrep@2x/img/MjhzWks7Vu-ZhEOtwQYrzSfmoYk=/fit-in/492x600/filters:strip_icc()/pic2452831.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/161936"
+    "imageCredit": "https://boardgamegeek.com/boardgame/161936",
+    "size": [
+      14.6,
+      10.6,
+      3
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Pandemic Legacy: Season 2",
@@ -2421,7 +3114,14 @@
     "description": "Rebuild a world 71 years after Season 1's plague.",
     "bggId": 221107,
     "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__itemrep@2x/img/_jhQRs10WE5Tj6BpDtjljv_X9cg=/fit-in/492x600/filters:strip_icc()/pic3763549.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/221107"
+    "imageCredit": "https://boardgamegeek.com/boardgame/221107",
+    "size": [
+      14.6,
+      10.6,
+      3.1
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Pandemic: In the Lab",
@@ -2442,7 +3142,14 @@
     "description": "Expansion that adds a lab to research cures.",
     "bggId": 137136,
     "image": "https://cf.geekdo-images.com/qxXkIuPd5XOgmvNamT89ew__itemrep/img/T5a96flgS8qAzcUR9_e56Cj1ufg=/fit-in/246x300/filters:strip_icc()/pic1632485.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/137136"
+    "imageCredit": "https://boardgamegeek.com/boardgame/137136",
+    "size": [
+      12,
+      8.7,
+      1.7
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Pandemic: Rapid Response",
@@ -2464,7 +3171,14 @@
     "description": "A real-time co-op where you fly supplies to cities in crisis.",
     "bggId": 280789,
     "image": "https://cf.geekdo-images.com/iJl9vUgXHrldbYAhFG9u9A__itemrep@2x/img/Y83LC3MhOJxwMhH_xHX4ZsMZkaw=/fit-in/492x600/filters:strip_icc()/pic4766250.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/280789"
+    "imageCredit": "https://boardgamegeek.com/boardgame/280789",
+    "size": [
+      11.9,
+      8.7,
+      1.8
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Pandemic: The Cure",
@@ -2486,7 +3200,14 @@
     "description": "The Pandemic experience distilled into a dice game.",
     "bggId": 150658,
     "image": "https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__itemrep@2x/img/MsAX1D6g_P4twdSSR0yhEbveqxA=/fit-in/492x600/filters:strip_icc()/pic2225998.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/150658"
+    "imageCredit": "https://boardgamegeek.com/boardgame/150658",
+    "size": [
+      12,
+      8.8,
+      2.2
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Pentago",
@@ -2506,7 +3227,14 @@
     "description": "Five in a row, but you twist a quadrant of the board each turn.",
     "bggId": 19841,
     "image": "https://cf.geekdo-images.com/FGZuDiLwPb8yHQR8Uvc__g__itemrep@2x/img/DsmAlfe9HdA4ULZrPQmFVx1gaR0=/fit-in/492x600/filters:strip_icc()/pic6813468.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/19841"
+    "imageCredit": "https://boardgamegeek.com/boardgame/19841",
+    "size": [
+      9.8,
+      9.8,
+      2.2
+    ],
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "Pente",
@@ -2528,7 +3256,14 @@
     "needsReview": true,
     "bggId": 1295,
     "image": "https://cf.geekdo-images.com/2aehMgvcnEh8TR-4kpAmyw__itemrep@2x/img/lM8QuFMrY9RS2D3MJXC-1YlaQf0=/fit-in/492x600/filters:strip_icc()/pic1476333.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1295"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1295",
+    "size": [
+      18.2,
+      2.7,
+      2.7
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Phase 10",
@@ -2549,7 +3284,14 @@
     "description": "A rummy-style race through ten phases of sets and runs.",
     "bggId": 1258,
     "image": "https://cf.geekdo-images.com/jvHGs95ShI8VEhDBdxKs6w__itemrep@2x/img/1Z_qDwQgLXar5I9zP4SF-K_XPgM=/fit-in/492x600/filters:strip_icc()/pic7621070.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1258"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1258",
+    "size": [
+      10.5,
+      7.5,
+      1.5
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Phase 10 Flip",
@@ -2568,7 +3310,9 @@
     ],
     "theme": "Classic",
     "description": "A Phase 10 variant with cards that flip the game around.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Pictionary",
@@ -2589,7 +3333,14 @@
     "description": "Teams sketch clues for their partners to guess against the timer.",
     "bggId": 2281,
     "image": "https://cf.geekdo-images.com/YfUxodD7JSqYitxvjXB69Q__itemrep/img/PnzmdMfc0JUCGitv6C0lYuPvopA=/fit-in/246x300/filters:strip_icc()/pic5147022.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2281"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2281",
+    "size": [
+      5.2,
+      5.2,
+      1.2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Pictopia: Disney Edition",
@@ -2610,7 +3361,14 @@
     "description": "Picture-based Disney trivia for the whole family.",
     "bggId": 175739,
     "image": "https://cf.geekdo-images.com/niFZ4xjJ3SqVwPs5EKTq1w__itemrep@2x/img/ydqUNQLuy4yGKgc1JtMUwudkKNg=/fit-in/492x600/filters:strip_icc()/pic2471336.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/175739"
+    "imageCredit": "https://boardgamegeek.com/boardgame/175739",
+    "size": [
+      10.8,
+      10.5,
+      2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Poetry for Neanderthals",
@@ -2632,7 +3390,14 @@
     "description": "Describe words using only one-syllable words, or get hit with a foam club.",
     "image": "https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__itemrep@2x/img/ZMP01CdDcqveHJ_34WjgLysGQcY=/fit-in/492x600/filters:strip_icc()/pic5702797.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/312786",
-    "bggId": 312786
+    "bggId": 312786,
+    "size": [
+      6,
+      4,
+      2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Pointing Fingers",
@@ -2653,7 +3418,14 @@
     "description": "Everyone points at who best fits each prompt.",
     "bggId": 160502,
     "image": "https://cf.geekdo-images.com/cIO_CS-5EnFm4dRmjX3UgQ__itemrep@2x/img/xfV9xPKLtCEyLaLkH0V4TKXtvy0=/fit-in/492x600/filters:strip_icc()/pic2056577.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/160502"
+    "imageCredit": "https://boardgamegeek.com/boardgame/160502",
+    "size": [
+      12.2,
+      9.2,
+      2.1
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Pop for Sight Words",
@@ -2674,7 +3446,14 @@
     "description": "Read sight words off popcorn pieces; don't pull a POP!",
     "bggId": 175028,
     "image": "https://cf.geekdo-images.com/0HbZw8tOIWrG1p4JSvfkbQ__itemrep@2x/img/uyhhszJO9wyJAn4IFcb-exT6uDg=/fit-in/492x600/filters:strip_icc()/pic2742748.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/175028"
+    "imageCredit": "https://boardgamegeek.com/boardgame/175028",
+    "size": [
+      6.3,
+      3.1,
+      3.1
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Power Grid: Factory Manager",
@@ -2695,7 +3474,14 @@
     "description": "Buy machines and manage energy costs to make your factory profitable.",
     "bggId": 44163,
     "image": "https://cf.geekdo-images.com/NcoUbr7MEB_rOzAE9J9BOg__itemrep@2x/img/1vc0ICMJBh1iTtoFr8czijcLr6E=/fit-in/492x600/filters:strip_icc()/pic577313.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/44163"
+    "imageCredit": "https://boardgamegeek.com/boardgame/44163",
+    "size": [
+      14.6,
+      10.6,
+      2
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Q-bitz",
@@ -2716,7 +3502,14 @@
     "description": "Race to rebuild patterns with patterned cubes.",
     "bggId": 66088,
     "image": "https://cf.geekdo-images.com/1kn5gs_lLl_tI2poZNxRzQ__itemrep@2x/img/pAgFffPITKvYQAkumKTUrMfvdbM=/fit-in/492x600/filters:strip_icc()/pic957087.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/66088"
+    "imageCredit": "https://boardgamegeek.com/boardgame/66088",
+    "size": [
+      10.2,
+      10.2,
+      1.6
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Quarriors!",
@@ -2737,7 +3530,14 @@
     "description": "Capture creature dice and build up your dice bag.",
     "bggId": 91536,
     "image": "https://cf.geekdo-images.com/12Bgvi0MpA10redngwI5MA__itemrep@2x/img/soaf5fdDSVwTEGtTj8TdNdlQYBY=/fit-in/492x600/filters:strip_icc()/pic1604985.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/91536"
+    "imageCredit": "https://boardgamegeek.com/boardgame/91536",
+    "size": [
+      5.5,
+      5.5,
+      5.4
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Quarriors!: Quest of the Qladiator",
@@ -2758,7 +3558,14 @@
     "description": "Expansion adding new creatures and spells.",
     "bggId": 128709,
     "image": "https://cf.geekdo-images.com/lQAxKGj6sgNqGvl2D9FvrA__itemrep@2x/img/oFBX_ai-GdGegqsU9OcVbE8wE9U=/fit-in/492x600/filters:strip_icc()/pic1481045.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/128709"
+    "imageCredit": "https://boardgamegeek.com/boardgame/128709",
+    "size": [
+      13,
+      10.2,
+      2.1
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Qwirkle",
@@ -2779,7 +3586,14 @@
     "description": "Build lines of matching colors or shapes, like Scrabble with symbols.",
     "bggId": 25669,
     "image": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__itemrep@2x/img/mbKpr3pmVc6cXJ9S1em53Kd1wKA=/fit-in/492x600/filters:strip_icc()/pic309353.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/25669"
+    "imageCredit": "https://boardgamegeek.com/boardgame/25669",
+    "size": [
+      11.5,
+      11.5,
+      3
+    ],
+    "cubby": "B3",
+    "section": "Family"
   },
   {
     "name": "Qwixx Deluxe",
@@ -2800,7 +3614,14 @@
     "description": "A quick roll-and-write where everyone uses every roll.",
     "bggId": 131260,
     "image": "https://cf.geekdo-images.com/aOt-bT9nDzZdWl0dUqLy4w__itemrep@2x/img/tsURR9tKtabEFqibSyRCom7I_pU=/fit-in/492x600/filters:strip_icc()/pic1950487.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/131260"
+    "imageCredit": "https://boardgamegeek.com/boardgame/131260",
+    "size": [
+      5.3,
+      3.7,
+      1.3
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Rack-O",
@@ -2819,7 +3640,9 @@
     "theme": "Classic",
     "description": "Swap cards to put your rack in ascending order first.",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Racko-game.jpg/500px-Racko-game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "imageCredit": "https://en.wikipedia.org/wiki/Rack-O"
+    "imageCredit": "https://en.wikipedia.org/wiki/Rack-O",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Raise the Roof",
@@ -2840,7 +3663,9 @@
     "needsReview": true,
     "bggId": 4097,
     "image": "https://cf.geekdo-images.com/XU-74YEFMJCmOdlmf9D7oA__itemrep/img/vzMPhQGMY0xAlc--32_OrV__Xdo=/fit-in/246x300/filters:strip_icc()/pic495864.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/4097"
+    "imageCredit": "https://boardgamegeek.com/boardgame/4097",
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Rapidoodle",
@@ -2862,7 +3687,14 @@
     "description": "Fast drawing challenges against the clock.",
     "bggId": 182532,
     "image": "https://cf.geekdo-images.com/AVRSdEqQGZ5OJFdfdlJcQg__itemrep@2x/img/3JV3JMrh-cTZ3mi281L04yZCTqo=/fit-in/492x600/filters:strip_icc()/pic3336014.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/182532"
+    "imageCredit": "https://boardgamegeek.com/boardgame/182532",
+    "size": [
+      10.5,
+      10.5,
+      2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Red7",
@@ -2883,7 +3715,14 @@
     "description": "Each turn change the rule to the one you're winning.",
     "bggId": 161417,
     "image": "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__itemrep/img/icEGhh-mOuq4HxHEmDBKWMeGBLc=/fit-in/246x300/filters:strip_icc()/pic2247258.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/161417"
+    "imageCredit": "https://boardgamegeek.com/boardgame/161417",
+    "size": [
+      5.7,
+      4.3,
+      1.6
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Reef (Second Edition)",
@@ -2904,7 +3743,14 @@
     "description": "Build a coral reef in 3D patterns to score.",
     "bggId": 244228,
     "image": "https://cf.geekdo-images.com/I3BgmkjP3g6cRQ4cejoHrg__itemrep@2x/img/gNlPsSONz03_XE2_SxlMU57wx40=/fit-in/492x600/filters:strip_icc()/pic5376430.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/244228"
+    "imageCredit": "https://boardgamegeek.com/boardgame/244228",
+    "size": [
+      10.2,
+      10.2,
+      2.8
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Reptiles",
@@ -2922,7 +3768,9 @@
     ],
     "theme": "Nature & Animals",
     "description": "A reptile-themed game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Reverse Charades",
@@ -2943,7 +3791,14 @@
     "description": "The whole team acts while one player guesses.",
     "bggId": 246158,
     "image": "https://cf.geekdo-images.com/ClJ58p6PQXR9nhZmCJlpyA__itemrep/img/RcBLJkiANuWzIh27KxL-S8XwK6A=/fit-in/246x300/filters:strip_icc()/pic3976846.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/246158"
+    "imageCredit": "https://boardgamegeek.com/boardgame/246158",
+    "size": [
+      7.5,
+      4.5,
+      2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Risk",
@@ -2965,7 +3820,14 @@
     "description": "Conquer the world one territory at a time.",
     "bggId": 181,
     "image": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__itemrep@2x/img/ukgjDD8MPf6qub_hYYp4z3PTHlw=/fit-in/492x600/filters:strip_icc()/pic4916782.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/181"
+    "imageCredit": "https://boardgamegeek.com/boardgame/181",
+    "size": [
+      23,
+      11,
+      1.7
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Roll Through the Ages",
@@ -2987,7 +3849,14 @@
     "description": "Roll dice to grow a Bronze Age civilization and build monuments.",
     "bggId": 37380,
     "image": "https://cf.geekdo-images.com/VoLyy7ScO6aAU9Neo7KCiA__itemrep@2x/img/c6x2OMvWfOjLbTOYvSwz8kPkoh0=/fit-in/492x600/filters:strip_icc()/pic986758.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/37380"
+    "imageCredit": "https://boardgamegeek.com/boardgame/37380",
+    "size": [
+      8.5,
+      6.3,
+      2
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Rummikub",
@@ -3008,7 +3877,14 @@
     "description": "Play numbered tiles in sets and runs, rearranging the table as you go.",
     "bggId": 811,
     "image": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__itemrep@2x/img/wZP0PzwP-ovQzOMTPNkTtmvxjYo=/fit-in/492x600/filters:strip_icc()/pic2286966.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/811"
+    "imageCredit": "https://boardgamegeek.com/boardgame/811",
+    "size": [
+      14.6,
+      6.9,
+      2
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Santorini",
@@ -3029,7 +3905,14 @@
     "description": "Build towers and climb to the third level with help from Greek gods.",
     "bggId": 9963,
     "image": "https://cf.geekdo-images.com/ZjP5gU9SCluEARbZnYtb_A__itemrep/img/u3jwn1rN7FQK2jtzD3_9FNbwpGQ=/fit-in/246x300/filters:strip_icc()/pic42278.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/9963"
+    "imageCredit": "https://boardgamegeek.com/boardgame/9963",
+    "size": [
+      10,
+      5,
+      3
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Scattergories",
@@ -3050,7 +3933,14 @@
     "description": "Name things in categories that start with the rolled letter and avoid duplicates.",
     "bggId": 2381,
     "image": "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__itemrep@2x/img/2IzmpOzkQM5CfUrAu5-cDcAZ_vQ=/fit-in/492x600/filters:strip_icc()/pic4994410.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2381"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2381",
+    "size": [
+      10.6,
+      8.4,
+      2.6
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Scrabble Deluxe Edition",
@@ -3072,7 +3962,14 @@
     "description": "The classic crossword game on a rotating deluxe board.",
     "bggId": 320,
     "image": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep@2x/img/vcGsi6l6XMyjIGctlmK9TVd6pQQ=/fit-in/492x600/filters:strip_icc()/pic404651.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/320"
+    "imageCredit": "https://boardgamegeek.com/boardgame/320",
+    "size": [
+      10.4,
+      10.2,
+      2
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Scrigami",
@@ -3090,7 +3987,9 @@
     ],
     "theme": "Abstract",
     "description": "A spatial puzzle game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Search Party: Chaos at the Park",
@@ -3111,7 +4010,14 @@
     "description": "A search-and-find game; details need checking.",
     "bggId": 397613,
     "image": "https://cf.geekdo-images.com/orakGmoQmRzU1ghwSQGLGQ__itemrep/img/AFjtZD0-qypIvHSgNi1HebfAUuE=/fit-in/246x300/filters:strip_icc()/pic7664711.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/397613"
+    "imageCredit": "https://boardgamegeek.com/boardgame/397613",
+    "size": [
+      10.7,
+      10.6,
+      2.6
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Sequence Dice",
@@ -3132,7 +4038,14 @@
     "description": "Roll dice to claim spots and make a five-in-a-row sequence.",
     "bggId": 5966,
     "image": "https://cf.geekdo-images.com/MgQdfHPdFvHbh0TQDz8r6A__itemrep@2x/img/9hE3hlZoMpCvMusHUZSnSOWo2II=/fit-in/492x600/filters:strip_icc()/pic1515804.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/5966"
+    "imageCredit": "https://boardgamegeek.com/boardgame/5966",
+    "size": [
+      5.7,
+      5.7,
+      2.4
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "SetUp",
@@ -3153,7 +4066,14 @@
     "needsReview": true,
     "bggId": 379110,
     "image": "https://cf.geekdo-images.com/NoW_LtElWsbciuexNetqfQ__itemrep@2x/img/IuXpn3GPLQS64uKklJ5bOt3Pkr0=/fit-in/492x600/filters:strip_icc()/pic7402245.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/379110"
+    "imageCredit": "https://boardgamegeek.com/boardgame/379110",
+    "size": [
+      10.4,
+      10.4,
+      1.6
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Shenanigrams",
@@ -3171,7 +4091,9 @@
     ],
     "theme": "Words",
     "description": "A word game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Sheriff of Nottingham",
@@ -3192,7 +4114,14 @@
     "description": "Smuggle contraband past the sheriff with bribes and straight faces.",
     "bggId": 157969,
     "image": "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__itemrep@2x/img/0cqC8CqGw9xJl3yV7Ws6KTCQGEM=/fit-in/492x600/filters:strip_icc()/pic2075830.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/157969"
+    "imageCredit": "https://boardgamegeek.com/boardgame/157969",
+    "size": [
+      10,
+      10,
+      3
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Skribble Head",
@@ -3213,7 +4142,14 @@
     "description": "A drawing party game; details need checking.",
     "bggId": 216946,
     "image": "https://cf.geekdo-images.com/-ipQZiq_QR0FvgOlnzJuhw__itemrep/img/_Clz19-PdOFj3AInjNnJ5FX4iQY=/fit-in/246x300/filters:strip_icc()/pic7592180.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/216946"
+    "imageCredit": "https://boardgamegeek.com/boardgame/216946",
+    "size": [
+      10.5,
+      6.5,
+      2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Skull King",
@@ -3234,7 +4170,14 @@
     "description": "A pirate trick-taking game where you bid exactly how many tricks you'll win.",
     "bggId": 150145,
     "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep@2x/img/u282aOGplMokEqS8ID7MuYwjnNs=/fit-in/492x600/filters:strip_icc()/pic8689185.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/150145"
+    "imageCredit": "https://boardgamegeek.com/boardgame/150145",
+    "size": [
+      6,
+      4,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Sky Team",
@@ -3255,7 +4198,14 @@
     "description": "Pilot and co-pilot land a plane together without talking.",
     "bggId": 373106,
     "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__itemrep@2x/img/mt1Bbzau--DiUdGCcaPVyHcXHe0=/fit-in/492x600/filters:strip_icc()/pic7398904.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/373106"
+    "imageCredit": "https://boardgamegeek.com/boardgame/373106",
+    "size": [
+      10,
+      7.3,
+      2
+    ],
+    "cubby": "B1",
+    "section": "Co-op"
   },
   {
     "name": "Skyjo",
@@ -3275,7 +4225,14 @@
     "description": "Flip and swap cards to get the lowest score.",
     "bggId": 204135,
     "image": "https://cf.geekdo-images.com/NMNeoJY6aU6C2EJz67YEfA__itemrep@2x/img/20BOisNKi9A7FIAUrCO6NyIDJrc=/fit-in/492x600/filters:strip_icc()/pic4559127.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/204135"
+    "imageCredit": "https://boardgamegeek.com/boardgame/204135",
+    "size": [
+      7.9,
+      3.1,
+      1.6
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Slapzi",
@@ -3296,7 +4253,14 @@
     "description": "Race to slap a picture card that matches the clue.",
     "bggId": 210065,
     "image": "https://cf.geekdo-images.com/-yyGa1WnGQIsLsKk23N07g__itemrep/img/k2gOxy1GiqJEAuBoF6z8q6UvnbM=/fit-in/246x300/filters:strip_icc()/pic7158626.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/210065"
+    "imageCredit": "https://boardgamegeek.com/boardgame/210065",
+    "size": [
+      11,
+      3.7,
+      1.3
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Smash Up",
@@ -3317,7 +4281,14 @@
     "description": "Shuffle two factions together, like Ninja Pirates, and conquer bases.",
     "bggId": 122522,
     "image": "https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__itemrep@2x/img/a2Mz7r6axJ7Rzf4Ha_MnTBcYuJ0=/fit-in/492x600/filters:strip_icc()/pic1269874.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/122522"
+    "imageCredit": "https://boardgamegeek.com/boardgame/122522",
+    "size": [
+      9.4,
+      9.4,
+      3
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Snake Oil",
@@ -3338,7 +4309,14 @@
     "description": "Pitch ridiculous products made from two word cards to a customer.",
     "bggId": 113289,
     "image": "https://cf.geekdo-images.com/XSUSI_i20qf3-n07nbfnRg__itemrep@2x/img/Ha9s_Zx1yxT4EFyhh_xNSVQNVyE=/fit-in/492x600/filters:strip_icc()/pic5075755.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/113289"
+    "imageCredit": "https://boardgamegeek.com/boardgame/113289",
+    "size": [
+      4,
+      4,
+      3.9
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Solid Wood Cribbage",
@@ -3355,7 +4333,9 @@
       "Classic"
     ],
     "theme": "Classic",
-    "description": "The classic card game with a pegging board."
+    "description": "The classic card game with a pegging board.",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Sorry!",
@@ -3377,7 +4357,15 @@
     "description": "Race your pawns home and bump opponents back to start.",
     "bggId": 2407,
     "image": "https://cf.geekdo-images.com/zV33y_kLzvOuGz1_r1DWNA__itemrep/img/zWzu8glsg3surHUT6_xxaEI1pRQ=/fit-in/246x300/filters:strip_icc()/pic8204421.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2407"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2407",
+    "size": [
+      10.5,
+      10.5,
+      2.7
+    ],
+    "sizeLocked": true,
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Speculation",
@@ -3398,7 +4386,9 @@
     "needsReview": true,
     "bggId": 63141,
     "image": "https://cf.geekdo-images.com/BzJ5GlNDqMWGtInwG35-Sw__itemrep@2x/img/EOXcpfBekIOXq-1VFdpj92rL2kY=/fit-in/492x600/filters:strip_icc()/pic6245525.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/63141"
+    "imageCredit": "https://boardgamegeek.com/boardgame/63141",
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Splendor",
@@ -3419,7 +4409,14 @@
     "description": "Collect gems to buy cards that make buying more cards cheaper.",
     "bggId": 148228,
     "image": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__itemrep@2x/img/qDjpnPQ6u7oROPU9dS3c_opVIFc=/fit-in/492x600/filters:strip_icc()/pic8234167.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/148228"
+    "imageCredit": "https://boardgamegeek.com/boardgame/148228",
+    "size": [
+      10.8,
+      8.5,
+      2.6
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Spy Alley",
@@ -3440,7 +4437,14 @@
     "description": "Hide your nationality while working out everyone else's.",
     "bggId": 1986,
     "image": "https://cf.geekdo-images.com/Xd4oi8RxW9p5xPYiRxQl0w__itemrep@2x/img/CfuBE88bufXd8uvN4z6CyA3DnUo=/fit-in/492x600/filters:strip_icc()/pic5151907.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1986"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1986",
+    "size": [
+      15.5,
+      10.5,
+      1.3
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Spyfall",
@@ -3461,7 +4465,14 @@
     "description": "Everyone knows the location except the spy; ask questions to find them.",
     "bggId": 166384,
     "image": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__itemrep@2x/img/HlnXRv8NnxohDUCpKAT26avDMCg=/fit-in/492x600/filters:strip_icc()/pic2453926.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/166384"
+    "imageCredit": "https://boardgamegeek.com/boardgame/166384",
+    "size": [
+      8,
+      8,
+      1.9
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Squint",
@@ -3481,7 +4492,14 @@
     "description": "Build pictures from shape cards for teammates to guess.",
     "bggId": 3595,
     "image": "https://cf.geekdo-images.com/g9HKWgcr9xm87K5lggbT7w__itemrep@2x/img/QlVkaWc2MVbObXpieyXqZE_SpY0=/fit-in/492x600/filters:strip_icc()/pic829005.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/3595"
+    "imageCredit": "https://boardgamegeek.com/boardgame/3595",
+    "size": [
+      10.9,
+      4.1,
+      2.4
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Star Fluxx",
@@ -3502,7 +4520,14 @@
     "description": "Fluxx in space, with ever-changing rules and sci-fi spoofs.",
     "bggId": 102104,
     "image": "https://cf.geekdo-images.com/4rafBr5oDBZVSzN7ije3ZA__itemrep/img/HE6MZ4WgnS-62VWITvFg7aio-Us=/fit-in/246x300/filters:strip_icc()/pic1059779.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/102104"
+    "imageCredit": "https://boardgamegeek.com/boardgame/102104",
+    "size": [
+      5,
+      3.8,
+      1
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Summer Camp",
@@ -3523,7 +4548,14 @@
     "description": "Race through camp activities by building your deck.",
     "bggId": 337787,
     "image": "https://cf.geekdo-images.com/KshsJJWgb265ZQjcxyZ89w__itemrep@2x/img/P0_CMDutGWydWpt10TjdTTsJG_w=/fit-in/492x600/filters:strip_icc()/pic6149210.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/337787"
+    "imageCredit": "https://boardgamegeek.com/boardgame/337787",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Surprise Slides: Disney Frozen",
@@ -3543,7 +4575,14 @@
     "description": "A preschool game of sliding characters and surprises.",
     "bggId": 149051,
     "image": "https://cf.geekdo-images.com/VdtdgAGJiPl8pmfb67PcJA__itemrep/img/1p-Xo5YiK1krUWswFHRNJ0EKQYc=/fit-in/246x300/filters:strip_icc()/pic2371289.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/149051"
+    "imageCredit": "https://boardgamegeek.com/boardgame/149051",
+    "size": [
+      15.8,
+      10.5,
+      1.5
+    ],
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Sushi Go!",
@@ -3565,7 +4604,14 @@
     "description": "Pass hands of sushi cards and collect the best combos.",
     "bggId": 133473,
     "image": "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__itemrep@2x/img/_-D1tAyUWTc7vRaezai6r2ddn4Q=/fit-in/492x600/filters:strip_icc()/pic1900075.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/133473"
+    "imageCredit": "https://boardgamegeek.com/boardgame/133473",
+    "size": [
+      6,
+      4,
+      2
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Taboo: Disney",
@@ -3586,7 +4632,14 @@
     "description": "Get your team to guess Disney words without saying the forbidden ones.",
     "bggId": 450101,
     "image": "https://cf.geekdo-images.com/9EK1_G7Mgo0sIVA8ZsGNlA__itemrep@2x/img/i0jeCnFV5clKZD5lB7RCWU4P1Eo=/fit-in/492x600/filters:strip_icc()/pic9033372.gif",
-    "imageCredit": "https://boardgamegeek.com/boardgame/450101"
+    "imageCredit": "https://boardgamegeek.com/boardgame/450101",
+    "size": [
+      12.4,
+      8.9,
+      2.2
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Tacta",
@@ -3607,7 +4660,14 @@
     "needsReview": true,
     "bggId": 401636,
     "image": "https://cf.geekdo-images.com/yJpVLQv5HdzV-0i5F3dF5g__itemrep@2x/img/iUymbWCnAAAtMlo4-CPqRPndMhk=/fit-in/492x600/filters:strip_icc()/pic8758068.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/401636"
+    "imageCredit": "https://boardgamegeek.com/boardgame/401636",
+    "size": [
+      4.6,
+      3.6,
+      0.9
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Take Off",
@@ -3625,7 +4685,9 @@
       "Educational"
     ],
     "theme": "Travel",
-    "description": "Fly planes around a world map and learn geography on the way."
+    "description": "Fly planes around a world map and learn geography on the way.",
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Tapple",
@@ -3647,7 +4709,14 @@
     "description": "Name something in the category, tap the letter and pass before time's up.",
     "bggId": 129556,
     "image": "https://cf.geekdo-images.com/ug2wHUhS3E-LA_lmLQYyNQ__itemrep/img/4puV1UqcFO4DbAJo1DztHsCXGPU=/fit-in/246x300/filters:strip_icc()/pic6650117.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/129556"
+    "imageCredit": "https://boardgamegeek.com/boardgame/129556",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "D2",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Telestrations: 12 Player Party Pack",
@@ -3670,7 +4739,14 @@
     "bggId": 46213,
     "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__itemrep@2x/img/1T9camGtDYgE8Ev65-WdxJENM7I=/fit-in/492x600/filters:strip_icc()/pic8855812.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/46213",
-    "bggVerified": true
+    "bggVerified": true,
+    "size": [
+      10,
+      10,
+      3
+    ],
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Terraforming Mars",
@@ -3691,7 +4767,14 @@
     "description": "Corporations compete to make Mars habitable.",
     "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__itemrep@2x/img/4MA5xzO_pYlyq6hadbgf16utc28=/fit-in/492x600/filters:strip_icc()/pic3536616.jpg",
     "imageCredit": "https://boardgamegeek.com/boardgame/167791",
-    "bggId": 167791
+    "bggId": 167791,
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "The Crew: The Quest for Planet Nine",
@@ -3712,7 +4795,14 @@
     "description": "A cooperative trick-taking campaign of 50 missions to find Planet Nine.",
     "bggId": 284083,
     "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep@2x/img/1ZTS88m5qgAXS-EN3F_4e07zwEc=/fit-in/492x600/filters:strip_icc()/pic5687013.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/284083"
+    "imageCredit": "https://boardgamegeek.com/boardgame/284083",
+    "size": [
+      7,
+      5,
+      1.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Duke",
@@ -3733,7 +4823,14 @@
     "description": "Chess-like tactics where each tile flips to a new movement pattern.",
     "bggId": 36235,
     "image": "https://cf.geekdo-images.com/dDFcB5lodNZxzxfWsTJtUg__itemrep@2x/img/7xm-v7FZ6QZtl5P_d0EBgB8Xht8=/fit-in/492x600/filters:strip_icc()/pic1688903.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/36235"
+    "imageCredit": "https://boardgamegeek.com/boardgame/36235",
+    "size": [
+      9.6,
+      7,
+      2.4
+    ],
+    "cubby": "B1",
+    "section": "Two-player"
   },
   {
     "name": "The Farming Game",
@@ -3754,7 +4851,14 @@
     "description": "Run a farm through good harvests, bad weather and bank loans.",
     "bggId": 5195,
     "image": "https://cf.geekdo-images.com/p5PjmZlurxXqsOytageh2A__itemrep/img/9QihKdJobvtbdzB4cJInY41NJBo=/fit-in/246x300/filters:strip_icc()/pic336557.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/5195"
+    "imageCredit": "https://boardgamegeek.com/boardgame/5195",
+    "size": [
+      24.5,
+      11.5,
+      1.5
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "The Game",
@@ -3774,7 +4878,14 @@
     "description": "Get all 98 cards onto four piles together with only limited talking.",
     "bggId": 173090,
     "image": "https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__itemrep@2x/img/yTl5sdBkhgUTpAewWd2_wwKiYSo=/fit-in/492x600/filters:strip_icc()/pic4203279.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/173090"
+    "imageCredit": "https://boardgamegeek.com/boardgame/173090",
+    "size": [
+      4.7,
+      3.7,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Gender Gap",
@@ -3795,7 +4906,9 @@
     "description": "Battle-of-the-sexes trivia.",
     "bggId": 16086,
     "image": "https://cf.geekdo-images.com/NygzP5tovO_DdL9bvLP5OA__itemrep/img/mIekhvMiHCwfpOyYwpNbXTAY4CY=/fit-in/246x300/filters:strip_icc()/pic66533.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/16086"
+    "imageCredit": "https://boardgamegeek.com/boardgame/16086",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "The Magical World of Disney Trivia",
@@ -3816,7 +4929,14 @@
     "description": "Disney trivia.",
     "bggId": 364451,
     "image": "https://cf.geekdo-images.com/DzWC6muEtLq7s_41hHSiWw__itemrep@2x/img/o1NP98Od8Q7NNMJaD3CRCkI5RHM=/fit-in/492x600/filters:strip_icc()/pic6909465.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/364451"
+    "imageCredit": "https://boardgamegeek.com/boardgame/364451",
+    "size": [
+      10.5,
+      10.5,
+      3
+    ],
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "The Mind",
@@ -3836,7 +4956,14 @@
     "description": "Play cards in ascending order together without talking.",
     "bggId": 244992,
     "image": "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__itemrep@2x/img/MDdwMpfjxTZ8qKniSeChQRtQLEA=/fit-in/492x600/filters:strip_icc()/pic3979766.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/244992"
+    "imageCredit": "https://boardgamegeek.com/boardgame/244992",
+    "size": [
+      5.2,
+      3.9,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Oregon Trail Card Game",
@@ -3854,7 +4981,9 @@
       "Humor"
     ],
     "theme": "Pioneer",
-    "description": "Make it to Oregon together without dying of dysentery."
+    "description": "Make it to Oregon together without dying of dysentery.",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Original Tiny Hands Challenge Game",
@@ -3873,7 +5002,9 @@
       "Humor"
     ],
     "theme": "Humor",
-    "description": "Do everyday challenges while wearing tiny hands."
+    "description": "Do everyday challenges while wearing tiny hands.",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "The Original Wizard Card Game",
@@ -3894,7 +5025,14 @@
     "bggId": 1465,
     "bggVerified": true,
     "image": "https://cf.geekdo-images.com/ygVQlepjPxyg7IizSCM_Tw__itemrep/img/-B_jX6C9fieqybdOUVcGWA1-zck=/fit-in/246x300/filters:strip_icc()/pic5948.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/1465"
+    "imageCredit": "https://boardgamegeek.com/boardgame/1465",
+    "size": [
+      4.7,
+      3.7,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Resistance",
@@ -3915,7 +5053,14 @@
     "description": "Rebels must find the spies among them before missions fail.",
     "bggId": 41114,
     "image": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__itemrep@2x/img/5qEOS48H-iQzqqK5NUv4Up90gvs=/fit-in/492x600/filters:strip_icc()/pic2576459.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/41114"
+    "imageCredit": "https://boardgamegeek.com/boardgame/41114",
+    "size": [
+      6,
+      4,
+      1.3
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "The Wimpy Kid: 10-Second Challenge",
@@ -3934,7 +5079,9 @@
     ],
     "theme": "Books",
     "description": "Do Wimpy Kid challenges in 10 seconds.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "The Wizard Always Wins",
@@ -3953,7 +5100,9 @@
     ],
     "theme": "Fantasy",
     "description": "A wizard-themed card game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Things...",
@@ -3971,7 +5120,9 @@
       "Humor"
     ],
     "theme": "Everyday",
-    "description": "Write anonymous answers to prompts, then guess who wrote what."
+    "description": "Write anonymous answers to prompts, then guess who wrote what.",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Ticket to Ride",
@@ -3993,7 +5144,14 @@
     "description": "Collect train cards to claim railway routes across North America.",
     "bggId": 9209,
     "image": "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__itemrep@2x/img/nAI08lHzxwXX2mVrNcBms4FEO_o=/fit-in/492x600/filters:strip_icc()/pic8937637.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/9209"
+    "imageCredit": "https://boardgamegeek.com/boardgame/9209",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "C1",
+    "section": "Family"
   },
   {
     "name": "Ticket to Ride Europe",
@@ -4015,7 +5173,14 @@
     "description": "Ticket to Ride across Europe, with tunnels, ferries and stations.",
     "bggId": 14996,
     "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__itemrep@2x/img/ToRwgLtATqigq9Wp31CBYFao6WU=/fit-in/492x600/filters:strip_icc()/pic9580918.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/14996"
+    "imageCredit": "https://boardgamegeek.com/boardgame/14996",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Timeline",
@@ -4036,7 +5201,14 @@
     "description": "Put historical events in the right order on the timeline.",
     "bggId": 128664,
     "image": "https://cf.geekdo-images.com/T8QVWsAG7GwZxsBIxElTTg__itemrep@2x/img/neL4qdBKUwI_6ZPPZQVQe-nFHnQ=/fit-in/492x600/filters:strip_icc()/pic9273469.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/128664"
+    "imageCredit": "https://boardgamegeek.com/boardgame/128664",
+    "size": [
+      10.6,
+      7.1,
+      3.2
+    ],
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Tiny Towns",
@@ -4057,7 +5229,14 @@
     "description": "Place resources on a grid in patterns to build a little town.",
     "bggId": 265736,
     "image": "https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__itemrep@2x/img/3mUXQjTkzPaYTYFpI5yjUZbc7V0=/fit-in/492x600/filters:strip_icc()/pic4460401.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/265736"
+    "imageCredit": "https://boardgamegeek.com/boardgame/265736",
+    "size": [
+      11.7,
+      11.7,
+      2.9
+    ],
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Tokaido",
@@ -4078,7 +5257,14 @@
     "description": "Travel the East Sea Road in Japan, collecting experiences on the way.",
     "bggId": 123540,
     "image": "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__itemrep@2x/img/8BFe8-LvAWpEGPeFIVKbMxc996E=/fit-in/492x600/filters:strip_icc()/pic8758132.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/123540"
+    "imageCredit": "https://boardgamegeek.com/boardgame/123540",
+    "size": [
+      11.6,
+      11.6,
+      2
+    ],
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Trio",
@@ -4100,7 +5286,14 @@
     "description": "Reveal cards from hands and the table to find sets of three.",
     "bggId": 352515,
     "image": "https://cf.geekdo-images.com/d9F0ZDqcN3J7J92WckyraQ__itemrep@2x/img/CtQURwrJhsJzATLyqTRSLc5n5mU=/fit-in/492x600/filters:strip_icc()/pic7605785.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/352515"
+    "imageCredit": "https://boardgamegeek.com/boardgame/352515",
+    "size": [
+      5.8,
+      4.6,
+      1.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "Trivial Pursuit: DVD Choice",
@@ -4117,7 +5310,9 @@
       "Trivia"
     ],
     "theme": "Pop culture",
-    "description": "Trivial Pursuit with DVD video questions."
+    "description": "Trivial Pursuit with DVD video questions.",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Ultra Tiny Epic Galaxies",
@@ -4135,7 +5330,9 @@
       "Roll & write"
     ],
     "theme": "Space",
-    "description": "A pocket roll-and-write version of Tiny Epic Galaxies."
+    "description": "A pocket roll-and-write version of Tiny Epic Galaxies.",
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "UNO",
@@ -4156,7 +5353,14 @@
     "description": "Match color or number and shout UNO with one card left.",
     "bggId": 2223,
     "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2223"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2223",
+    "size": [
+      4.6,
+      3.6,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "UNO All Wild!",
@@ -4174,7 +5378,9 @@
       "Shedding"
     ],
     "theme": "Classic",
-    "description": "UNO where every card is wild."
+    "description": "UNO where every card is wild.",
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "UNO Flip!",
@@ -4195,7 +5401,14 @@
     "description": "Double-sided UNO with a harsher Dark side.",
     "bggId": 271460,
     "image": "https://cf.geekdo-images.com/8IO6sl0jN5IylDDRAOK8GQ__itemrep@2x/img/tDrEkjeg1pCe7yaslz8f1_AybVo=/fit-in/492x600/filters:strip_icc()/pic8214042.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/271460"
+    "imageCredit": "https://boardgamegeek.com/boardgame/271460",
+    "size": [
+      6,
+      3.6,
+      0.8
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "VisualEyes",
@@ -4214,7 +5427,9 @@
     ],
     "theme": "Everyday",
     "description": "Solve visual word puzzles from pictures.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "We Didn't Playtest This at All",
@@ -4235,7 +5450,14 @@
     "description": "Chaotic five-minute games full of absurd ways to win and lose.",
     "bggId": 31016,
     "image": "https://cf.geekdo-images.com/vD1XOwfbUZr67sRgHdrncQ__itemrep@2x/img/rT8QmdECf1FMZE0K6C6Dm1T4M8Q=/fit-in/492x600/filters:strip_icc()/pic7299902.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/31016"
+    "imageCredit": "https://boardgamegeek.com/boardgame/31016",
+    "size": [
+      3.5,
+      2.5,
+      0.5
+    ],
+    "cubby": "C2",
+    "section": "Card game bin"
   },
   {
     "name": "What Do You Meme?",
@@ -4257,7 +5479,14 @@
     "description": "Match caption cards to meme photos. Adult content.",
     "bggId": 226610,
     "image": "https://cf.geekdo-images.com/5Pmk8PrpMHPMg0hG8fJz9w__itemrep/img/WJkMfOO1Wp7vfmHgkrz7Te6j_78=/fit-in/246x300/filters:strip_icc()/pic3749720.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/226610"
+    "imageCredit": "https://boardgamegeek.com/boardgame/226610",
+    "size": [
+      6.8,
+      4.8,
+      4.5
+    ],
+    "cubby": "A1",
+    "section": "Grown-ups only"
   },
   {
     "name": "What Do You Meme? Family",
@@ -4275,7 +5504,9 @@
       "Humor"
     ],
     "theme": "Pop culture",
-    "description": "The kid-friendly version of What Do You Meme?"
+    "description": "The kid-friendly version of What Do You Meme?",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "What Do You Meme? Fresh Memes",
@@ -4297,7 +5528,14 @@
     "description": "Expansion with new meme photo cards.",
     "bggId": 244592,
     "image": "https://cf.geekdo-images.com/mH_pVlQzDsFZLWgmFq7x0w__itemrep/img/ZeoROWLSIThqzusXtteSakLzDmY=/fit-in/246x300/filters:strip_icc()/pic4128369.png",
-    "imageCredit": "https://boardgamegeek.com/boardgame/244592"
+    "imageCredit": "https://boardgamegeek.com/boardgame/244592",
+    "size": [
+      6.5,
+      4.5,
+      1.5
+    ],
+    "cubby": "A1",
+    "section": "Grown-ups only"
   },
   {
     "name": "Where in the World Is Carmen Sandiego?",
@@ -4315,7 +5553,9 @@
       "Educational"
     ],
     "theme": "Travel",
-    "description": "Follow clues around the world to track down Carmen Sandiego."
+    "description": "Follow clues around the world to track down Carmen Sandiego.",
+    "cubby": "D1",
+    "section": "Kids"
   },
   {
     "name": "Whitewater",
@@ -4333,7 +5573,9 @@
     ],
     "theme": "Outdoors",
     "description": "A river-rafting race game; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Wink",
@@ -4352,7 +5594,9 @@
     ],
     "theme": "Everyday",
     "description": "A party game of secret winks; details need checking.",
-    "needsReview": true
+    "needsReview": true,
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Wits & Wagers",
@@ -4373,7 +5617,14 @@
     "description": "Guess numbers in trivia, then bet on whose answer is closest.",
     "bggId": 20100,
     "image": "https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep@2x/img/bll1i79AWjKEAwd6QU-5KXj69bo=/fit-in/492x600/filters:strip_icc()/pic2558555.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/20100"
+    "imageCredit": "https://boardgamegeek.com/boardgame/20100",
+    "size": [
+      11.6,
+      11.6,
+      3.1
+    ],
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Wonky",
@@ -4391,7 +5642,9 @@
       "Family"
     ],
     "theme": "Abstract",
-    "description": "Stack wonky blocks according to your cards without toppling the tower."
+    "description": "Stack wonky blocks according to your cards without toppling the tower.",
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Would You Rather?",
@@ -4409,7 +5662,9 @@
       "Humor"
     ],
     "theme": "Everyday",
-    "description": "Pick between two ridiculous options and argue your case."
+    "description": "Pick between two ridiculous options and argue your case.",
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Yahtzee",
@@ -4431,7 +5686,14 @@
     "description": "Roll five dice for straights, full houses and Yahtzees.",
     "bggId": 2243,
     "image": "https://cf.geekdo-images.com/dp-pJkUemCjhrwi9QItrPA__itemrep@2x/img/Yp66t1uvpr8lBELen49M2oJbuog=/fit-in/492x600/filters:strip_icc()/pic378237.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/2243"
+    "imageCredit": "https://boardgamegeek.com/boardgame/2243",
+    "size": [
+      14,
+      7.8,
+      2.8
+    ],
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Zombicide",
@@ -4452,7 +5714,14 @@
     "description": "Survivors fight zombie hordes together on modular city tiles.",
     "bggId": 113924,
     "image": "https://cf.geekdo-images.com/ZqjfzvtaTIT5FYp1D2CfKw__itemrep/img/lXWYSxxNsi4RGF-SFjIm7iF89cw=/fit-in/246x300/filters:strip_icc()/pic1196191.jpg",
-    "imageCredit": "https://boardgamegeek.com/boardgame/113924"
+    "imageCredit": "https://boardgamegeek.com/boardgame/113924",
+    "size": [
+      11.7,
+      11.7,
+      2.8
+    ],
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   },
   {
     "name": "Zombicide Zombie Core Paint Set",
@@ -4469,7 +5738,9 @@
       "Painting"
     ],
     "theme": "Zombies",
-    "description": "Paints for the Zombicide miniatures."
+    "description": "Paints for the Zombicide miniatures.",
+    "cubby": "C2",
+    "section": "Family"
   },
   {
     "name": "Zombicide: Toxic City Mall",
@@ -4488,6 +5759,8 @@
       "Miniatures"
     ],
     "theme": "Zombies",
-    "description": "Expansion set in a mall overrun by toxic zombies."
+    "description": "Expansion set in a mall overrun by toxic zombies.",
+    "cubby": "A3",
+    "section": "Strategy & campaigns"
   }
 ]

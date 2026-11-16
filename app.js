@@ -54,6 +54,7 @@ const GROUPERS = {
   theme: { keys: (g) => [g.theme] },
   publisher: { keys: publishers },
   type: { keys: (g) => [g.type], order: TYPE_ORDER },
+  cubby: { keys: (g) => [g.cubby ? cubbyLabel(g.cubby) : "Not placed"] },
 };
 
 const SORTS = {
@@ -97,6 +98,33 @@ function cardHtml(g, i) {
 }
 
 let games = [];
+let shelf = null; // data/shelf.json + data/shelf-plan.json, if present
+const ROW_NAMES = ["Top row", "2nd row", "3rd row", "4th row", "5th row", "6th row"];
+function cubbyLabel(id) {
+  if (!shelf) return id;
+  const r = id.charCodeAt(0) - 65, c = Number(id.slice(1)) - 1;
+  const row = r === shelf.rows - 1 ? "Bottom row" : ROW_NAMES[r];
+  const col = shelf.columns === 3 ? ["left", "middle", "right"][c] : `column ${c + 1}`;
+  return `${id} · ${row}, ${col}`;
+}
+function shelfMapHtml(list, idx) {
+  const inCubby = new Map();
+  for (const g of list) if (g.cubby) (inCubby.get(g.cubby) ?? inCubby.set(g.cubby, []).get(g.cubby)).push(g);
+  const secIdx = (g) => shelf.sections.findIndex((x) => x.name === g.section);
+  const order = (g) => [secIdx(g), g.box ?? (g.expands ?? g.name), g.expands ? 1 : 0, g.name];
+  const cmp = (a, b) => { const x = order(a), y = order(b); return x[0] - y[0] || x[1].localeCompare(y[1]) || x[2] - y[2] || x[3].localeCompare(y[3]); };
+  const cells = shelf.plan.cubbies.map((c) => {
+    const items = (inCubby.get(c.id) ?? []).sort(cmp);
+    return `<section class="cubby${items.length ? "" : " dim"}">
+      <header><strong>${esc(c.id)}</strong> <span>${esc(c.sections.join(" + ") || "Empty")}</span>
+        <span class="fill" title="About ${c.fill}% of the width used"><i style="width:${Math.min(100, c.fill)}%"></i></span></header>
+      <ul>${items.map((g, i) => `${c.sections.length > 1 && (i === 0 || items[i - 1].section !== g.section) ? `<li class="sec">${esc(g.section ?? "")}</li>` : ""}<li${g.expands ? ' class="exp" title="Expansion: stack it beside its base game"' : ""}><button class="link plain" data-i="${idx.get(g)}">${g.image ? `<img src="${esc(g.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : "<span class=\"noimg\"></span>"}${esc(g.name)}</button></li>`).join("")}</ul>
+    </section>`;
+  });
+  const note = shelf.sections.map((x) => `<b>${esc(x.name)}</b>: ${esc(x.note)}`).join(" · ");
+  return `<p class="count">Each cubby is ${shelf.cubbyWidth}″ × ${shelf.cubbyHeight}″. Big boxes stand on edge with smaller ones laid flat on top; the bar shows roughly how full each cubby is. Filtered-out games are hidden. ${note}</p>
+    <div class="shelf" style="grid-template-columns:repeat(${shelf.columns},minmax(0,1fr))">${cells.join("")}</div>`;
+}
 let visible = [];
 
 const FILTERS = ["players", "age", "time", "difficulty", "style", "genre", "theme", "publisher"];
@@ -140,7 +168,7 @@ function matches(g) {
   if ($("f-genre").value && !g.genres.includes($("f-genre").value)) return false;
   if ($("f-theme").value && g.theme !== $("f-theme").value) return false;
   if ($("f-publisher").value && !publishers(g).includes($("f-publisher").value)) return false;
-  if (!$("f-expansions").checked && isExtra(g)) return false;
+  if (!$("f-expansions").checked && isExtra(g) && $("group").value !== "shelf") return false; // expansions take shelf space too
   if ($("f-coop").checked && !isCoop(g)) return false;
   if ($("f-review").checked && !g.needsReview) return false;
   return true;
@@ -153,7 +181,7 @@ function render() {
   $("filters").querySelector("summary").textContent = active ? `Filters (${active} active)` : "Filters";
   const sort = SORTS[$("sort").value] ?? SORTS.name;
   visible = games.filter(matches).sort((a, b) => sort(a, b) || SORTS.name(a, b));
-  const total = games.filter((g) => !isExtra(g)).length;
+  const total = $("group").value === "shelf" ? games.length : games.filter((g) => !isExtra(g)).length;
   $("count").textContent = `${visible.length} of ${total} games`;
 
   const res = $("results");
@@ -162,8 +190,12 @@ function render() {
     $("reset2").onclick = reset;
     return;
   }
-  const by = GROUPERS[$("group").value];
   const idx = new Map(games.map((g, i) => [g, i]));
+  if ($("group").value === "shelf" && shelf) {
+    res.innerHTML = shelfMapHtml(visible, idx);
+    return;
+  }
+  const by = GROUPERS[$("group").value];
   if (!by) {
     res.innerHTML = `<div class="grid">${visible.map((g) => cardHtml(g, idx.get(g))).join("")}</div>`;
     return;
@@ -192,6 +224,7 @@ function showDetail(g) {
       <p class="pub">${esc(g.publisher)}${g.type !== "Base game" ? ` · ${esc(g.type)}` : ""}</p>
       <p>${esc(g.description)}</p>
       <dl>
+        ${g.cubby ? `<dt>Shelf</dt><dd>${esc(cubbyLabel(g.cubby))}</dd>` : ""}
         <dt>Players</dt><dd>${playersText(g)}</dd>
         <dt>Length</dt><dd>${timeText(g)}</dd>
         <dt>Ages</dt><dd>${g.minAge}+</dd>
@@ -231,6 +264,10 @@ function fill(id, values) {
 
 async function init() {
   games = await (await fetch("data/games.json", { cache: "no-cache" })).json();
+  try {
+    const [cfg, plan] = await Promise.all(["data/shelf.json", "data/shelf-plan.json"].map((u) => fetch(u, { cache: "no-cache" }).then((r) => r.json())));
+    shelf = { ...cfg, plan };
+  } catch { shelf = null; }
 
   fill("f-players", [1, 2, 3, 4, 5, 6, 7, 8, 9].map(String));
   $("f-players").insertAdjacentHTML("beforeend", `<option value="10">10+</option>`);
@@ -252,7 +289,7 @@ async function init() {
     if (pool.length) showDetail(pool[Math.floor(Math.random() * pool.length)]);
   });
   $("results").addEventListener("click", (e) => {
-    const card = e.target.closest(".card");
+    const card = e.target.closest(".card, [data-i]");
     if (card) showDetail(games[Number(card.dataset.i)]);
   });
   $("detail").addEventListener("click", (e) => { if (e.target === $("detail")) $("detail").close(); });

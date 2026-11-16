@@ -1,0 +1,46 @@
+{
+  "columns": 3,
+  "rows": 4,
+  "cubbyWidth": 32,
+  "cubbyHeight": 17,
+  "fillLimit": 0.78,
+  "kidsSection": "Kids",
+  "sections": [
+    {
+      "name": "Grown-ups only",
+      "note": "Adult-content games (17+), top shelf"
+    },
+    {
+      "name": "Strategy & campaigns",
+      "note": "Longer, heavier games for a planned game night"
+    },
+    {
+      "name": "Co-op",
+      "note": "Everyone wins or loses together"
+    },
+    {
+      "name": "Two-player",
+      "note": "Made for two"
+    },
+    {
+      "name": "Family",
+      "note": "Easy board, tile and dice games for all ages"
+    },
+    {
+      "name": "Card game bin",
+      "note": "Small-box card games, loose in a bin to dig through",
+      "bin": true
+    },
+    {
+      "name": "Party, word & trivia",
+      "note": "Groups, teams, laughing"
+    },
+    {
+      "name": "Kids",
+      "note": "Always on the bottom row"
+    }
+  ],
+  "note": "Sections fill top-left to bottom-right, most expensive first, so cheap and kid-friendly games end up low.",
+  "cubbyDepth": 15,
+  "binPacking": 0.6
+}

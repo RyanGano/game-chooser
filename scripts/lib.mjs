@@ -63,6 +63,22 @@ export async function bggVersion(versionId) {
   };
 }
 
+/** All editions BGG lists for a game: [{id, name}]. */
+export async function bggEditions(gameId) {
+  const d = await getJson(`https://api.geekdo.com/api/geekitems?objecttype=thing&objectid=${gameId}&nosession=1`);
+  await sleep(1000);
+  return (d.item?.links?.boardgameversion ?? []).map((v) => ({ id: Number(v.objectid), name: v.name }));
+}
+
+/** Box size of one edition as [l, w, d] inches, largest first; null when BGG has none. */
+export async function bggVersionSize(versionId) {
+  const d = await getJson(`https://api.geekdo.com/api/geekitems?objecttype=version&objectid=${versionId}&nosession=1`);
+  await sleep(1000);
+  const dims = ["length", "width", "depth"].map((k) => Number(d.item?.[k]) || 0);
+  if (dims.some((x) => x <= 0 || x > 40)) return null;
+  return dims.sort((a, b) => b - a).map((x) => Math.round(x * 10) / 10);
+}
+
 /** Details for one BGG item, from the JSON BoardGameGeek's own site uses. */
 export async function bggItem(id) {
   const d = await getJson(`https://api.geekdo.com/api/geekitems?objecttype=thing&objectid=${id}&nosession=1`);
