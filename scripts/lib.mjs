@@ -46,6 +46,23 @@ async function getJson(url, headers = {}) {
 /** Pull a BGG id out of "https://boardgamegeek.com/boardgame/230802/azul" or a bare "230802". */
 export const parseBggId = (s) => Number(String(s).match(/(?:boardgame(?:expansion|accessory)?\/)?(\d+)/)?.[1]) || null;
 
+/**
+ * A specific edition on BGG (".../boardgameversion/568310/..."): its own box image and
+ * the id of the game it belongs to.
+ */
+export async function bggVersion(versionId) {
+  const d = await getJson(`https://api.geekdo.com/api/geekitems?objecttype=version&objectid=${versionId}&nosession=1`);
+  await sleep(1000);
+  const it = d.item;
+  if (!it?.name) return null;
+  const parent = it.links?.boardgame?.[0] ?? it.links?.boardgameexpansion?.[0];
+  return {
+    name: it.name,
+    gameId: parent ? Number(parent.objectid) : null,
+    image: it["imageurl@2x"] || it.imageurl || undefined,
+  };
+}
+
 /** Details for one BGG item, from the JSON BoardGameGeek's own site uses. */
 export async function bggItem(id) {
   const d = await getJson(`https://api.geekdo.com/api/geekitems?objecttype=thing&objectid=${id}&nosession=1`);

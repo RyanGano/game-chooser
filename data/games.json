@@ -15,7 +15,10 @@
       "Trivia"
     ],
     "theme": "Mystery",
-    "description": "Quick-fire mini mysteries solved from clues read aloud."
+    "description": "Quick-fire mini mysteries solved from clues read aloud.",
+    "bggId": 8133,
+    "image": "https://cf.geekdo-images.com/GEmo3KP_67P1PA5A_Z2NzQ__itemrep/img/nxL3zRfhAUcHaJqzLMi5mcrVoHA=/fit-in/246x300/filters:strip_icc()/pic41006.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/8133"
   },
   {
     "name": "7 Wonders",
@@ -98,7 +101,10 @@
       "Set collection"
     ],
     "theme": "Archaeology",
-    "description": "Dig up artifacts and race to complete collections."
+    "description": "Dig up artifacts and race to complete collections.",
+    "bggId": 286559,
+    "image": "https://cf.geekdo-images.com/MQmKh6w6d5vHIg0j9CBDPg__itemrep@2x/img/iNxUivIESy3H2Uc4SUFaiQGnjBU=/fit-in/492x600/filters:strip_icc()/pic6490317.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/286559"
   },
   {
     "name": "Apples to Apples",
@@ -203,7 +209,10 @@
       "Dice"
     ],
     "theme": "Movies",
-    "description": "Work together across time periods to fix the timeline before it collapses."
+    "description": "Work together across time periods to fix the timeline before it collapses.",
+    "bggId": 292564,
+    "image": "https://cf.geekdo-images.com/CCSUukhDz8EQVJaPoAU4hg__itemrep@2x/img/y0mNSQTG8wZXiCe_9ABRLbE5SZQ=/fit-in/492x600/filters:strip_icc()/pic5265652.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/292564"
   },
   {
     "name": "Backseat Drawing Junior",
@@ -222,7 +231,10 @@
       "Kids"
     ],
     "theme": "Everyday",
-    "description": "One player describes a picture while a teammate draws it blind."
+    "description": "One player describes a picture while a teammate draws it blind.",
+    "bggId": 41332,
+    "image": "https://cf.geekdo-images.com/po6yyc3n6qDYNO_j95TTGg__itemrep@2x/img/FKIhNfiDpHq2XrjDoAYDnTCxx5k=/fit-in/492x600/filters:strip_icc()/pic1229357.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/41332"
   },
   {
     "name": "Balderdash",
@@ -248,13 +260,13 @@
   },
   {
     "name": "Bamboozled: The Bluffing Dice Game",
-    "publisher": "Unknown",
+    "publisher": "Blue Wasatch Games",
     "type": "Base game",
     "minPlayers": 2,
-    "maxPlayers": 6,
+    "maxPlayers": 8,
     "minAge": 8,
-    "minTime": 20,
-    "maxTime": 20,
+    "minTime": 5,
+    "maxTime": 15,
     "difficulty": "Easy",
     "style": "Dice",
     "genres": [
@@ -263,7 +275,9 @@
     ],
     "theme": "Abstract",
     "description": "A bluffing dice game of hidden rolls and bold claims.",
-    "needsReview": true
+    "bggId": 277154,
+    "image": "https://cf.geekdo-images.com/y15leiCYYEglfTYguukN-w__itemrep@2x/img/j5G6ScP58PkomWACz9S5986SQt4=/fit-in/492x600/filters:strip_icc()/pic7632578.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/277154"
   },
   {
     "name": "Bananagrams",
@@ -323,7 +337,10 @@
       "Family"
     ],
     "theme": "Family",
-    "description": "Kids versus parents in a trivia showdown with questions aimed at each side."
+    "description": "Kids versus parents in a trivia showdown with questions aimed at each side.",
+    "bggId": 20422,
+    "image": "https://cf.geekdo-images.com/BBTS1IJxjbaTZFGOpBIZeQ__itemrep@2x/img/JyDLe353yiPLC1oTt0fsLPFLVhQ=/fit-in/492x600/filters:strip_icc()/pic101278.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/20422"
   },
   {
     "name": "Black Box: Guildhall",
@@ -341,7 +358,11 @@
       "Strategy"
     ],
     "theme": "Medieval",
-    "description": "Build sets of professions whose powers let you steal, trade and score."
+    "description": "Build sets of professions whose powers let you steal, trade and score.",
+    "box": "AEG Black Box",
+    "bggId": 169814,
+    "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
   },
   {
     "name": "Black Box: Maximum Throwdown: Overload",
@@ -359,7 +380,11 @@
       "Party"
     ],
     "theme": "Fighting",
-    "description": "Throw cards onto the table to cover opponents and trigger powers."
+    "description": "Throw cards onto the table to cover opponents and trigger powers.",
+    "box": "AEG Black Box",
+    "bggId": 169814,
+    "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
   },
   {
     "name": "Black Box: Seventh Hero",
@@ -377,7 +402,11 @@
       "Family"
     ],
     "theme": "Fantasy",
-    "description": "A fast shedding card game where seven heroes battle to get rid of their hands."
+    "description": "A fast shedding card game where seven heroes battle to get rid of their hands.",
+    "box": "AEG Black Box",
+    "bggId": 169814,
+    "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
   },
   {
     "name": "Black Box: Trains",
@@ -395,7 +424,11 @@
       "Route building"
     ],
     "theme": "Trains",
-    "description": "Deck-building meets route building on a railway map."
+    "description": "Deck-building meets route building on a railway map.",
+    "box": "AEG Black Box",
+    "bggId": 169814,
+    "image": "https://cf.geekdo-images.com/6wyvet2Ru6fI6oIRn5-C6g__itemrep@2x/img/hRXMMWSnxnEZprAzEI2xLS2jqzk=/fit-in/492x600/filters:strip_icc()/pic2356372.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/169814"
   },
   {
     "name": "Blackout: Hong Kong",
@@ -414,7 +447,10 @@
       "Hand management"
     ],
     "theme": "City",
-    "description": "Help Hong Kong recover after a blackout by recruiting specialists and completing objectives."
+    "description": "Help Hong Kong recover after a blackout by recruiting specialists and completing objectives.",
+    "bggId": 262215,
+    "image": "https://cf.geekdo-images.com/jOLEKfuTY4gLszR1h-0Bfw__itemrep@2x/img/Hkd-XjKbFnl6LCAfkCzCFWVj_eI=/fit-in/492x600/filters:strip_icc()/pic4338675.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/262215"
   },
   {
     "name": "Blockbuster",
@@ -439,10 +475,10 @@
     "publisher": "Briarpatch",
     "type": "Base game",
     "minPlayers": 2,
-    "maxPlayers": 4,
+    "maxPlayers": 5,
     "minAge": 8,
-    "minTime": 20,
-    "maxTime": 20,
+    "minTime": 30,
+    "maxTime": 40,
     "difficulty": "Easy",
     "style": "Board",
     "genres": [
@@ -451,7 +487,9 @@
     ],
     "theme": "Abstract",
     "description": "Place pieces to claim space while blocking your opponents.",
-    "needsReview": true
+    "bggId": 29073,
+    "image": "https://cf.geekdo-images.com/kI3AWrpfHbWgb8PQjTMakw__itemrep@2x/img/Xr_DO5GJK8jUqNNGPJW8rPR33G8=/fit-in/492x600/filters:strip_icc()/pic9865792.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/29073"
   },
   {
     "name": "Bounce-Off Rock N Rollz",
@@ -469,7 +507,10 @@
       "Family"
     ],
     "theme": "Abstract",
-    "description": "Bounce balls into the grid to match patterns before your opponent."
+    "description": "Bounce balls into the grid to match patterns before your opponent.",
+    "bggId": 214276,
+    "image": "https://cf.geekdo-images.com/P4JzWM1DxFU07uOPA1dvfA__itemrep@2x/img/3q374HfSHLyL-DCLn47urB-JsVc=/fit-in/492x600/filters:strip_icc()/pic3344670.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/214276"
   },
   {
     "name": "BuyWord",
@@ -509,7 +550,9 @@
     ],
     "theme": "Pop culture",
     "description": "A party game of sending players packing with sass.",
-    "needsReview": true
+    "bggId": 313100,
+    "image": "https://cf.geekdo-images.com/B3ymzCeNVSKDqE2IgImibw__itemrep@2x/img/427ufIfuRGc4zpXMxEmDh9mGAfg=/fit-in/492x600/filters:strip_icc()/pic5501803.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/313100"
   },
   {
     "name": "Carcassonne Big Box",
@@ -528,7 +571,10 @@
       "Strategy"
     ],
     "theme": "Medieval",
-    "description": "Carcassonne plus several expansions in one box."
+    "description": "Carcassonne plus several expansions in one box.",
+    "bggId": 364405,
+    "image": "https://cf.geekdo-images.com/8SxKbbsrNO9lo6y4HACwNQ__itemrep@2x/img/AHNKKwIGL7hExJ5Gf1am9lzznDs=/fit-in/492x600/filters:strip_icc()/pic7319375.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/364405"
   },
   {
     "name": "Carcassonne: Abbey & Mayor",
@@ -582,7 +628,10 @@
       "Cooperative"
     ],
     "theme": "Ghosts",
-    "description": "A cooperative Carcassonne where players fight back spreading ghosts."
+    "description": "A cooperative Carcassonne where players fight back spreading ghosts.",
+    "bggId": 358124,
+    "image": "https://cf.geekdo-images.com/yRFr7i5heyw9pIcuJ50jFw__itemrep@2x/img/Z5V4bao5MPGMABpCPxWtvU8_ZEI=/fit-in/492x600/filters:strip_icc()/pic7336367.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/358124"
   },
   {
     "name": "Carcassonne: The Tower",
@@ -601,7 +650,10 @@
     ],
     "theme": "Medieval",
     "description": "Expansion adding a tower that captures opponents' followers.",
-    "imageLocked": true
+    "imageLocked": true,
+    "bggId": 21385,
+    "image": "https://cf.geekdo-images.com/4yn-h8juUIMaY7WtYGx5ew__itemrep@2x/img/LXFU5C10VSHvhTYUIRoF5m4N9T4=/fit-in/492x600/filters:strip_icc()/pic9210966.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/21385"
   },
   {
     "name": "Cascadia",
@@ -873,8 +925,8 @@
     "name": "Compatibility",
     "publisher": "Unknown",
     "type": "Base game",
-    "minPlayers": 4,
-    "maxPlayers": 8,
+    "minPlayers": 3,
+    "maxPlayers": 6,
     "minAge": 12,
     "minTime": 30,
     "maxTime": 30,
@@ -885,7 +937,9 @@
     ],
     "theme": "Everyday",
     "description": "Partners try to pick the same picture cards for each prompt.",
-    "needsReview": true
+    "bggId": 2604,
+    "image": "https://cf.geekdo-images.com/zYE_qfgGOPHH9cKY_OY4fA__itemrep/img/osrrJiZzmBSSmSJZTon-T5MtVkA=/fit-in/246x300/filters:strip_icc()/pic336536.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/2604"
   },
   {
     "name": "Concentration",
@@ -904,7 +958,10 @@
     ],
     "theme": "TV",
     "description": "Match prizes and solve rebus puzzles, based on the TV show.",
-    "imageLocked": true
+    "imageLocked": true,
+    "bggId": 6798,
+    "image": "https://cf.geekdo-images.com/YXjewBKkxVctxlhEIOhrtQ__itemrep@2x/img/3SxvLNEtQZsIc-vRENdyqmpCPA4=/fit-in/492x600/filters:strip_icc()/pic55050.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/6798"
   },
   {
     "name": "Coup",
@@ -1241,8 +1298,8 @@
     "name": "Family Feud",
     "publisher": "Unknown",
     "type": "Base game",
-    "minPlayers": 3,
-    "maxPlayers": 10,
+    "minPlayers": 2,
+    "maxPlayers": 9,
     "minAge": 8,
     "minTime": 30,
     "maxTime": 30,
@@ -1254,7 +1311,9 @@
     ],
     "theme": "TV",
     "description": "Guess the most popular survey answers, like the TV show.",
-    "needsReview": true
+    "bggId": 5312,
+    "image": "https://cf.geekdo-images.com/jgfERm7A2dM56xvFxcVeoQ__itemrep@2x/img/9AfoM9NN2ii6MQdwqiXN0SfpSpk=/fit-in/492x600/filters:strip_icc()/pic9594826.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/5312"
   },
   {
     "name": "Fire Tower",
@@ -1272,11 +1331,14 @@
       "Take-that"
     ],
     "theme": "Nature & Animals",
-    "description": "Spread a forest fire toward rival lookout towers before they reach yours."
+    "description": "Spread a forest fire toward rival lookout towers before they reach yours.",
+    "bggId": 226605,
+    "image": "https://cf.geekdo-images.com/smRx-veml48bWTsDJFzisQ__itemrep@2x/img/pmssdv6NAx0ogGqsHdzdkwdgEaY=/fit-in/492x600/filters:strip_icc()/pic4081152.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/226605"
   },
   {
     "name": "Fireball Island: Race to Adventure",
-    "publisher": "Restoration Games",
+    "publisher": "Goliath Games",
     "type": "Base game",
     "minPlayers": 2,
     "maxPlayers": 4,
@@ -1310,7 +1372,10 @@
       "Family"
     ],
     "theme": "Classic",
-    "description": "A five-suited rummy game where the wild card changes every round."
+    "description": "A five-suited rummy game where the wild card changes every round.",
+    "bggId": 1472,
+    "image": "https://cf.geekdo-images.com/sPc6K1gC--QrGHkdCmD8MQ__itemrep@2x/img/JoH9cV64cmfiyiUDJEFQtVUGikk=/fit-in/492x600/filters:strip_icc()/pic2869930.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/1472"
   },
   {
     "name": "Flip 7",
@@ -1471,7 +1536,10 @@
       "Cooperative"
     ],
     "theme": "Pulp adventure",
-    "description": "1930s pulp adventurers hunt artifacts around the world while fighting villains."
+    "description": "1930s pulp adventurers hunt artifacts around the world while fighting villains.",
+    "bggId": 95103,
+    "image": "https://cf.geekdo-images.com/ZTonaNNH9zTKfqNVYPVq6Q__itemrep@2x/img/o0X_j_lE2ud6nPCq6YOPG7T5rZk=/fit-in/492x600/filters:strip_icc()/pic946736.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/95103"
   },
   {
     "name": "Fortune and Glory: Treasure Hunters",
@@ -1489,7 +1557,10 @@
       "Adventure"
     ],
     "theme": "Pulp adventure",
-    "description": "Expansion adding new heroes for Fortune and Glory."
+    "description": "Expansion adding new heroes for Fortune and Glory.",
+    "bggId": 140150,
+    "image": "https://cf.geekdo-images.com/e6NBSpTwvWg5iNFpgn1mmA__itemrep@2x/img/gH7yrkzQBTKhcQlupwvSKlgBgW8=/fit-in/492x600/filters:strip_icc()/pic1678397.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/140150"
   },
   {
     "name": "Funglish",
@@ -1507,17 +1578,20 @@
       "Party"
     ],
     "theme": "Words",
-    "description": "Describe a word using only adjective tiles laid out on a board."
+    "description": "Describe a word using only adjective tiles laid out on a board.",
+    "bggId": 62709,
+    "image": "https://cf.geekdo-images.com/K9ahLIoxHImU7__gyKE8rA__itemrep@2x/img/ul-u6xspNIdSengwTNX6tPsGWUk=/fit-in/492x600/filters:strip_icc()/pic1836808.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/62709"
   },
   {
     "name": "Galactic Destiny",
     "publisher": "Golden Laurel Entertainment",
     "type": "Base game",
-    "minPlayers": 2,
-    "maxPlayers": 4,
-    "minAge": 10,
-    "minTime": 30,
-    "maxTime": 60,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minAge": 12,
+    "minTime": 240,
+    "maxTime": 240,
     "difficulty": "Medium",
     "style": "Board",
     "genres": [
@@ -1525,7 +1599,9 @@
     ],
     "theme": "Space",
     "description": "A space strategy game; details need checking.",
-    "needsReview": true
+    "bggId": 25937,
+    "image": "https://cf.geekdo-images.com/MEuWcKXcbb87TxYZUwIQeg__itemrep/img/pM8qckrxK_XQaL-dn-GGDIfezYw=/fit-in/246x300/filters:strip_icc()/pic185541.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/25937"
   },
   {
     "name": "Galaxy Trucker",
@@ -1568,13 +1644,13 @@
   },
   {
     "name": "Giants Moving Tiny Furniture",
-    "publisher": "Unknown",
+    "publisher": "Exploding Kittens",
     "type": "Base game",
-    "minPlayers": 2,
-    "maxPlayers": 6,
-    "minAge": 8,
-    "minTime": 20,
-    "maxTime": 20,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minAge": 7,
+    "minTime": 10,
+    "maxTime": 10,
     "difficulty": "Easy",
     "style": "Dexterity",
     "genres": [
@@ -1583,7 +1659,9 @@
     ],
     "theme": "Humor",
     "description": "A dexterity party game; details need checking.",
-    "needsReview": true
+    "bggId": 452411,
+    "image": "https://cf.geekdo-images.com/rGdYEKT7LPjj-iLly2rhhw__itemrep@2x/img/sAHe26nPo-EjrqiHad8Rdw5PaCY=/fit-in/492x600/filters:strip_icc()/pic9049840.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/452411"
   },
   {
     "name": "Gotcha!",
@@ -1707,10 +1785,10 @@
   },
   {
     "name": "Jishaku",
-    "publisher": "Unknown",
+    "publisher": "RSV Productions",
     "type": "Base game",
     "minPlayers": 2,
-    "maxPlayers": 4,
+    "maxPlayers": 2,
     "minAge": 8,
     "minTime": 15,
     "maxTime": 15,
@@ -1721,7 +1799,9 @@
     ],
     "theme": "Abstract",
     "description": "Place magnetic stones without letting them snap together.",
-    "needsReview": true
+    "bggId": 36783,
+    "image": "https://cf.geekdo-images.com/6F0dZd6fkvV03GMH73XvIw__itemrep@2x/img/fomicR-g9gp3u8Yy8PkMRnDuBEY=/fit-in/492x600/filters:strip_icc()/pic2523095.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/36783"
   },
   {
     "name": "Jungo",
@@ -1757,7 +1837,10 @@
       "Hidden movement"
     ],
     "theme": "Dinosaurs",
-    "description": "Survivors try to escape the island while one player controls the dinosaurs."
+    "description": "Survivors try to escape the island while one player controls the dinosaurs.",
+    "bggId": 245431,
+    "image": "https://cf.geekdo-images.com/VoTupoMFrFa0mcMRXDBv1Q__itemrep@2x/img/2e_GSExbH1kK-p-7eEIttCYmZ5w=/fit-in/492x600/filters:strip_icc()/pic4192157.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/245431"
   },
   {
     "name": "Killer Bunnies and the Quest for the Magic Carrot",
@@ -1840,7 +1923,10 @@
       "Real-time"
     ],
     "theme": "Words",
-    "description": "Shout answers that fit a category; be last when the timer buzzes."
+    "description": "Shout answers that fit a category; be last when the timer buzzes.",
+    "bggId": 17709,
+    "image": "https://cf.geekdo-images.com/wR1ZYgA3DAlyeXkBh0yZdA__itemrep@2x/img/lLwfI-HKs_T1cEPfRD5jKRB6tiY=/fit-in/492x600/filters:strip_icc()/pic1673714.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/17709"
   },
   {
     "name": "Legendary: A Marvel Deck Building Game",
@@ -1979,7 +2065,10 @@
       "Fighting"
     ],
     "theme": "Superheroes",
-    "description": "Marvel heroes battle with unique dice and ability boards."
+    "description": "Marvel heroes battle with unique dice and ability boards.",
+    "bggId": 348406,
+    "image": "https://cf.geekdo-images.com/LEkxd7ts6JwMvNBkz6Eavw__itemrep@2x/img/GhOXM0QcB1tPv-VRqaYdeCau8qA=/fit-in/492x600/filters:strip_icc()/pic6796048.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/348406"
   },
   {
     "name": "Megaland",
@@ -1997,7 +2086,10 @@
       "Engine building"
     ],
     "theme": "Fantasy",
-    "description": "Venture into monster lands for treasure and build up your town."
+    "description": "Venture into monster lands for treasure and build up your town.",
+    "bggId": 251293,
+    "image": "https://cf.geekdo-images.com/246rJgxtKzCuVTmsAfn62g__itemrep@2x/img/HUwqLRrQP273oLl72ezDKEopWL8=/fit-in/492x600/filters:strip_icc()/pic4171243.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/251293"
   },
   {
     "name": "Memory Challenge: Super Mario Edition",
@@ -2055,7 +2147,10 @@
       "Deduction"
     ],
     "theme": "Mystery",
-    "description": "A standalone MicroMacro with a new city map and 16 more cases."
+    "description": "A standalone MicroMacro with a new city map and 16 more cases.",
+    "bggId": 338834,
+    "image": "https://cf.geekdo-images.com/bNuZIssobDbFYaLbgMofgw__itemrep@2x/img/2Qb7x36faxVBK8cJpUKXyhSdu1Y=/fit-in/492x600/filters:strip_icc()/pic6242068.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/338834"
   },
   {
     "name": "MIND MGMT: The Psychic Espionage Game",
@@ -2073,7 +2168,10 @@
       "Deduction"
     ],
     "theme": "Spies",
-    "description": "Recruiters hide from a team of rogue agents in a hidden-movement chase."
+    "description": "Recruiters hide from a team of rogue agents in a hidden-movement chase.",
+    "bggId": 284653,
+    "image": "https://cf.geekdo-images.com/hYP-VIJGRFR8yB78-UN7Rg__itemrep@2x/img/EHtJm8RZJ11inTHs1rGH7ZnLqmE=/fit-in/492x600/filters:strip_icc()/pic5154610.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/284653"
   },
   {
     "name": "Minecraft Card Game?",
@@ -2091,7 +2189,10 @@
       "Set collection"
     ],
     "theme": "Video games",
-    "description": "Mine resources and craft items, Minecraft style."
+    "description": "Mine resources and craft items, Minecraft style.",
+    "bggId": 186265,
+    "image": "https://cf.geekdo-images.com/yDrZGTKs5DARpDbEsB7GlQ__itemrep@2x/img/8P4FLl5hIRtqP1V4zWn_f-nji5Y=/fit-in/492x600/filters:strip_icc()/pic2713068.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/186265"
   },
   {
     "name": "Monopoly Gamer",
@@ -2130,7 +2231,10 @@
       "Family"
     ],
     "theme": "Business",
-    "description": "First player to reach a million dollars wins."
+    "description": "First player to reach a million dollars wins.",
+    "bggId": 130240,
+    "image": "https://cf.geekdo-images.com/VD50JQfjfx1JjkGnSEACaw__itemrep/img/aXPJmHUEkI11TXTQ5wme1sktPYE=/fit-in/246x300/filters:strip_icc()/pic1416585.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/130240"
   },
   {
     "name": "Munchkin",
@@ -2209,7 +2313,10 @@
       "Strategy"
     ],
     "theme": "City",
-    "description": "Claim lots and build skyscrapers in early-1900s Manhattan."
+    "description": "Claim lots and build skyscrapers in early-1900s Manhattan.",
+    "bggId": 174660,
+    "image": "https://cf.geekdo-images.com/HTdnmBGtjaS2hgn9IEta9g__itemrep@2x/img/-TFOJXuQT5nLtJeAjqwJgr1T8pA=/fit-in/492x600/filters:strip_icc()/pic2515532.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/174660"
   },
   {
     "name": "No Thanks!",
@@ -2500,7 +2607,10 @@
       "Family"
     ],
     "theme": "Disney",
-    "description": "Picture-based Disney trivia for the whole family."
+    "description": "Picture-based Disney trivia for the whole family.",
+    "bggId": 175739,
+    "image": "https://cf.geekdo-images.com/niFZ4xjJ3SqVwPs5EKTq1w__itemrep@2x/img/ydqUNQLuy4yGKgc1JtMUwudkKNg=/fit-in/492x600/filters:strip_icc()/pic2471336.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/175739"
   },
   {
     "name": "Poetry for Neanderthals",
@@ -2540,7 +2650,10 @@
       "Humor"
     ],
     "theme": "Everyday",
-    "description": "Everyone points at who best fits each prompt."
+    "description": "Everyone points at who best fits each prompt.",
+    "bggId": 160502,
+    "image": "https://cf.geekdo-images.com/cIO_CS-5EnFm4dRmjX3UgQ__itemrep@2x/img/xfV9xPKLtCEyLaLkH0V4TKXtvy0=/fit-in/492x600/filters:strip_icc()/pic2056577.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/160502"
   },
   {
     "name": "Pop for Sight Words",
@@ -2558,7 +2671,10 @@
       "Kids"
     ],
     "theme": "Food",
-    "description": "Read sight words off popcorn pieces; don't pull a POP!"
+    "description": "Read sight words off popcorn pieces; don't pull a POP!",
+    "bggId": 175028,
+    "image": "https://cf.geekdo-images.com/0HbZw8tOIWrG1p4JSvfkbQ__itemrep@2x/img/uyhhszJO9wyJAn4IFcb-exT6uDg=/fit-in/492x600/filters:strip_icc()/pic2742748.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/175028"
   },
   {
     "name": "Power Grid: Factory Manager",
@@ -2597,7 +2713,10 @@
       "Real-time"
     ],
     "theme": "Abstract",
-    "description": "Race to rebuild patterns with patterned cubes."
+    "description": "Race to rebuild patterns with patterned cubes.",
+    "bggId": 66088,
+    "image": "https://cf.geekdo-images.com/1kn5gs_lLl_tI2poZNxRzQ__itemrep@2x/img/pAgFffPITKvYQAkumKTUrMfvdbM=/fit-in/492x600/filters:strip_icc()/pic957087.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/66088"
   },
   {
     "name": "Quarriors!",
@@ -2727,9 +2846,9 @@
     "name": "Rapidoodle",
     "publisher": "Spin Master",
     "type": "Base game",
-    "minPlayers": 3,
-    "maxPlayers": 8,
-    "minAge": 8,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minAge": 7,
     "minTime": 20,
     "maxTime": 20,
     "difficulty": "Easy",
@@ -2741,7 +2860,9 @@
     ],
     "theme": "Everyday",
     "description": "Fast drawing challenges against the clock.",
-    "needsReview": true
+    "bggId": 182532,
+    "image": "https://cf.geekdo-images.com/AVRSdEqQGZ5OJFdfdlJcQg__itemrep@2x/img/3JV3JMrh-cTZ3mi281L04yZCTqo=/fit-in/492x600/filters:strip_icc()/pic3336014.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/182532"
   },
   {
     "name": "Red7",
@@ -2780,7 +2901,10 @@
       "Puzzle"
     ],
     "theme": "Ocean",
-    "description": "Build a coral reef in 3D patterns to score."
+    "description": "Build a coral reef in 3D patterns to score.",
+    "bggId": 244228,
+    "image": "https://cf.geekdo-images.com/I3BgmkjP3g6cRQ4cejoHrg__itemrep@2x/img/gNlPsSONz03_XE2_SxlMU57wx40=/fit-in/492x600/filters:strip_icc()/pic5376430.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/244228"
   },
   {
     "name": "Reptiles",
@@ -2804,11 +2928,11 @@
     "name": "Reverse Charades",
     "publisher": "Unknown",
     "type": "Base game",
-    "minPlayers": 4,
+    "minPlayers": 2,
     "maxPlayers": 12,
     "minAge": 8,
-    "minTime": 30,
-    "maxTime": 30,
+    "minTime": 15,
+    "maxTime": 15,
     "difficulty": "Easy",
     "style": "Party",
     "genres": [
@@ -2817,7 +2941,9 @@
     ],
     "theme": "Everyday",
     "description": "The whole team acts while one player guesses.",
-    "needsReview": true
+    "bggId": 246158,
+    "image": "https://cf.geekdo-images.com/ClJ58p6PQXR9nhZmCJlpyA__itemrep/img/RcBLJkiANuWzIh27KxL-S8XwK6A=/fit-in/246x300/filters:strip_icc()/pic3976846.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/246158"
   },
   {
     "name": "Risk",
@@ -2968,13 +3094,13 @@
   },
   {
     "name": "Search Party: Chaos at the Park",
-    "publisher": "Unknown",
+    "publisher": "What Do You Meme?",
     "type": "Base game",
-    "minPlayers": 2,
+    "minPlayers": 1,
     "maxPlayers": 4,
-    "minAge": 6,
-    "minTime": 20,
-    "maxTime": 20,
+    "minAge": 8,
+    "minTime": 30,
+    "maxTime": 90,
     "difficulty": "Easy",
     "style": "Board",
     "genres": [
@@ -2983,7 +3109,9 @@
     ],
     "theme": "Outdoors",
     "description": "A search-and-find game; details need checking.",
-    "needsReview": true
+    "bggId": 397613,
+    "image": "https://cf.geekdo-images.com/orakGmoQmRzU1ghwSQGLGQ__itemrep/img/AFjtZD0-qypIvHSgNi1HebfAUuE=/fit-in/246x300/filters:strip_icc()/pic7664711.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/397613"
   },
   {
     "name": "Sequence Dice",
@@ -3001,7 +3129,10 @@
       "Abstract"
     ],
     "theme": "Abstract",
-    "description": "Roll dice to claim spots and make a five-in-a-row sequence."
+    "description": "Roll dice to claim spots and make a five-in-a-row sequence.",
+    "bggId": 5966,
+    "image": "https://cf.geekdo-images.com/MgQdfHPdFvHbh0TQDz8r6A__itemrep@2x/img/9hE3hlZoMpCvMusHUZSnSOWo2II=/fit-in/492x600/filters:strip_icc()/pic1515804.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/5966"
   },
   {
     "name": "SetUp",
@@ -3026,7 +3157,7 @@
   },
   {
     "name": "Shenanigrams",
-    "publisher": "Unknown",
+    "publisher": "Happy Yeti Games",
     "type": "Base game",
     "minPlayers": 2,
     "maxPlayers": 6,
@@ -3065,13 +3196,13 @@
   },
   {
     "name": "Skribble Head",
-    "publisher": "Unknown",
+    "publisher": "Buffalo Games",
     "type": "Base game",
     "minPlayers": 3,
     "maxPlayers": 8,
     "minAge": 8,
-    "minTime": 20,
-    "maxTime": 20,
+    "minTime": 15,
+    "maxTime": 60,
     "difficulty": "Easy",
     "style": "Drawing",
     "genres": [
@@ -3080,7 +3211,9 @@
     ],
     "theme": "Everyday",
     "description": "A drawing party game; details need checking.",
-    "needsReview": true
+    "bggId": 216946,
+    "image": "https://cf.geekdo-images.com/-ipQZiq_QR0FvgOlnzJuhw__itemrep/img/_Clz19-PdOFj3AInjNnJ5FX4iQY=/fit-in/246x300/filters:strip_icc()/pic7592180.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/216946"
   },
   {
     "name": "Skull King",
@@ -3160,7 +3293,10 @@
       "Real-time"
     ],
     "theme": "Everyday",
-    "description": "Race to slap a picture card that matches the clue."
+    "description": "Race to slap a picture card that matches the clue.",
+    "bggId": 210065,
+    "image": "https://cf.geekdo-images.com/-yyGa1WnGQIsLsKk23N07g__itemrep/img/k2gOxy1GiqJEAuBoF6z8q6UvnbM=/fit-in/246x300/filters:strip_icc()/pic7158626.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/210065"
   },
   {
     "name": "Smash Up",
@@ -3342,7 +3478,10 @@
       "Party"
     ],
     "theme": "Everyday",
-    "description": "Build pictures from shape cards for teammates to guess."
+    "description": "Build pictures from shape cards for teammates to guess.",
+    "bggId": 3595,
+    "image": "https://cf.geekdo-images.com/g9HKWgcr9xm87K5lggbT7w__itemrep@2x/img/QlVkaWc2MVbObXpieyXqZE_SpY0=/fit-in/492x600/filters:strip_icc()/pic829005.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/3595"
   },
   {
     "name": "Star Fluxx",
@@ -3381,11 +3520,14 @@
       "Racing"
     ],
     "theme": "Summer camp",
-    "description": "Race through camp activities by building your deck."
+    "description": "Race through camp activities by building your deck.",
+    "bggId": 337787,
+    "image": "https://cf.geekdo-images.com/KshsJJWgb265ZQjcxyZ89w__itemrep@2x/img/P0_CMDutGWydWpt10TjdTTsJG_w=/fit-in/492x600/filters:strip_icc()/pic6149210.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/337787"
   },
   {
     "name": "Surprise Slides: Disney Frozen",
-    "publisher": "Hasbro",
+    "publisher": "Wonder Forge",
     "type": "Base game",
     "minPlayers": 2,
     "maxPlayers": 4,
@@ -3398,7 +3540,10 @@
       "Kids"
     ],
     "theme": "Disney",
-    "description": "A preschool game of sliding characters and surprises."
+    "description": "A preschool game of sliding characters and surprises.",
+    "bggId": 149051,
+    "image": "https://cf.geekdo-images.com/VdtdgAGJiPl8pmfb67PcJA__itemrep/img/1p-Xo5YiK1krUWswFHRNJ0EKQYc=/fit-in/246x300/filters:strip_icc()/pic2371289.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/149051"
   },
   {
     "name": "Sushi Go!",
@@ -3424,7 +3569,7 @@
   },
   {
     "name": "Taboo: Disney",
-    "publisher": "Hasbro",
+    "publisher": "The Op Games",
     "type": "Base game",
     "minPlayers": 4,
     "maxPlayers": 10,
@@ -3438,7 +3583,10 @@
       "Word"
     ],
     "theme": "Disney",
-    "description": "Get your team to guess Disney words without saying the forbidden ones."
+    "description": "Get your team to guess Disney words without saying the forbidden ones.",
+    "bggId": 450101,
+    "image": "https://cf.geekdo-images.com/9EK1_G7Mgo0sIVA8ZsGNlA__itemrep@2x/img/i0jeCnFV5clKZD5lB7RCWU4P1Eo=/fit-in/492x600/filters:strip_icc()/pic9033372.gif",
+    "imageCredit": "https://boardgamegeek.com/boardgame/450101"
   },
   {
     "name": "Tacta",
@@ -3630,13 +3778,13 @@
   },
   {
     "name": "The Gender Gap",
-    "publisher": "Unknown",
+    "publisher": "Irwin Toy",
     "type": "Base game",
-    "minPlayers": 4,
-    "maxPlayers": 12,
-    "minAge": 12,
-    "minTime": 30,
-    "maxTime": 30,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minAge": 13,
+    "minTime": 45,
+    "maxTime": 45,
     "difficulty": "Easy",
     "style": "Trivia",
     "genres": [
@@ -3645,15 +3793,17 @@
     ],
     "theme": "Everyday",
     "description": "Battle-of-the-sexes trivia.",
-    "needsReview": true
+    "bggId": 16086,
+    "image": "https://cf.geekdo-images.com/NygzP5tovO_DdL9bvLP5OA__itemrep/img/mIekhvMiHCwfpOyYwpNbXTAY4CY=/fit-in/246x300/filters:strip_icc()/pic66533.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/16086"
   },
   {
     "name": "The Magical World of Disney Trivia",
-    "publisher": "Unknown",
+    "publisher": "PlayMonster",
     "type": "Base game",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "minAge": 8,
+    "minAge": 6,
     "minTime": 30,
     "maxTime": 30,
     "difficulty": "Easy",
@@ -3664,7 +3814,9 @@
     ],
     "theme": "Disney",
     "description": "Disney trivia.",
-    "needsReview": true
+    "bggId": 364451,
+    "image": "https://cf.geekdo-images.com/DzWC6muEtLq7s_41hHSiWw__itemrep@2x/img/o1NP98Od8Q7NNMJaD3CRCkI5RHM=/fit-in/492x600/filters:strip_icc()/pic6909465.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/364451"
   },
   {
     "name": "The Mind",

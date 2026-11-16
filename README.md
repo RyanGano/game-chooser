@@ -64,6 +64,7 @@ image URL yourself).
 | `style` | The kind of game: `Board`, `Card`, `Dice`, `Tile`, `Party`, `Word`, `Trivia`, `Drawing`, `Dexterity`, `Puzzle`, `Audio`, `Accessory` |
 | `genres` | List; reuse existing ones where possible (`Cooperative`, `Strategy`, `Deck-building`, `Bluffing`…) |
 | `theme` | One setting, e.g. `Fantasy`, `Space`, `Disney`, `Trains` |
+| `box` | Name of a box that holds several games (e.g. `AEG Black Box`); those games are listed separately but shelved together |
 | `bggId` | The number in the game's BoardGameGeek URL |
 | `image` | Cover image URL. Add `"imageLocked": true` to stop scripts replacing it |
 | `needsReview` | `true` marks details that are a best guess; the site shows a note |

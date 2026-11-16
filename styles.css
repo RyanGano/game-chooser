@@ -160,3 +160,4 @@ dialog::backdrop { background: rgb(0 0 0 / 0.45); }
   .detail .cover { max-width: 220px; margin: 0 auto; }
   .view-row label { flex: 1; min-width: 0; }
 }
+.tag.warn { background: color-mix(in srgb, var(--medium) 22%, var(--surface)); color: var(--text); }

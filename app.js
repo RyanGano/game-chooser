@@ -91,7 +91,7 @@ function cardHtml(g, i) {
         <span title="Recommended age">${g.minAge}+</span>
         <span class="diff ${g.difficulty}">${g.difficulty}</span>
       </div>
-      <div>${isExtra(g) ? `<span class="tag exp">${esc(g.type)}</span> ` : ""}<span class="tag">${esc(g.style)}</span> <span class="tag">${esc(g.theme)}</span></div>
+      <div>${g.needsReview ? `<span class="tag warn" title="Details need verification">⚠ verify</span> ` : ""}${isExtra(g) ? `<span class="tag exp">${esc(g.type)}</span> ` : ""}<span class="tag">${esc(g.style)}</span> <span class="tag">${esc(g.theme)}</span></div>
     </div>
   </button>`;
 }
@@ -107,6 +107,7 @@ function readState() {
   for (const f of FILTERS) $(`f-${f}`).value = p.get(f) ?? "";
   $("f-expansions").checked = p.get("extras") === "1";
   $("f-coop").checked = p.get("coop") === "1";
+  $("f-review").checked = p.get("review") === "1";
   $("group").value = p.get("group") ?? "";
   $("sort").value = p.get("sort") ?? "name";
 }
@@ -116,6 +117,7 @@ function writeState() {
   for (const f of FILTERS) if ($(`f-${f}`).value) p.set(f, $(`f-${f}`).value);
   if ($("f-expansions").checked) p.set("extras", "1");
   if ($("f-coop").checked) p.set("coop", "1");
+  if ($("f-review").checked) p.set("review", "1");
   if ($("group").value) p.set("group", $("group").value);
   if ($("sort").value !== "name") p.set("sort", $("sort").value);
   history.replaceState(null, "", p.size ? `#${p}` : location.pathname + location.search);
@@ -140,13 +142,14 @@ function matches(g) {
   if ($("f-publisher").value && !publishers(g).includes($("f-publisher").value)) return false;
   if (!$("f-expansions").checked && isExtra(g)) return false;
   if ($("f-coop").checked && !isCoop(g)) return false;
+  if ($("f-review").checked && !g.needsReview) return false;
   return true;
 }
 
 function render() {
   writeState();
   for (const f of FILTERS) $(`f-${f}`).classList.toggle("active", !!$(`f-${f}`).value);
-  const active = FILTERS.filter((f) => $(`f-${f}`).value).length + ($("f-coop").checked ? 1 : 0) + ($("search").value ? 1 : 0);
+  const active = FILTERS.filter((f) => $(`f-${f}`).value).length + ($("f-coop").checked ? 1 : 0) + ($("f-review").checked ? 1 : 0) + ($("search").value ? 1 : 0);
   $("filters").querySelector("summary").textContent = active ? `Filters (${active} active)` : "Filters";
   const sort = SORTS[$("sort").value] ?? SORTS.name;
   visible = games.filter(matches).sort((a, b) => sort(a, b) || SORTS.name(a, b));
@@ -196,6 +199,7 @@ function showDetail(g) {
         <dt>Style</dt><dd>${esc(g.style)}</dd>
         <dt>Theme</dt><dd>${esc(g.theme)}</dd>
         <dt>Genres</dt><dd class="tags">${g.genres.map((x) => `<span class="tag">${esc(x)}</span>`).join("")}</dd>
+        ${g.box ? `<dt>Box</dt><dd>${esc(g.box)}: shared with ${games.filter((x) => x.box === g.box && x !== g).map((x) => `<button class="link" data-name="${esc(x.name)}">${esc(x.name)}</button>`).join(", ")}</dd>` : ""}
         ${g.expands ? `<dt>Expands</dt><dd><button class="link" data-name="${esc(g.expands)}">${esc(g.expands)}</button></dd>` : ""}
         ${expansions.length ? `<dt>Add-ons</dt><dd>${expansions.map((x) => `<button class="link" data-name="${esc(x.name)}">${esc(x.name)}</button>`).join(", ")}</dd>` : ""}
       </dl>
@@ -217,6 +221,7 @@ function reset() {
   for (const f of FILTERS) $(`f-${f}`).value = "";
   $("f-expansions").checked = false;
   $("f-coop").checked = false;
+  $("f-review").checked = false;
   render();
 }
 
@@ -240,7 +245,7 @@ async function init() {
   if (matchMedia("(max-width: 560px)").matches) $("filters").open = false;
 
   $("search").addEventListener("input", render);
-  for (const id of ["group", "sort", "f-expansions", "f-coop", ...FILTERS.map((f) => `f-${f}`)]) $(id).addEventListener("change", render);
+  for (const id of ["group", "sort", "f-expansions", "f-coop", "f-review", ...FILTERS.map((f) => `f-${f}`)]) $(id).addEventListener("change", render);
   $("reset").addEventListener("click", reset);
   $("random").addEventListener("click", () => {
     const pool = visible.filter((g) => !isExtra(g));
