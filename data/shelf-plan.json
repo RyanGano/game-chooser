@@ -3,10 +3,9 @@
     {
       "id": "A1",
       "sections": [
-        "Grown-ups only",
         "Strategy & campaigns"
       ],
-      "fill": 74
+      "fill": 63
     },
     {
       "id": "A2",
@@ -67,7 +66,7 @@
       "sections": [
         "Party, word & trivia"
       ],
-      "fill": 71
+      "fill": 77
     },
     {
       "id": "D1",
@@ -88,7 +87,7 @@
       "sections": [
         "Party, word & trivia"
       ],
-      "fill": 62
+      "fill": 67
     }
   ]
 }

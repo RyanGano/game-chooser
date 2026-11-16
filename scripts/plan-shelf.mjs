@@ -137,7 +137,10 @@ if (fresh) {
   const newUnits = [];
   for (const [sectionName, list] of sections)
     for (const unit of list) {
-      const home = unit.games.map((g) => byId.get(g.cubby)).find(Boolean);
+      // A unit stays put unless its section changed (then it's placed again, like a new game).
+      const moved = unit.games.some((g) => g.section && g.section !== sectionName);
+      const home = moved ? null : unit.games.map((g) => byId.get(g.cubby)).find(Boolean);
+      if (moved) for (const g of unit.games) { console.log(`↻ ${g.name} changed section (${g.section} → ${sectionName})`); delete g.cubby; delete g.section; }
       if (!home) { newUnits.push([sectionName, unit]); continue; }
       home.used += unit.width;
       home.units.push(unit);

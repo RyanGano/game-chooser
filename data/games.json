@@ -617,7 +617,11 @@
     "theme": "Movies",
     "description": "Teams name, quote and act out movies in a race against the clock.",
     "cubby": "C3",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 272438,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/OixUz80u_9uHo2cax1hjIw__itemrep@2x/img/TuFQLmsoZMayFns0zbNa4gzl_3E=/fit-in/492x600/filters:strip_icc()/pic6348636.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/272438"
   },
   {
     "name": "Blockers!",
@@ -773,7 +777,11 @@
     "theme": "Medieval",
     "description": "Expansion adding abbeys, mayors, barns and wagons.",
     "cubby": "B2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 31784,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/QGzPcd0qfC4VV4aQNj-Oug__itemrep@2x/img/qlZe_x0LpQ9NZGH9_-sBjLDSJHM=/fit-in/492x600/filters:strip_icc()/pic3513934.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/31784"
   },
   {
     "name": "Carcassonne: Amazonas",
@@ -793,7 +801,11 @@
     "theme": "Jungle",
     "description": "A standalone Carcassonne along the Amazon river with boat racing.",
     "cubby": "B2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 206940,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/_4RAdG5_9sBDHweuwo7jhw__itemrep@2x/img/Hq8sor649yCLG7Tni2iB12o_tPU=/fit-in/492x600/filters:strip_icc()/pic3147391.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/206940"
   },
   {
     "name": "Carcassonne: Mists over Carcassonne",
@@ -1032,7 +1044,11 @@
     "description": "An abstract game; details need checking.",
     "needsReview": true,
     "cubby": "B2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 69459,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/g6btwPmGYlw1z32XQ2AXPA__itemrep@2x/img/4yPR8CoeDStowl46Xrmlp1n6das=/fit-in/492x600/filters:strip_icc()/pic4555444.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/69459"
   },
   {
     "name": "Clue",
@@ -1187,7 +1203,11 @@
     "theme": "Disney",
     "description": "Answer Disney questions with color cards.",
     "cubby": "C3",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 277017,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/WbGXKgbJF7Yashr7YPfigg__itemrep@2x/img/pIIVGI1Ptah6WCg74zeZ6s_gnDA=/fit-in/492x600/filters:strip_icc()/pic4669116.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/277017"
   },
   {
     "name": "Compatibility",
@@ -1734,7 +1754,11 @@
     "description": "Race over the island while dodging rolling fireballs.",
     "needsReview": true,
     "cubby": "B2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 345435,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/_EGJ_QBZzM6dQC67kORkQw__itemrep@2x/img/n2ag9c6N2Cl5kAMO7g4L9AtAq3c=/fit-in/492x600/filters:strip_icc()/pic6386589.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/345435"
   },
   {
     "name": "Five Crowns",
@@ -1949,7 +1973,11 @@
     "theme": "Pulp adventure",
     "description": "Expansion adding the Crimson Hand cult and new heroes.",
     "cubby": "A2",
-    "section": "Strategy & campaigns"
+    "section": "Strategy & campaigns",
+    "bggId": 140149,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/DHbs60utzSZjk2mYWUTdMg__itemrep@2x/img/xA9tLJ0Os1Uqf5SdRy-se0fMU_g=/fit-in/492x600/filters:strip_icc()/pic1610080.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/140149"
   },
   {
     "name": "Fortune and Glory: The Cliffhanger Game",
@@ -2272,13 +2300,13 @@
   },
   {
     "name": "I've Never...",
-    "publisher": "Unknown",
+    "publisher": "INI LLC",
     "type": "Base game",
-    "minPlayers": 3,
-    "maxPlayers": 10,
-    "minAge": 17,
-    "minTime": 30,
-    "maxTime": 30,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minAge": 12,
+    "minTime": 60,
+    "maxTime": 60,
     "difficulty": "Easy",
     "style": "Party",
     "genres": [
@@ -2286,10 +2314,14 @@
       "Humor"
     ],
     "theme": "Everyday",
-    "description": "A party game of confessions and things you've never done.",
+    "description": "Kid-friendly \"I've never…\" questions: confess what you have and haven't done, and guess about each other.",
     "needsReview": true,
-    "cubby": "A1",
-    "section": "Grown-ups only"
+    "bggId": 62163,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/zxVVmggfpHJpmnJY9j-k1w__itemrep/img/Py7CTY0tSBSwKQ0sgVjRFfsVUZU=/fit-in/246x300/filters:strip_icc()/pic1657689.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/62163",
+    "cubby": "C3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Jishaku",
@@ -2526,7 +2558,11 @@
     "theme": "Western",
     "description": "Two rustlers collect cattle across a frontier grid of tiles.",
     "cubby": "B1",
-    "section": "Two-player"
+    "section": "Two-player",
+    "bggId": 148290,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/pzKia7m_hIHdfut7cKevXg__itemrep/img/biWPTvcQKVhIfro-o7dLZwU-dI8=/fit-in/246x300/filters:strip_icc()/pic1783744.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/148290"
   },
   {
     "name": "Lords of Waterdeep",
@@ -2953,7 +2989,11 @@
     "theme": "Everyday",
     "description": "Name five things in a category before time runs out.",
     "cubby": "D2",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 282559,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/m2Y5PPsepxICjQryv5tIjw__itemrep@2x/img/kIqFSvshOJ4aa-e2wabpet_ttoo=/fit-in/492x600/filters:strip_icc()/pic4800275.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/282559"
   },
   {
     "name": "New York 1901",
@@ -3312,7 +3352,11 @@
     "description": "A Phase 10 variant with cards that flip the game around.",
     "needsReview": true,
     "cubby": "C2",
-    "section": "Card game bin"
+    "section": "Card game bin",
+    "bggId": 423153,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/1dG1OGplGAEvAfAlCBAf7A__itemrep@2x/img/CxWb1EQ8ByTA2XMFgzOaKlFzO6g=/fit-in/492x600/filters:strip_icc()/pic8266586.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/423153"
   },
   {
     "name": "Pictionary",
@@ -4687,7 +4731,11 @@
     "theme": "Travel",
     "description": "Fly planes around a world map and learn geography on the way.",
     "cubby": "D1",
-    "section": "Kids"
+    "section": "Kids",
+    "bggId": 4558,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/XYOddbCbTs723HQ5AihcPA__itemrep/img/LbmHNd0MIp772N3S9ljwiJ0bPR8=/fit-in/246x300/filters:strip_icc()/pic1623530.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/4558"
   },
   {
     "name": "Tapple",
@@ -4983,7 +5031,11 @@
     "theme": "Pioneer",
     "description": "Make it to Oregon together without dying of dysentery.",
     "cubby": "C2",
-    "section": "Card game bin"
+    "section": "Card game bin",
+    "bggId": 205322,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/DCel3jD_8RTlCwZwUR6Z4w__itemrep@2x/img/cntv3xGXmQpGKZk6Op6tjcbF3-Y=/fit-in/492x600/filters:strip_icc()/pic8898081.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/205322"
   },
   {
     "name": "The Original Tiny Hands Challenge Game",
@@ -5004,7 +5056,11 @@
     "theme": "Humor",
     "description": "Do everyday challenges while wearing tiny hands.",
     "cubby": "D3",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 272991,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/Ei9gdDtDJZmb8I7n5bvOBw__itemrep@2x/img/_C16Nkx1uTa5xzMj8Gtv-yV2ay0=/fit-in/492x600/filters:strip_icc()/pic4622406.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/272991"
   },
   {
     "name": "The Original Wizard Card Game",
@@ -5081,7 +5137,11 @@
     "description": "Do Wimpy Kid challenges in 10 seconds.",
     "needsReview": true,
     "cubby": "D1",
-    "section": "Kids"
+    "section": "Kids",
+    "bggId": 153426,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/akNMJxWwY8xPQ3TUR89bbA__itemrep@2x/img/zzBkhTLX1B23JZKdQ3uxy159YoQ=/fit-in/492x600/filters:strip_icc()/pic1893180.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/153426"
   },
   {
     "name": "The Wizard Always Wins",
@@ -5102,7 +5162,11 @@
     "description": "A wizard-themed card game; details need checking.",
     "needsReview": true,
     "cubby": "C2",
-    "section": "Card game bin"
+    "section": "Card game bin",
+    "bggId": 232829,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/xmxUZccK_PO-Dsgd0FcdFw__itemrep@2x/img/U3vU2NyYXnyPLqto_4VsrskTbHU=/fit-in/492x600/filters:strip_icc()/pic3716016.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/232829"
   },
   {
     "name": "Things...",
@@ -5122,7 +5186,11 @@
     "theme": "Everyday",
     "description": "Write anonymous answers to prompts, then guess who wrote what.",
     "cubby": "D3",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 10934,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/uW55tB9HBOkNIRi5xdDS3A__itemrep@2x/img/l-KYX_-6F4EMHKvDJUohmHqA9Qs=/fit-in/492x600/filters:strip_icc()/pic8139953.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/10934"
   },
   {
     "name": "Ticket to Ride",
@@ -5332,7 +5400,11 @@
     "theme": "Space",
     "description": "A pocket roll-and-write version of Tiny Epic Galaxies.",
     "cubby": "C2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 285826,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/yZL4_F3rIs9epI_QR31oPg__itemrep@2x/img/23MS3nuEpJpy2EFWCK2H5MFX0q0=/fit-in/492x600/filters:strip_icc()/pic4875881.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/285826"
   },
   {
     "name": "UNO",
@@ -5380,7 +5452,11 @@
     "theme": "Classic",
     "description": "UNO where every card is wild.",
     "cubby": "C2",
-    "section": "Card game bin"
+    "section": "Card game bin",
+    "bggId": 352997,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/5ErD2aOFqXUCL8QNoR5aAw__itemrep/img/2eG7lDPIctXLh_7poYgOta3_9aw=/fit-in/246x300/filters:strip_icc()/pic6572165.png",
+    "imageCredit": "https://boardgamegeek.com/boardgame/352997"
   },
   {
     "name": "UNO Flip!",
@@ -5465,18 +5541,17 @@
     "type": "Base game",
     "minPlayers": 3,
     "maxPlayers": 20,
-    "minAge": 17,
+    "minAge": 12,
     "minTime": 30,
     "maxTime": 30,
     "difficulty": "Easy",
     "style": "Party",
     "genres": [
       "Party",
-      "Humor",
-      "Adult"
+      "Humor"
     ],
     "theme": "Pop culture",
-    "description": "Match caption cards to meme photos. Adult content.",
+    "description": "Match caption cards to meme photos. Our copy has the adult cards taken out.",
     "bggId": 226610,
     "image": "https://cf.geekdo-images.com/5Pmk8PrpMHPMg0hG8fJz9w__itemrep/img/WJkMfOO1Wp7vfmHgkrz7Te6j_78=/fit-in/246x300/filters:strip_icc()/pic3749720.png",
     "imageCredit": "https://boardgamegeek.com/boardgame/226610",
@@ -5485,8 +5560,8 @@
       4.8,
       4.5
     ],
-    "cubby": "A1",
-    "section": "Grown-ups only"
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "What Do You Meme? Family",
@@ -5506,7 +5581,11 @@
     "theme": "Pop culture",
     "description": "The kid-friendly version of What Do You Meme?",
     "cubby": "D3",
-    "section": "Party, word & trivia"
+    "section": "Party, word & trivia",
+    "bggId": 311659,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/U-v1wL_A4KXiviHytWU9Yw__itemrep@2x/img/OSjXZBhWdCg4hvnnb3x9QeO8bko=/fit-in/492x600/filters:strip_icc()/pic5574661.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/311659"
   },
   {
     "name": "What Do You Meme? Fresh Memes",
@@ -5515,7 +5594,7 @@
     "expands": "What Do You Meme?",
     "minPlayers": 3,
     "maxPlayers": 20,
-    "minAge": 17,
+    "minAge": 12,
     "minTime": 30,
     "maxTime": 30,
     "difficulty": "Easy",
@@ -5534,8 +5613,8 @@
       4.5,
       1.5
     ],
-    "cubby": "A1",
-    "section": "Grown-ups only"
+    "cubby": "D3",
+    "section": "Party, word & trivia"
   },
   {
     "name": "Where in the World Is Carmen Sandiego?",
@@ -5644,7 +5723,11 @@
     "theme": "Abstract",
     "description": "Stack wonky blocks according to your cards without toppling the tower.",
     "cubby": "C2",
-    "section": "Family"
+    "section": "Family",
+    "bggId": 179217,
+    "bggVerified": true,
+    "image": "https://cf.geekdo-images.com/69XxHTUVrlf35jBq-_3h0g__itemrep@2x/img/cFQ5P6Ttgi5oRX18_UidmkbvUb0=/fit-in/492x600/filters:strip_icc()/pic8172774.jpg",
+    "imageCredit": "https://boardgamegeek.com/boardgame/179217"
   },
   {
     "name": "Would You Rather?",
